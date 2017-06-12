@@ -1,0 +1,6 @@
+C=subset_name
+D=nci_code
+E=fda_pt
+F=fda_synonym
+G=fda_definition
+H=nci_definition

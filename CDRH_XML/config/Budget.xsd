@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:element name="Budget">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="LineItem" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:all>
+              <xsd:element name="AccountCode">
+                <xsd:simpleType>
+                  <xsd:union 
+                       memberTypes="FourDigitCode SixDigitCode"/>
+                </xsd:simpleType> 
+              </xsd:element>
+              <xsd:element name="AccountName">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:maxLength value="160"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="AgencyCode" 
+                           type="ThreeDigitCode"/>
+              <xsd:element name="TreasuryAgencyCode" 
+                           type="TwoDigitCode"/>
+              <xsd:element name="AgencyName">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:maxLength value="89"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="BEACategory">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:enumeration value="Mandatory"/>
+                    <xsd:enumeration value="Discretionary"/>
+                    <xsd:enumeration value="Net interest"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="BureauCode" 
+                           type="TwoDigitCode"/>
+              <xsd:element name="BureauName">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:maxLength value="89"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="On-Off-BudgetIndicator">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:enumeration value="On-budget"/>
+                    <xsd:enumeration value="Off-budget"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="SubfunctionCode" 
+                           type="ThreeDigitCode"/>
+              <xsd:element name="SubfunctionTitle">
+                <xsd:simpleType>
+                  <xsd:restriction base="xsd:string">
+                    <xsd:maxLength value="72"/>
+                  </xsd:restriction>
+                </xsd:simpleType>
+              </xsd:element>
+              <xsd:element name="FY1976" type="xsd:integer"/>
+              <xsd:element name="TransitionQuarter" 
+                           type="xsd:integer"/>
+              <xsd:element name="FY1977" type="xsd:integer"/>
+              <xsd:element name="FY1978" type="xsd:integer"/>
+              <xsd:element name="FY1979" type="xsd:integer"/>
+              <xsd:element name="FY1980" type="xsd:integer"/>
+              <xsd:element name="FY1981" type="xsd:integer"/>
+              <xsd:element name="FY1982" type="xsd:integer"/>
+              <xsd:element name="FY1983" type="xsd:integer"/>
+              <xsd:element name="FY1984" type="xsd:integer"/>
+              <xsd:element name="FY1985" type="xsd:integer"/>
+              <xsd:element name="FY1986" type="xsd:integer"/>
+              <xsd:element name="FY1987" type="xsd:integer"/>
+              <xsd:element name="FY1988" type="xsd:integer"/>
+              <xsd:element name="FY1989" type="xsd:integer"/>
+              <xsd:element name="FY1990" type="xsd:integer"/>
+              <xsd:element name="FY1991" type="xsd:integer"/>
+              <xsd:element name="FY1992" type="xsd:integer"/>
+              <xsd:element name="FY1993" type="xsd:integer"/>
+              <xsd:element name="FY1994" type="xsd:integer"/>
+              <xsd:element name="FY1995" type="xsd:integer"/>
+              <xsd:element name="FY1996" type="xsd:integer"/>
+              <xsd:element name="FY1997" type="xsd:integer"/>
+              <xsd:element name="FY1998" type="xsd:integer"/>
+              <xsd:element name="FY1999" type="xsd:integer"/>
+              <xsd:element name="FY2000" type="xsd:integer"/>
+              <xsd:element name="FY2001" type="xsd:integer"/>
+              <xsd:element name="FY2002" type="xsd:integer"/>
+              <xsd:element name="FY2003" type="xsd:integer"/>
+              <xsd:element name="FY2004" type="xsd:integer"/>
+              <xsd:element name="FY2005" type="xsd:integer"/>
+              <xsd:element name="FY2006" type="xsd:integer"/>
+            </xsd:all>
+          </xsd:complexType>
+         </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>  
+  </xsd:element>
+
+  <xsd:simpleType name="TwoDigitCode">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9][0-9]"/>
+    </xsd:restriction>
+  </xsd:simpleType> 
+  
+  <xsd:simpleType name="ThreeDigitCode">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9][0-9][0-9]"/>
+    </xsd:restriction>
+  </xsd:simpleType> 
+  
+  <xsd:simpleType name="FourDigitCode">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9][0-9][0-9][0-9]"/>
+    </xsd:restriction>
+  </xsd:simpleType> 
+  
+  <xsd:simpleType name="SixDigitCode">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9][0-9][0-9][0-9][0-9][0-9]"/>
+    </xsd:restriction>
+  </xsd:simpleType> 
+  
+</xsd:schema>
