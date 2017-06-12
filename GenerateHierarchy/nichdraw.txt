@@ -1,0 +1,1727 @@
+Cerebral_Atrophy	Cerebral Atrophy (NRNT)	Brain_Developmental_Abnormality
+Microcephaly	Microcephalus (NRNT)	Brain_Developmental_Abnormality
+Pervasive_Developmental_Disorder	Pervasive Developmental Disorder (PEDS)	Brain_Developmental_Abnormality
+Tourette_s_Syndrome	Tourette's Syndrome (PEDS)	Brain_Developmental_Abnormality
+Encephalomalacia	Encephalomalacia (NRNT)	Brain_Disorder
+Hydrocephalus	Hydrocephalus (NRNT)	Brain_Disorder
+Encephalopathy	Encephalopathy (PEDS)	Brain_Disorder
+Epilepsy	Epilepsy (NICHD+NRNT)	Brain_Disorder
+Severe_Bronchopulmonary_Dysplasia	Severe Bronchopulmonary Dysplasia (NRNT)	Bronchopulmonary_Dysplasia
+Crash_Caesarean_Section	Crash Caesarean Section (PEDS)	Caesarian_Section
+Emergency_Caesarean_Section	Emergency Caesarean Section (PEDS)	Caesarian_Section
+Mucopolysaccharidosis	Mucopolysaccharidosis (NRNT)	Carbohydrate_Metabolism_Disorder
+Cardiac_Compression_during_Initial_Resuscitation	Cardiac Compression During Initial Resuscitation (NRNT)	Cardiac_Resuscitation
+Dilated_Cardiomyopathy	Dilated Cardiomyopathy (NRNT)	Cardiomyopathy
+Aneurysm	Aneurysm (NRNT)	Cardiovascular_Disorder
+Cerebrovascular_Disorder	Cerebrovascular Disease (NRNT)	Cardiovascular_Disorder
+Heart_Disease	Heart Disease (NRNT)	Cardiovascular_Disorder
+Hemorrhage	Hemorrhage (NRNT)	Cardiovascular_Disorder
+Pseudoaneurysm	Pseudoaneurysm (NRNT)	Cardiovascular_Disorder
+Pulmonary_Artery_Stenosis	Pulmonary Artery Stenosis (NRNT)	Cardiovascular_Disorder
+Pulmonary_Embolism	Pulmonary Embolism (NRNT)	Cardiovascular_Disorder
+Renal_Vascular_Disorder	Renal Vascular Disorder (NRNT)	Cardiovascular_Disorder
+Thrombosis	Thrombosis of Blood Vessel (NRNT)	Cardiovascular_Disorder
+Venous_Stenosis	Venous Stenosis (NRNT)	Cardiovascular_Disorder
+Hypertension	Hypertensive Disorder (PEDS)	Cardiovascular_Disorder
+Aortic_Stenosis	Aortic Valve Stenosis (NRNT)	Cardiovascular_System_Finding
+Aortic_Coarctation	Coarctation of Aorta (NRNT)	Cardiovascular_System_Finding
+Complete_Atrioventricular_Canal_Defect_Balanced	Complete Atrioventricular Canal Defect (Balanced) (NRNT)	Cardiovascular_System_Finding
+Complete_Atrioventricular_Canal_Defect_Unbalanced	Complete Atrioventricular Canal Defect (Unbalanced) (NRNT)	Cardiovascular_System_Finding
+Hypotension	Low Blood Pressure (NRNT)	Cardiovascular_System_Finding
+Mitral_Regurgitation	Mitral Valve Regurgitation (NRNT)	Cardiovascular_System_Finding
+Mitral_Stenosis	Mitral Valve Stenosis (NRNT)	Cardiovascular_System_Finding
+Pulmonary_Stenosis	Pulmonic Valve Stenosis (NRNT)	Cardiovascular_System_Finding
+Tricuspid_Regurgitation	Tricuspid Valve Regurgitation (NRNT)	Cardiovascular_System_Finding
+Tricuspid_Stenosis	Tricuspid Valve Stenosis (NRNT)	Cardiovascular_System_Finding
+Heart_Murmur	Heart Murmur (NICHD+NRNT)	Cardiovascular_System_Finding
+Great_Blood_Vessel	Structure of Great Blood Vessel (NRNT)	Cardiovascular_System_Part
+Acquired_Cataract	Acquired Cataract (NRNT)	Cataract
+Bilateral_Cataracts	Bilateral Cataracts (NRNT)	Cataract
+Acquired_Unilateral_Cataract	Cataract, Acquired, Unilateral (NRNT)	Cataract
+Congenital_Cataract	Congenital Cataract (NRNT)	Cataract
+Orbital_Cellulitis	Orbital Cellulitis (NRNT)	Cellulitis
+Echolalia	Echolalia (PEDS)	Central_Auditory_Processing_Disorder
+Perinatal_Central_Nervous_System_Depression	Central Nervous System Depression (NRNT)	Central_Nervous_System_Disorder
+Meningocele	Meningocele (NRNT)	Central_Nervous_System_Disorder
+Myelocele	Myelocele (NRNT)	Central_Nervous_System_Disorder
+Myelomeningocele	Myelomeningocele (NRNT)	Central_Nervous_System_Disorder
+Neuroblastoma	Neuroblastoma (NRNT)	Central_Nervous_System_Disorder
+Brain_Disorder	Brain Disorder (PEDS)	Central_Nervous_System_Disorder
+Face_Presentation	Face Presentation (PEDS)	Cephalic_Presentation
+Vertex_Presentation	Vertex Presentation (PEDS)	Cephalic_Presentation
+Ataxic_Cerebral_Palsy	Ataxic Cerebral Palsy (PEDS)	Cerebral_Palsy
+Athetoid_Cerebral_Palsy	Athetoid Cerebral Palsy (PEDS)	Cerebral_Palsy
+Mixed_Cerebral_Palsy	Mixed Cerebral Palsy (PEDS)	Cerebral_Palsy
+Spastic_Diplegia	Spastic Diplegia (NICHD+NRNT)	Cerebral_Palsy
+Intracranial_Hemorrhage	Intracranial Hemorrhage (NRNT)	Cerebrovascular_Disorder
+Subependymal_Hemorrhage	Perinatal Subependymal Hemorrhage  with Intraventricular and Intracerebral Extension (NRNT)	Cerebrovascular_Disorder
+Intraventricular_Brain_Hemorrhage	Intraventricular Hemorrhage (PEDS)	Cerebrovascular_Disorder
+Blood_Pressure	Blood Pressure (PEDS)	Characteristics
+Weight_of_Body	Body Weight (PEDS)	Characteristics
+General_Appearance	General Appearance (PEDS)	Characteristics
+Heart_Rhythm	Heart Rhythm (PEDS)	Characteristics
+Large_for_Gestational_Age	Large for Gestational Age (PEDS)	Characteristics
+Length	Length (PEDS)	Characteristics
+Modality	Modality (PEDS)	Characteristics
+Physical_Symmetry	Physical Symmetry (PEDS)	Characteristics
+Sex	Sex (PEDS)	Characteristics
+Temperature	Temperature (PEDS)	Characteristics
+Infant	Infant (PEDS)	Child_Offspring
+Newborn	Newborn (PEDS)	Child_Offspring
+Toddler	Toddler (PEDS)	Child_Offspring
+Adolescence	Adolescence (PEDS)	Childhood
+Early_Childhood	Early Childhood (PEDS)	Childhood
+Embryonic_Stage	Embryonic Stage (PEDS)	Childhood
+Fetal_Life_Stage	Fetal Stage (PEDS)	Childhood
+Infancy	Infant Stage (PEDS)	Childhood
+Middle_Childhood	Middle Childhood (PEDS)	Childhood
+Full_Term_Neonatal_Stage	Neonatal Stage (PEDS)	Childhood
+Toddler_Life_Stage	Toddler Stage (PEDS)	Childhood
+Total_Parenteral_Nutrition-Associated_Cholestasis	TPN Acquired Cholestasis (NRNT)	Cholestasis
+Bronchomalacia	Bronchomalacia (NRNT)	Chronic_Lung_Disorder
+Pulmonary_Fibrosis	Interstitial Lung Disease (NRNT)	Chronic_Lung_Disorder
+Acquired_Chylothorax	Acquired Chylothorax (NRNT)	Chylothorax
+Congenital_Chylothorax	Congenital Chylothorax (NRNT)	Chylothorax
+Hemihypertrophy	Congenital Hemihypertrophy (NRNT)	Clinical_Test_Result
+Morphologic_Finding	Morphologically Abnormal Structure (NRNT)	Clinical_Test_Result
+Normal_Pupillary_Response	Pupil Reactions Normal (NRNT)	Clinical_Test_Result
+Elevated_Test_Result	Elevated Test Result (PEDS)	Clinical_Test_Result
+Test_Result	Laboratory Test Result (PEDS)	Clinical_Test_Result
+Pupils_Equal_Round_and_Reactive_to_Light_and_Accommodation_Result	Pupils Equal Round and Reactive to Light and Accommodation Result (PEDS)	Clinical_Test_Result
+Pupils_Equal_Round_and_Reactive_to_Light_Result	Pupils Equal Round and Reactive to Light Result (NICHD+NRNT)	Clinical_Test_Result
+Acquired_Coagulation_Factor_Deficiency	Acquired Coagulation Factor Deficiency (NRNT)	Coagulation_Disorder
+Antithrombin_III_Deficiency	Antithrombin III Deficiency (NRNT)	Coagulation_Disorder
+Coagulation_Disorder_due_to_Liver_Dysfunction	Blood Coagulation Disorder due to Liver Disease (NRNT)	Coagulation_Disorder
+Coagulation_Factor_Deficiency	Coagulation Factor Deficiency Syndrome (NRNT)	Coagulation_Disorder
+Disseminated_Intravascular_Coagulation	Disseminated Intravascular Coagulation (NRNT)	Coagulation_Disorder
+Coagulative_Necrosis	Ischemic Necrosis (NRNT)	Coagulation_Disorder
+Congenital_Bleeding_Disorder	Congenital Bleeding Defect (PEDS)	Coagulation_Disorder
+Hereditary_Coagulation_Factor_Deficiency	Hereditary Coagulation Factor Deficiency (NRNT)	Coagulation_Factor_Deficiency
+High_Molecular_Weight_Kininogen_Deficiency	High Molecular Weight Kininogen Deficiency (NRNT)	Coagulation_Factor_Deficiency
+Prekallikrein_Deficiency	Prekallikrein Deficiency (NRNT)	Coagulation_Factor_Deficiency
+Vitamin_K_Deficiency	Vitamin K Deficiency Coagulation Disorder (NRNT)	Coagulation_Factor_Deficiency
+von_Willebrand_Disease	Von Willebrand Disorder (NRNT)	Coagulation_Factor_Deficiency
+Ehlers-Danlos_Syndrome	Ehlers-Danlos Syndrome (NRNT)	COL1A1_Associated_Connective_Tissue_Disorder
+Osteogenesis_Imperfecta	Osteogenesis Imperfecta (NRNT)	COL1A1_Associated_Connective_Tissue_Disorder
+Coloboma_of_Eyelid	Coloboma of Eyelid (NRNT)	Coloboma_of_the_Eye
+Coloboma_of_the_Iris	Coloboma of Iris (NRNT)	Coloboma_of_the_Eye
+Congenital_Complete_Atrioventricular_Block	Congenital Complete Atrioventricular Block (NRNT)	Complete_Heart_Block
+Hemoglobinopathy	Hemoglobinopathy (NRNT)	Congenital_Abnormalities_of_Erythrocyte_Differentiation_or_Function
+Hereditary_Pyropoikilocytosis	Hereditary Pyropoikilocytosis (NRNT)	Congenital_Abnormalities_of_Erythrocyte_Differentiation_or_Function
+Anemia_of_Prematurity	Anemia of Prematurity (NICHD+NRNT)	Congenital_Abnormalities_of_Erythrocyte_Differentiation_or_Function
+Congenital_Bleeding_Disorder	Congenital Coagulation Defect (PEDS)	Congenital_Abnormalities_of_Erythrocyte_Differentiation_or_Function
+Laryngeal_Agenesis	Agenesis of Larynx (NRNT)	Congenital_Abnormality
+Amelia	Amelia (NRNT)	Congenital_Abnormality
+Congenital_Eye_Disorder	Congenital Abnormality of Visual System (NRNT)	Congenital_Abnormality
+Congenital_Adrenal_Hyperplasia	Congenital Adrenal Hyperplasia (NRNT)	Congenital_Abnormality
+Congenital_Hamartoma	Congenital Hamartoma (NRNT)	Congenital_Abnormality
+Goldenhar_Syndrome	Goldenhar Syndrome (NRNT)	Congenital_Abnormality
+Hemimelia	Hemimelia (NRNT)	Congenital_Abnormality
+Lithium_Induced_Birth_Defect	Lithium-Induced Birth Defects (NRNT)	Congenital_Abnormality
+Persistent_Cloaca	Persistent Cloaca (NRNT)	Congenital_Abnormality
+Phocomelia	Phocomelia (NRNT)	Congenital_Abnormality
+Thalidomide-Induced_Birth_Defect	Thalidomide Embryopathy Syndrome (NRNT)	Congenital_Abnormality
+Congenital_Cardiovascular_Abnormality	Congenital Abnormality of the Circulatory System (NICHD+NRNT)	Congenital_Abnormality
+Congenital_Genitourinary_Abnormality	Congenital Abnormality of the Genitourinary System (PEDS)	Congenital_Abnormality
+Congenital_Musculoskeletal_Defect	Congenital Abnormality of the Musculoskeletal System (NICHD+NRNT)	Congenital_Abnormality
+Congenital_Nervous_System_Disorder	Congenital Abnormality of the Nervous System (NICHD+NRNT)	Congenital_Abnormality
+Congenital_Respiratory_System_Disorder	Congenital Abnormality of the Respiratory System (NICHD+NRNT)	Congenital_Abnormality
+Congenital_Skin_Disorder	Congenital Abnormality of the Skin (PEDS)	Congenital_Abnormality
+Systemic_Congenital_Disorder	Systemic Congenital Disorder (PEDS)	Congenital_Abnormality
+Pelvic_Kidney	Congenital Pelvic Kidney (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Posterior_Urethral_Valves	Congenital Posterior Urethral Valves (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Duplex_Kidney	Double Kidney (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Duplicated_Ureter	Double Ureter (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Horseshoe_Kidney	Horseshoe Kidney (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Patent_Urachus	Patent Urachus (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+Renal_Agenesis	Renal Agenesis (NRNT)	Congenital_Abnormality_of_the_Urinary_System
+F5_Leiden_Allele	Factor V Leiden Mutation (NRNT)	Congenital_Bleeding_Disorder
+Hemophilia	Hemophilia (NRNT)	Congenital_Bleeding_Disorder
+Hereditary_Coagulation_Factor_Deficiency	Hereditary Coagulation Factor Deficiency (NRNT)	Congenital_Bleeding_Disorder
+Protein_C_Deficiency	Protein C Deficiency Disease (NRNT)	Congenital_Bleeding_Disorder
+Protein_S_Deficiency	Protein S Deficiency Disease (NRNT)	Congenital_Bleeding_Disorder
+Pulmonary_Arteriovenous_Fistula	Arteriovenous Fistula of Pulmonary Vessels (NRNT)	Congenital_Cardiovascular_Abnormality
+Hepatic_Arteriovenous_Malformation	Arteriovenous Malformation of Liver (NRNT)	Congenital_Cardiovascular_Abnormality
+Congenital_Septal_Defect	Cardiac Septal Defects (NRNT)	Congenital_Cardiovascular_Abnormality
+Cerebral_Arteriovenous_Malformation	Cerebral Arteriovenous Malformation (NRNT)	Congenital_Cardiovascular_Abnormality
+Atrioventricular_Septal_Defect	Common Atrioventricular Canal (NRNT)	Congenital_Cardiovascular_Abnormality
+Persistent_Truncus_Arteriosus	Common Truncus Arteriosus (NRNT)	Congenital_Cardiovascular_Abnormality
+Common_Ventricle_Disorder	Common Ventricle (NRNT)	Congenital_Cardiovascular_Abnormality
+Total_Anomalous_Pulmonary_Venous_Return	Congenital Anomaly of Pulmonary Veins (NRNT)	Congenital_Cardiovascular_Abnormality
+Aortic_Valve_Atresia	Congenital Atresia of Aortic Valve (NRNT)	Congenital_Cardiovascular_Abnormality
+Mitral_Valve_Atresia	Congenital Atresia of Mitral Valve (NRNT)	Congenital_Cardiovascular_Abnormality
+Tricuspid_Atresia	Congenital Atresia of Tricuspid Valve (NRNT)	Congenital_Cardiovascular_Abnormality
+Cor_Triatriatum	Cor Triatriatum (NRNT)	Congenital_Cardiovascular_Abnormality
+Coronary_Anomaly	Coronary Anomalies (Includes Aneurysm, Anomalous) (NRNT)	Congenital_Cardiovascular_Abnormality
+Dextrocardia_Situs_Solitus	Dextrocardia, Normal Situs (NRNT)	Congenital_Cardiovascular_Abnormality
+Discordant_Ventriculoarterial_Connection	Discordant Ventriculoarterial Connection (NRNT)	Congenital_Cardiovascular_Abnormality
+Double_Outlet_Right_Ventricle	Double Outlet Right Ventricle (NRNT)	Congenital_Cardiovascular_Abnormality
+Ebstein_Anomaly	Ebstein's Anomaly of Tricuspid Valve (NRNT)	Congenital_Cardiovascular_Abnormality
+Great_Vessels_Abnormality	Great Vessel Abnormality (NRNT)	Congenital_Cardiovascular_Abnormality
+Partial_Anomalous_Pulmonary_Venous_Return	Partial Anomalous Pulmonary Venous Connection (NRNT)	Congenital_Cardiovascular_Abnormality
+Persistent_Fetal_Circulation_Syndrome	Persistent Pulmonary Hypertension of the Newborn (NRNT)	Congenital_Cardiovascular_Abnormality
+Premature_Closure_of_the_Ductus_Arteriosus	Premature Closure of the Ductus Arteriosus (NRNT)	Congenital_Cardiovascular_Abnormality
+Pulmonary_Valve_Atresia	Pulmonary Valve Atresia (NRNT)	Congenital_Cardiovascular_Abnormality
+Aortic_Arch_Syndrome	Right Aortic Arch (NRNT)	Congenital_Cardiovascular_Abnormality
+Shone_Syndrome	Shone's Syndrome (Greater than 3 Sites) (NRNT)	Congenital_Cardiovascular_Abnormality
+Single_Ventricle_Defect	Single Ventricle (NRNT)	Congenital_Cardiovascular_Abnormality
+Dextrocardia	Dextrocardia (NICHD+NRNT)	Congenital_Cardiovascular_Abnormality
+Congenital_Bilateral_Cataracts	Cataract, Congenital, Bilateral (NRNT)	Congenital_Cataract
+Congenital_Unilateral_Cataract	Cataract, Congenital, Unilateral (NRNT)	Congenital_Cataract
+Anophthalmos	Anophthalmos (NRNT)	Congenital_Eye_Disorder
+Cogan-Reese_Syndrome	Cogan-Reese Syndrome (NRNT)	Congenital_Eye_Disorder
+Congenital_Cataract	Congenital Cataract (NRNT)	Congenital_Eye_Disorder
+Cryptophthalmos_Syndrome	Cryptophthalmos Syndrome (NRNT)	Congenital_Eye_Disorder
+Coloboma_of_the_Eye	Fundus Coloboma (NRNT)	Congenital_Eye_Disorder
+Microphthalmos	Microphthalmos (NRNT)	Congenital_Eye_Disorder
+Annular_Pancreas	Annular Pancreas (NRNT)	Congenital_Gastrointestinal_Disorder
+Large_Intestinal_Atresia	Atresia of Large Intestine (NRNT)	Congenital_Gastrointestinal_Disorder
+Atresia_of_Colon	Congenital Atresia of Colon (NRNT)	Congenital_Gastrointestinal_Disorder
+Biliary_Atresia	Congenital Biliary Atresia (NRNT)	Congenital_Gastrointestinal_Disorder
+Esophageal_Duplication	Congenital Duplication of Esophagus (NRNT)	Congenital_Gastrointestinal_Disorder
+Intestinal_Duplication	Congenital Duplication of Intestine (NRNT)	Congenital_Gastrointestinal_Disorder
+Meconium_Ileus	Cystic Fibrosis  with Meconium Ileus (NRNT)	Congenital_Gastrointestinal_Disorder
+Gastroschisis	Gastroschisis (NRNT)	Congenital_Gastrointestinal_Disorder
+Aganglionic_Megacolon	Hirschsprung's Disease (NRNT)	Congenital_Gastrointestinal_Disorder
+Imperforate_Anus	Imperforate Anus (NRNT)	Congenital_Gastrointestinal_Disorder
+Intestinal_Malrotation	Intestinal Malrotation (NRNT)	Congenital_Gastrointestinal_Disorder
+Low_Anorectal_Malformation	Low Anorectal Malformation (NRNT)	Congenital_Gastrointestinal_Disorder
+Meckel_Diverticulum	Meckel's Diverticulum (NRNT)	Congenital_Gastrointestinal_Disorder
+Microcolon	Microcolon (NRNT)	Congenital_Gastrointestinal_Disorder
+Short_Bowel_Syndrome	Short Bowel Syndrome (NRNT)	Congenital_Gastrointestinal_Disorder
+Small_Intestinal_Atresia	Atresia of Small Intestine (PEDS)	Congenital_Gastrointestinal_Disorder
+Cleft_Lip	Cleft Lip (PEDS)	Congenital_Gastrointestinal_Disorder
+Cleft_Palate	Cleft Palate (PEDS)	Congenital_Gastrointestinal_Disorder
+Esophageal_Atresia	Esophageal Atresia (NICHD+NRNT)	Congenital_Gastrointestinal_Disorder
+Necrotizing_Enterocolitis	Necrotizing Enterocolitis (NICHD+NRNT)	Congenital_Gastrointestinal_Disorder
+Congenital_Abnormality_of_the_Urinary_System	Congenital Abnormality of the Urinary System (NRNT)	Congenital_Genitourinary_Abnormality
+Penile_Agenesis	Congenital Absence of Penis (NRNT)	Congenital_Genitourinary_Abnormality
+Congenital_Hydronephrosis	Congenital Hydronephrosis (NRNT)	Congenital_Genitourinary_Abnormality
+Penoscrotal_Transposition	Congenital Penoscrotal Transposition (NRNT)	Congenital_Genitourinary_Abnormality
+Epispadias	Epispadias (NRNT)	Congenital_Genitourinary_Abnormality
+Hypospadias	Hypospadias (NRNT)	Congenital_Genitourinary_Abnormality
+Uterine_Agenesis	Uterus Absent (NRNT)	Congenital_Genitourinary_Abnormality
+Labial_Fusion	Labial Fusion (PEDS)	Congenital_Genitourinary_Abnormality
+Undescended_Testis	Undescended Testis (NICHD+NRNT)	Congenital_Genitourinary_Abnormality
+Aortic_Insufficiency	Congenital Insufficiency of Aortic Valve (NRNT)	Congenital_Heart_Disease
+Pulmonary_Valve_Regurgitation	Congenital Insufficiency of Pulmonary Valve (NRNT)	Congenital_Heart_Disease
+Left_Ventricular_Outflow_Tract_Obstruction	Left Ventricular Outflow Tract Obstruction (NRNT)	Congenital_Heart_Disease
+Long_QT_Syndrome	Long QT Syndrome (NRNT)	Congenital_Heart_Disease
+Patent_Ductus_Arteriosus	Patent Ductus Arteriosus (NRNT)	Congenital_Heart_Disease
+Tetralogy_of_Fallot	Tetralogy of Fallot (NRNT)	Congenital_Heart_Disease
+Alveolar_Capillary_Dysplasia	Alveolar Capillary Dysplasia (NRNT)	Congenital_Lung_Malformation
+Congenital_Cystic_Adenomatoid_Malformation_of_the_Lung	Congenital Cystic Adenomatoid Malformation of Lung (NRNT)	Congenital_Lung_Malformation
+Congenital_Lobar_Emphysema	Congenital Lobar Emphysema (NRNT)	Congenital_Lung_Malformation
+Congenital_Pulmonary_Lymphangiectasia	Congenital Pulmonary Lymphangiectasis (NRNT)	Congenital_Lung_Malformation
+Bronchopulmonary_Sequestration	Congenital Sequestration of Lung (NRNT)	Congenital_Lung_Malformation
+Pulmonary_Hypoplasia	Pulmonary Trunk Hypoplasia (NRNT)	Congenital_Lung_Malformation
+Congenital_Malformation_Syndrome_due_to_Known_Exogenous_Cause	Congenital Malformation Syndrome due to Known Exogenous Cause (NRNT)	Congenital_Malformation_Syndrome
+Escobar_Syndrome	Escobar Syndrome (NRNT)	Congenital_Malformation_Syndrome
+Achondroplasia	Achondroplasia (NRNT)	Congenital_Musculoskeletal_Defect
+Arthrogryposis	Arthrogryposis (NRNT)	Congenital_Musculoskeletal_Defect
+Campomelic_Dysplasia	Camptomelic Dysplasia (NRNT)	Congenital_Musculoskeletal_Defect
+Chondrodysplasia_Punctata	Chondrodysplasia Punctata (Stippled Epiphyses) Group (NRNT)	Congenital_Musculoskeletal_Defect
+Congenital_Diaphragmatic_Hernia	Congenital Diaphragmatic Hernia (NRNT)	Congenital_Musculoskeletal_Defect
+Radial_Hypoplasia	Congenital Hypoplasia of Radius (NRNT)	Congenital_Musculoskeletal_Defect
+Thumb_Hypoplasia	Congenital Malformation of Thumb (NRNT)	Congenital_Musculoskeletal_Defect
+Omphalocele	Congenital Omphalocele (NRNT)	Congenital_Musculoskeletal_Defect
+Osteochondrodysplasia	Congenital Skeletal Dysplasia (NRNT)	Congenital_Musculoskeletal_Defect
+Craniosynostosis	Craniosynostosis Syndrome (NRNT)	Congenital_Musculoskeletal_Defect
+Caudal_Regression_Syndrome	Sacral Agenesis (NRNT)	Congenital_Musculoskeletal_Defect
+Thanatophoric_Dysplasia	Thanatophoric Dysplasia (NRNT)	Congenital_Musculoskeletal_Defect
+Clubbing_of_Fingers	Clubbing of Fingers (NICHD+NRNT)	Congenital_Musculoskeletal_Defect
+Clubfoot	Clubfoot (NICHD+NRNT)	Congenital_Musculoskeletal_Defect
+Micrognathism	Micrognathism (NICHD+NRNT)	Congenital_Musculoskeletal_Defect
+Polydactyly	Polydactyly (NICHD+NRNT)	Congenital_Musculoskeletal_Defect
+Syndactyly	Syndactyly (NICHD+NRNT)	Congenital_Musculoskeletal_Defect
+Corpus_Callosum_Agenesis	Agenesis of Corpus Callosum (NRNT)	Congenital_Nervous_System_Disorder
+Anencephaly	Anencephalus (NRNT)	Congenital_Nervous_System_Disorder
+Aprosencephaly	Aprosencephaly (NRNT)	Congenital_Nervous_System_Disorder
+Arnold-Chiari_Malformation	Chiari Malformation (NRNT)	Congenital_Nervous_System_Disorder
+Congenital_Cerebellar_Hypoplasia	Congenital Cerebellar Hypoplasia (NRNT)	Congenital_Nervous_System_Disorder
+Craniorachischisis	Craniorachischisis (NRNT)	Congenital_Nervous_System_Disorder
+Diastematomyelia	Diastematomyelia (NRNT)	Congenital_Nervous_System_Disorder
+Holoprosencephaly	Holoprosencephaly Sequence (NRNT)	Congenital_Nervous_System_Disorder
+Hydranencephaly	Hydranencephaly (NRNT)	Congenital_Nervous_System_Disorder
+Optic_Nerve_Hypoplasia	Hypoplasia of the Optic Nerve (NRNT)	Congenital_Nervous_System_Disorder
+Classical_Lissencephaly	Lissencephaly (NRNT)	Congenital_Nervous_System_Disorder
+Microgyria	Microgyria (NRNT)	Congenital_Nervous_System_Disorder
+Neuronal_Migration_Disorder	Migration Defects (NRNT)	Congenital_Nervous_System_Disorder
+Phakomatosis	Neurocutaneous Syndrome (NRNT)	Congenital_Nervous_System_Disorder
+Schizencephaly	Schizencephaly (NRNT)	Congenital_Nervous_System_Disorder
+Spinal_Muscular_Atrophy	Spinal Muscular Atrophy (NRNT)	Congenital_Nervous_System_Disorder
+Vein_of_Galen_Malformation	Vein of Galen Malformation (NRNT)	Congenital_Nervous_System_Disorder
+Neural_Tube_Defect	Neural Tube Defect (NICHD+NRNT)	Congenital_Nervous_System_Disorder
+Retrolental_Fibroplasia	Retinopathy of Prematurity (NICHD+NRNT)	Congenital_Nervous_System_Disorder
+Amniotic_Band_Syndrome	Deformity due to Amniotic Band (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+Spinal_Deformity	Deformity of Spine (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+Diaphragm_Eventration	Diaphragmatic Eventration (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+	Dwarfism (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+	Hyperextension Deformity of Knee (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+Macrocephaly	Macrocephaly (NRNT)	Congenital_or_Acquired_Anatomic_Abnormality
+Hernia	Hernia (PEDS)	Congenital_or_Acquired_Anatomic_Abnormality
+Apnea_of_Prematurity	Apnea of Prematurity (NRNT)	Congenital_Respiratory_System_Disorder
+Congenital_Lung_Malformation	Congenital Abnormality of Lung (NRNT)	Congenital_Respiratory_System_Disorder
+Pulmonary_Agenesis	Congenital Absence of Lung (NRNT)	Congenital_Respiratory_System_Disorder
+Tracheal_Agenesis	Congenital Absence of Trachea (NRNT)	Congenital_Respiratory_System_Disorder
+Larynx_Atresia	Congenital Atresia of Larynx (NRNT)	Congenital_Respiratory_System_Disorder
+Tracheal_Atresia	Congenital Atresia of Trachea (NRNT)	Congenital_Respiratory_System_Disorder
+Cystic_Fibrosis	Cystic Fibrosis (NRNT)	Congenital_Respiratory_System_Disorder
+Laryngeal_Cleft	Tracheal Cleft (NRNT)	Congenital_Respiratory_System_Disorder
+Bronchopulmonary_Dysplasia	Bronchopulmonary Dysplasia (NICHD+NRNT)	Congenital_Respiratory_System_Disorder
+Meconium_Aspiration_Syndrome	Meconium Aspiration Syndrome (NICHD+NRNT)	Congenital_Respiratory_System_Disorder
+Neonatal_Respiratory_Distress_Syndrome	Neonatal Respiratory Distress Syndrome (NICHD+NRNT)	Congenital_Respiratory_System_Disorder
+Congenital_Aortic_Septal_Defect	Aortic Septal Defect (NRNT)	Congenital_Septal_Defect
+Atrial_Septal_Defect	Atrial Septal Defect (NRNT)	Congenital_Septal_Defect
+Ventricular_Septal_Defect	Ventricular Septal Defect (NRNT)	Congenital_Septal_Defect
+Albinism	Albinism (NRNT)	Congenital_Skin_Disorder
+Aplasia_Cutis_Congenita	Aplasia Cutis Congenita (NRNT)	Congenital_Skin_Disorder
+Hydroa_Vacciniforme	Congenital Ichthyosis of Skin (NRNT)	Congenital_Skin_Disorder
+Harlequin_Ichthyosis	Harlequin Ichthyosis (NRNT)	Congenital_Skin_Disorder
+Incontinentia_Pigmenti	Incontinentia Pigmenti Syndrome (NRNT)	Congenital_Skin_Disorder
+Ear_Tag	Periauricular Tag (NRNT)	Congenital_Skin_Disorder
+Port_Wine_Type_Hemangioma	Port-Wine Stain of Skin (NRNT)	Congenital_Skin_Disorder
+Ear_Dimple	Ear Dimple (NICHD+NRNT)	Congenital_Skin_Disorder
+Fused_Eyelid	Fused Eyelid (NICHD+NRNT)	Congenital_Skin_Disorder
+Pterygium_Colli	Pterygium Colli (NICHD+NRNT)	Congenital_Skin_Disorder
+Sacral_Dimple	Sacral Dimple (NICHD+NRNT)	Congenital_Skin_Disorder
+Single_Palmar_Crease	Single Palmar Crease (NICHD+NRNT)	Congenital_Skin_Disorder
+Haemophilus_Influenzae_B_Vaccine	Haemophilus Influenzae B Vaccine (PEDS)	Conjugate_Vaccine
+Meningcoccal_Conjugate_Vaccine	Meningococcal Conjugate Vaccine MCV-4 (PEDS)	Conjugate_Vaccine
+Pneumococcal_Conjugate_Vaccine	Pneumococcal Conjugate Vaccine (PEDS)	Conjugate_Vaccine
+Carpenter_Syndrome	Carpenter 's Syndrome (NRNT)	Connective_and_Soft_Tissue_Disorder
+Craniofacial_Dysostosis	Crouzon Syndrome (NRNT)	Connective_and_Soft_Tissue_Disorder
+Spinal_Deformity	Deformity of Spine (NRNT)	Connective_and_Soft_Tissue_Disorder
+Hip_Dislocation	Dislocation of Hip Joint (NRNT)	Connective_and_Soft_Tissue_Disorder
+Connective_Tissue_Disorder	Disorder of Musculoskeletal System (NRNT)	Connective_and_Soft_Tissue_Disorder
+Spasticity	Increased Muscle Tone (NRNT)	Connective_and_Soft_Tissue_Disorder
+Muscular_Dystrophy	Muscular Dystrophy (NRNT)	Connective_and_Soft_Tissue_Disorder
+Myopathy	Myopathy (NRNT)	Connective_and_Soft_Tissue_Disorder
+Myotonic_Disorder	Myotonic Disorder (NRNT)	Connective_and_Soft_Tissue_Disorder
+Polyostotic_Fibrous_Dysplasia_of_Bone	Polyostotic Fibrous Dysplasia of Bone (NRNT)	Connective_and_Soft_Tissue_Disorder
+Saethre_Chotzen_Syndrome	Saethre-Chotzen Syndrome (NRNT)	Connective_and_Soft_Tissue_Disorder
+Acrocephalosyndactyly	Acrocephalosyndactyly (PEDS)	Connective_and_Soft_Tissue_Disorder
+Scoliosis	Scoliosis (NICHD+NRNT)	Connective_and_Soft_Tissue_Disorder
+Hyperextension	Hyperextension Deformity of Knee (NRNT)	Connective_and_Soft_Tissue_Finding
+Increased_Bone_Density	Increased Bone Density (NRNT)	Connective_and_Soft_Tissue_Finding
+Osteopenia	Osteopenia of Prematurity (NRNT)	Connective_and_Soft_Tissue_Finding
+Hereditary_Connective_Tissue_Disorder	Congenital Connective Tissue Disorder (NRNT)	Connective_Tissue_Disorder
+Hormonal_Contraception	Hormonal Method (PEDS)	Contraception
+Sexual_Abstinence	Sexual Abstinence (PEDS)	Contraception
+Surgical_Contraception	Surgical Contraception Method (PEDS)	Contraception
+Withdrawal_Contraception	Withdrawal Contraception (PEDS)	Contraception
+Contraceptive_Cap	Cervical Contraceptive Cap (PEDS)	Contraceptive_Device
+Condom	Condom (PEDS)	Contraceptive_Device
+Contraceptive_Implant	Contraceptive Implant (PEDS)	Contraceptive_Device
+Contraceptive_Patch	Contraceptive Patch (PEDS)	Contraceptive_Device
+Contraceptive_Sponge	Contraceptive Sponge (PEDS)	Contraceptive_Device
+Intrauterine_Device	Intra Uterine Device (PEDS)	Contraceptive_Device
+Oral_Contraceptive	Oral Contraceptive (PEDS)	Contraceptive_Device
+Spermicide	Spermicide (PEDS)	Contraceptive_Device
+Vaginal_Diaphragm	Vaginal Diaphragm (PEDS)	Contraceptive_Device
+Vaginal_Ring_Dosage_Form	Vaginal Ring (PEDS)	Contraceptive_Device
+Subdermal_Birth_Control_Implant	Norplant Subdermal Birth Control Implant (PEDS)	Contraceptive_Implant
+Cyanotic_Attacks_in_Children	Perinatal Cyanotic Attacks (NRNT)	Cyanosis
+Urachal_Cyst	Allantoic Cyst (NRNT)	Cyst
+Arachnoid_Cyst	Arachnoid Cyst (NRNT)	Cyst
+Choledochal_Cyst	Congenital Choledochal Cyst (NRNT)	Cyst
+Central_Nervous_System_Cyst	Cyst of Central Nervous System (NRNT)	Cyst
+Ovarian_Cyst	Cyst of Ovary (NRNT)	Cyst
+Porencephalic_Cyst	Porencephalic Cyst (NRNT)	Cyst
+Renal_Cyst	Solitary Multilocular Renal Cyst (NRNT)	Cyst
+Cystic_Lymphangioma	Cystic Hygroma (NICHD+NRNT)	Cyst
+Dermoid_Cyst	Dermoid Cyst (PEDS)	Cyst
+Thyroglossal_Duct_Cyst	Thyroglossal Duct Cyst (NICHD+NRNT)	Cyst
+Medullary_Sponge_Kidney	Medullary Sponge Kidney (NRNT)	Cystic_Kidney_Disease
+Polycystic_Kidney_Disease	Microcystic Renal Disease (NRNT)	Cystic_Kidney_Disease
+Leigh_Disease	Leigh's Disease (NRNT)	Cytochrome-C_Oxidase_Deficiency
+Numeric_Value	Numeric Value (PEDS)	Data_Value
+Date_of_Birth	Birth Date (PEDS)	Date
+Collection_Date	Collection Date (PEDS)	Date
+Expected_Date_of_Confinement	Expected Date of Confinement (PEDS)	Date
+Last_Screening	Last Screening (PEDS)	Date
+Neurodegenerative_Disorder	Degenerative Disease of the Central Nervous System (NRNT)	Degenerative_Disorder
+Hypernatremic_Dehydration	Hypernatremic Dehydration (NRNT)	Dehydration
+Placental_Schultze_Mechanism	Schultze Mechanism (PEDS)	Delivery_of_Placenta
+Address	Address (PEDS)	Demographics
+Birth_Facility	Birth Facility (PEDS)	Demographics
+City	City (PEDS)	Demographics
+Education_Level	Education Level (PEDS)	Demographics
+Ethnic_Group	Ethnic Group (PEDS)	Demographics
+Postal_Code	Postal Code (PEDS)	Demographics
+Race	Race (PEDS)	Demographics
+Street_Number	Street Number (PEDS)	Demographics
+Submitting_Facility	Submitting Facility (PEDS)	Demographics
+US_State	US State (PEDS)	Demographics
+Postpartum_Depression	Postpartum Depression (PEDS)	Depression
+Behavioral_Development	Behavioral Development (NICHD+NRNT)	Development
+Cognitive_Development	Cognitive Development (PEDS)	Development
+Motor_Development	Motor Development (PEDS)	Development
+Achondroplasia	Achondroplasia (NRNT)	Developmental_Disorder
+Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome (NRNT)	Developmental_Disorder
+Cornelia_De_Lange_Syndrome	De Lange Syndrome (NRNT)	Developmental_Disorder
+Dwarfism	Dwarfism (NRNT)	Developmental_Disorder
+Failure_to_Thrive	Failure To Thrive In Infant (NRNT)	Developmental_Disorder
+Rickets	Rickets (NRNT)	Developmental_Disorder
+Rubinstein_Taybi_Syndrome	Rubinstein-Taybi Syndrome (NRNT)	Developmental_Disorder
+Silver-Russell_Syndrome	Russell-Silver Syndrome (NRNT)	Developmental_Disorder
+Sotos_Syndrome	Sotos' Syndrome (NRNT)	Developmental_Disorder
+Thanatophoric_Dysplasia	Thanatophoric Dysplasia (NRNT)	Developmental_Disorder
+Neurodevelopmental_Disorder	Neurodevelopmental Disorder (NICHD+NRNT)	Developmental_Disorder
+Contraceptive_Device	Contraceptive Device (PEDS)	Device
+Measurement_Device	Measurement Device (PEDS)	Device
+Dextro-Transposition_of_the_Great_Vessels_with_Intact_Ventricular_Septum	Dextro-Transposition of the Great Vessels  with Intact Ventricular Septum (NRNT)	Dextro-Transposition_of_the_Great_Arteries
+Dextro-transposition_of_the_Great_Vessels_with_Ventricular_Septal_Defect	Dextro-Transposition of the Great Vessels  with Ventricular Septal Defect (NRNT)	Dextro-Transposition_of_the_Great_Arteries
+Hematologic_Technique	Hematology Procedure (NRNT)	Diagnostic_Procedure
+Oxygen_Saturation	Oxygen Saturation Measurement (NRNT)	Diagnostic_Procedure
+Ascultation	Auscultation (PEDS)	Diagnostic_Procedure
+Blood_Chemistry_Study	Blood Test (PEDS)	Diagnostic_Procedure
+Neurologic_Examination	Neurologic Examination (NICHD+NRNT)	Diagnostic_Procedure
+Observation	Observation (PEDS)	Diagnostic_Procedure
+Physical_Examination	Physical Examination (PEDS)	Diagnostic_Procedure
+Pregnancy_Test	Pregnancy Test (PEDS)	Diagnostic_Procedure
+Ultrasound_Imaging	Ultrasound Imaging (PEDS)	Diagnostic_Procedure
+Vital_Signs_Test_Name	Vital Sign Measurement (PEDS)	Diagnostic_Procedure
+Congenital_or_Acquired_Anatomic_Abnormality	Deformity (NRNT)	Diseases_and_Disorders
+Degenerative_Disorder	Degenerative Disorder (NRNT)	Diseases_and_Disorders
+Inflammatory_Disorder	Inflammatory Disorder (NRNT)	Diseases_and_Disorders
+Behavior-Related_Disorder	Behavioral Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Cardiovascular_Disorder	Cardiovascular Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Congenital_Abnormalities_of_Erythrocyte_Differentiation_or_Function	Congenital Hematological Disorder (PEDS)	Diseases_and_Disorders
+Endocrine_Disorder	Endocrine System Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Gastrointestinal_Disorder	Gastrointestinal Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Genetic_Disorder	Genetic Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Hematologic_Disorder	Hematological Disorder (PEDS)	Diseases_and_Disorders
+Immune_System_Disorder	Immunolymphatic System Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Infectious_Disorder	Infectious Disease (NICHD+NRNT)	Diseases_and_Disorders
+Skin_Disorder	Integumentary System Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Connective_and_Soft_Tissue_Disorder	Musculoskeletal System Disorder (PEDS)	Diseases_and_Disorders
+Neoplasm	Neoplasm (NICHD+NRNT)	Diseases_and_Disorders
+Nervous_System_Disorder	Neurologic Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Non-Neoplastic_Pediatric_Disorder	Pediatric Disease or Disorder (PEDS)	Diseases_and_Disorders
+Pregnancy_Complication	Pregnancy Complication (NICHD+NRNT)	Diseases_and_Disorders
+Psychiatric_Disorder	Psychiatric Disorder (PEDS)	Diseases_and_Disorders
+Reproductive_System_Disorder	Reproductive System Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Neurosensory_Disorder	Sensory Disorder (PEDS)	Diseases_and_Disorders
+Systemic_Disease	Systemic Disorder (PEDS)	Diseases_and_Disorders
+Urinary_Tract_Disorder	Urinary System Disorder (NICHD+NRNT)	Diseases_and_Disorders
+Nasal_Route_of_Drug_Administration	Nasal Route of Administration (PEDS)	Drug_Route_of_Administration
+Oral_Route_of_Drug_administration	Oral Route of Administration (PEDS)	Drug_Route_of_Administration
+Parenteral_Route_of_Drug_Administration	Parenteral Route of Administration (PEDS)	Drug_Route_of_Administration
+Left_Ear	Left Ear (PEDS)	Ear
+Right_Ear	Right Ear (PEDS)	Ear
+Pregnancy_Breast_Soreness	Breast Soreness (PEDS)	Early_Pregnancy_Symptom
+Fatigue	Fatigue (PEDS)	Early_Pregnancy_Symptom
+Food_Craving	Food Craving (PEDS)	Early_Pregnancy_Symptom
+Urinary_Frequency	Increased Frequency of Urination (PEDS)	Early_Pregnancy_Symptom
+Missed_Menstrual_Period	Missed Period (PEDS)	Early_Pregnancy_Symptom
+Montgomery_s_Tubercle	Montgomery's Tubercles (PEDS)	Early_Pregnancy_Symptom
+Morning_Sickness	Morning Sickness (PEDS)	Early_Pregnancy_Symptom
+Anorexia_Nervosa	Anorexia Nervosa (PEDS)	Eating_Disorder
+Binge_Eating_Disorder	Binge Eating Disorder (PEDS)	Eating_Disorder
+Bulimia	Bulimia Nervosa (PEDS)	Eating_Disorder
+Pregnancy_in_Abdomen	Abdominal Pregnancy (PEDS)	Ectopic_Pregnancy
+Angular_Pregnancy	Angular Pregnancy (PEDS)	Ectopic_Pregnancy
+Cornual_Pregnancy	Cornual Pregnancy (PEDS)	Ectopic_Pregnancy
+Pregnancy_in_Ovary	Ovarian Pregnancy (PEDS)	Ectopic_Pregnancy
+Pregnanct_in_Fallopian_Tube	Tubal Pregnancy (PEDS)	Ectopic_Pregnancy
+Anasarca	Anasarca (NRNT)	Edema
+Embryonic_Structure	Embryonic Structure (PEDS)	Embryologic_Structure_or_System
+Fetus	Fetus (PEDS)	Embryonic_Structure
+Fontanelle	Fontanelle (PEDS)	Embryonic_Structure
+Lanugo	Lanugo (NICHD+NRNT)	Embryonic_Structure
+Periventricular_Leukomalacia	Periventricular Leukomalacia (NRNT)	Encephalomalacia
+Hypoxic_Encephalopathy	Hypoxic Ischemic Encephalopathy (NRNT)	Encephalopathy
+Glycine_Encephalopathy	Non-Ketotic Hyperglycinemia (NRNT)	Encephalopathy
+Adrenal_Gland_Insufficiency	Adrenal Cortical Hypofunction (NRNT)	Endocrine_Disorder
+Diabetes_Insipidus	Diabetes Insipidus (NRNT)	Endocrine_Disorder
+Dwarfism	Dwarfism (NRNT)	Endocrine_Disorder
+Endemic_Cretinism	Endemic Cretinism (NRNT)	Endocrine_Disorder
+Hyperparathyroidism	Hyperparathyroidism (NRNT)	Endocrine_Disorder
+Hyperthyroidism	Hyperthyroidism (NRNT)	Endocrine_Disorder
+Hypoparathyroidism	Hypoparathyroidism (NRNT)	Endocrine_Disorder
+Hypothyroidism	Hypothyroidism (NRNT)	Endocrine_Disorder
+Islet_Cell_Adenomatosis	Islet Cell Hyperplasia (NRNT)	Endocrine_Disorder
+Neonatal_Diabetes_Mellitus	Neonatal Diabetes Mellitus (NRNT)	Endocrine_Disorder
+Hypopituitarism	Panhypopituitarism (NRNT)	Endocrine_Disorder
+Pseudohypoparathyroidism	Pseudohypoparathyroidism (NRNT)	Endocrine_Disorder
+Somatotropin_Deficiency	Somatotropin Deficiency (NRNT)	Endocrine_Disorder
+Inappropriate_Antidiuretic_Hormone_Secretion_Syndrome	Syndrome of Inappropriate Vasopressin Secretion (NRNT)	Endocrine_Disorder
+Goiter	Goiter (PEDS)	Endocrine_Disorder
+Hormone_Imbalance	Hormone Imbalance (PEDS)	Endocrine_Disorder
+Polycystic_Ovary_Syndrome	Polycystic Ovary Syndrome (PEDS)	Endocrine_Disorder
+Five_Alpha_Steroid_Reductase_2_Deficiency	3-Oxo-5 Alpha-Steroid Delta 4-Dehydrogenase Deficiency (NRNT)	Enzyme_Deficiency
+Methylenetetrahydrofolate_Reductase_Deficiency	5,10-Methylenetetrahydrofolate Reductase Deficiency (NRNT)	Enzyme_Deficiency
+Argininosuccinic_Aciduria	Argininosuccinate Lyase Deficiency (NRNT)	Enzyme_Deficiency
+Holocarboxylase_Synthetase_Deficiency	Biotin-(Propionyl-Coa-Carboxylase) Ligase Deficiency (NRNT)	Enzyme_Deficiency
+Biotinidase_Deficiency	Biotinidase Deficiency (NRNT)	Enzyme_Deficiency
+Carnitine_Palmitoyltransferase_I_Deficiency	Carnitine Palmitoyltransferase I Deficiency (NRNT)	Enzyme_Deficiency
+Cytochrome-C_Oxidase_Deficiency	Cytochrome-C Oxidase Deficiency (NRNT)	Enzyme_Deficiency
+Sanfilippo_Syndrome	Deficiency of Acetyl-CoA Acyltransferase (NRNT)	Enzyme_Deficiency
+Two-Methylbutyryl-CoA_Dehydrogenase_Deficiency	Deficiency of Butyryl-Coa Dehydrogenase (NRNT)	Enzyme_Deficiency
+NADH_Dehydrogenase_Deficiency	Deficiency of Nadh Dehydrogenase (Ubiquinon) (NRNT)	Enzyme_Deficiency
+Deficiency_of_Steroid_21-Monooxygenase	Deficiency of Steroid 21-Monooxygenase (NRNT)	Enzyme_Deficiency
+Pyruvate_Carboxylase_Deficiency	Disorder of Pyruvate Metabolism and Mitochondrial Respiratory Chain (NRNT)	Enzyme_Deficiency
+Glucose-6-Phosphate_Dehydrogenase_Deficiency	G-6-Pd Variant Enzyme Deficiency Anemia (NRNT)	Enzyme_Deficiency
+Krabbe_Disease	Galactosylceramide Beta-Galactosidase Deficiency (NRNT)	Enzyme_Deficiency
+Acyl-CoA_Dehydrogenase_Long-Chain_Deficiency	Long Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Enzyme_Deficiency
+Acyl-CoA_Dehydrogenase_Medium-Chain_Deficiency	Medium-Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Enzyme_Deficiency
+Methemoglobin_Reductase_Deficiency	Methemoglobin Reductase Deficiency (NRNT)	Enzyme_Deficiency
+Three-Methylcrotonyl-CoA_Carboxylase_Deficiency	Methylcrotonyl-Coa Carboxylase Deficiency (NRNT)	Enzyme_Deficiency
+Phosphoenolpyruvate_Carboxykinase_Deficiency	Phosphoenolpyruvate Carboxykinase (Gtp) Deficiency (NRNT)	Enzyme_Deficiency
+Acyl-CoA_Dehydrogenase_Very_Long-Chain_Deficiency	Very Long Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Enzyme_Deficiency
+Juvenile_Myoclonic_Epilepsy	Myoclonic Seizure (NRNT)	Epilepsy
+Behavioral_Assessment	Behavioral Assessment (NICHD+NRNT)	Evaluation
+Clinical_Assessment_Tool	Clinical Assessment Tool (NICHD+NRNT)	Evaluation
+Protein_C_Deficiency	Protein C Deficiency Disease (NRNT)	Excessive_Blood_Clotting
+Protein_S_Deficiency	Protein S Deficiency Disease (NRNT)	Excessive_Blood_Clotting
+Exophthalmos	Exophthalmos (NRNT)	Eye_Finding
+Glaucoma	Glaucoma (NRNT)	Eye_Finding
+Immature_Retinal_Vasculature	Immature Retinal Vasculature (NRNT)	Eye_Finding
+Ocular_Injury	Injury of Eye Region (NRNT)	Eye_Finding
+Retinal_Examination	On Examination - Retinal Inspection (NRNT)	Eye_Finding
+Congenital_Facial_Nerve_Palsy	Congenital Facial Nerve Palsy (NRNT)	Facial_Nerve_Paralysis
+Facial_Nerve_Palsy_due_to_Birth_Trauma	Facial Nerve Palsy due to Trauma (NRNT)	Facial_Nerve_Paralysis
+Bottle_Feeding	Bottle Feeding (PEDS)	Feeding_Method
+Pregnancy_Disorder	Disorder of Pregnancy (NRNT)	Female_Reproductive_System_Disorder
+Vaginal_Fistula	Fistulous Opening In Vagina (NRNT)	Female_Reproductive_System_Disorder
+Recto-Vesico-Vaginal_Fistula	Rectal-Vesico-Vaginal Fistula (NRNT)	Female_Reproductive_System_Disorder
+Abnormal_Pregnancy	Abnormal Pregnancy (PEDS)	Female_Reproductive_System_Disorder
+Chorioamnionitis	Chorioamnionitis (PEDS)	Female_Reproductive_System_Disorder
+Eclampsia	Eclampsia (PEDS)	Female_Reproductive_System_Disorder
+Endometriosis	Endometriosis (PEDS)	Female_Reproductive_System_Disorder
+Fallopian_Tube_Obstruction	Fallopian Tube Obstruction (PEDS)	Female_Reproductive_System_Disorder
+Infertility	Infertility (PEDS)	Female_Reproductive_System_Disorder
+Alcohol_Related_Birth_Defect	Alcohol Related Birth Defects (PEDS)	Fetal_Alcohol_Spectrum_Disorder
+Alcohol_Related_Neurodevelopmental_Disorder	Alcohol Related Neurodevelopmental Disorder (PEDS)	Fetal_Alcohol_Spectrum_Disorder
+Fetal_Alcohol_Syndrome	Fetal Alcohol Syndrome (NICHD+NRNT)	Fetal_Alcohol_Spectrum_Disorder
+Abnormal_Fetal_Attitude	Abnormal Fetal Attitude (PEDS)	Fetal_Attitude
+Deflexed_Fetal_Attitude	Deflexed Attitude (PEDS)	Fetal_Attitude
+Extended_Fetal_Attitude	Extended Fetal Attitude (PEDS)	Fetal_Attitude
+Flexed_Fetal_Attitude	Flexed Fetal Attitude (PEDS)	Fetal_Attitude
+Neutral_Fetal_Attitude	Neutral Fetal Attitude (PEDS)	Fetal_Attitude
+Persistent_Fetal_Bradycardia	Persistent Fetal Bradycardia (NICHD+NRNT)	Fetal_Bradycardia
+Fetal_Heart_Rate_Monitoring	Fetal Heart Rate Monitoring (NICHD+NRNT)	Fetal_Examination
+Fetal_Pulse_Oximetry	Fetal Pulse Oximetry (NICHD+NRNT)	Fetal_Examination
+Cardiotocography	Intrapartum Cardiotocography (PEDS)	Fetal_Examination
+ST_Waveform_Analysis	ST Waveform Analysis Technology (PEDS)	Fetal_Examination
+Appropriate_for_Gestational_Age	Appropriate for Gestational Age (PEDS)	Fetal_Finding
+Fetal_Attitude	Fetal Attitude (PEDS)	Fetal_Finding
+Fetal_Position	Fetal Position (PEDS)	Fetal_Finding
+Fetal_Presentation	Fetal Presentation (PEDS)	Fetal_Finding
+Fetal_Station	Fetal Station (PEDS)	Fetal_Finding
+Fetal_Heart_Rhythm	Fetal Heart Rhythm (NRNT)	Fetal_Heart_Finding
+Fetal_Heart_Rate_Acceleration	Fetal Heart Rate Acceleration (NICHD+NRNT)	Fetal_Heart_Finding
+Fetal_Heart_Rate_Deceleration	Fetal Heart Rate Deceleration (NICHD+NRNT)	Fetal_Heart_Finding
+Fetal_Heart_Rate_Variability	Fetal Heart Rate Variability (NICHD+NRNT)	Fetal_Heart_Finding
+Fetal_Heart_Tone	Fetal Heart Tone (NICHD+NRNT)	Fetal_Heart_Finding
+Fetal_Heart_Tone_Location	Fetal Heart Tone Location (NICHD+NRNT)	Fetal_Heart_Finding
+Baseline_Fetal_Heart_Rate	Baseline Fetal Heart Rate (NICHD+NRNT)	Fetal_Heart_Rate
+Fetal_Bradycardia	Fetal Bradycardia (NICHD+NRNT)	Fetal_Heart_Rate
+Fetal_Tachycardia	Fetal Tachycardia (NICHD+NRNT)	Fetal_Heart_Rate
+Prolonged_Fetal_Heart_Rate_Acceleration	Prolonged Acceleration (NICHD+NRNT)	Fetal_Heart_Rate_Acceleration
+Early_Fetal_Heart_Rate_Deceleration	Early Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Intermittent_Fetal_Heart_Rate_Deceleration	Intermittent Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Late_Fetal_Heart_Rate_Decerleration	Late Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Prolonged_Fetal_Heart_Rate_Deceleration	Prolonged Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Recurrent_Fetal_Heart_Rate_Decerleration	Recurrent Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Variable_Fetal_Heart_Rate_Deceleration	Variable Deceleration (NICHD+NRNT)	Fetal_Heart_Rate_Deceleration
+Fetal_Beat_to_Beat_Variability	Beat to Beat Variability (NICHD+NRNT)	Fetal_Heart_Rate_Variability
+R-R_interval	R-R Wave Period (NICHD+NRNT)	Fetal_Heart_Rate_Variability
+Short-Term_Fetal_Heart_Rate_Variability	Short-Term Variability (NICHD+NRNT)	Fetal_Heart_Rate_Variability
+Breech_Presentation	Breech Presentation (PEDS)	Fetal_Malpresentation
+Compound_Fetal_Presentation	Compound Presentation (PEDS)	Fetal_Malpresentation
+Shoulder_Presentation	Shoulder Presentation (PEDS)	Fetal_Malpresentation
+Anterior_Occiput_Presentation	Anterior Occiput (PEDS)	Fetal_Position
+Fetal_Position_above_Umbilicus	Fetal Position above Umbilicus (PEDS)	Fetal_Position
+Fetal_Position_below_Umbilicus	Fetal Position below Umbilicus (PEDS)	Fetal_Position
+Posterior_Occiput_Presentation	Posterior Occiput (PEDS)	Fetal_Position
+Sinciput_Presentation	Sinciput (PEDS)	Fetal_Position
+Transverse_Occiput_Presentation	Transverse Occiput (PEDS)	Fetal_Position
+Cephalic_Presentation	Cephalic Presentation (PEDS)	Fetal_Presentation
+Longitudinal_Fetal_Presentation	Longitudinal Fetal Presentation (PEDS)	Fetal_Presentation
+Fetal_Malpresentation	Malpresentation of Fetus (PEDS)	Fetal_Presentation
+Oblique_Fetal_Presentation	Oblique Fetal Presentation (PEDS)	Fetal_Presentation
+Transverse_Fetal_Presentation	Transverse Fetal Presentation (PEDS)	Fetal_Presentation
+Persistent_Fetal_Tachycardia	Persistent Fetal Tachycardia (NICHD+NRNT)	Fetal_Tachycardia
+Cardiovascular_System_Finding	Cardiovascular Finding (NRNT)	Finding
+Developmental_Stage	Child Development Status (NRNT)	Finding
+Complication	Complication (NRNT)	Finding
+Decreased_Bone_Density	Decreased Bone Density (NRNT)	Finding
+Gastrointestinal_System_Finding	Digestive System Finding (NRNT)	Finding
+Withdrawal_Syndrome	Drug Withdrawal (NRNT)	Finding
+Eye_Finding	Eye / Vision Finding (NRNT)	Finding
+Hematopoietic_System_Finding	Hematopoietic System Finding (NRNT)	Finding
+Infarction	Infarct (NRNT)	Finding
+Integumentary_System_Finding	Integumentary System Finding (NRNT)	Finding
+Connective_and_Soft_Tissue_Finding	Musculoskeletal Finding (NRNT)	Finding
+Neurological_Signs_and_Symptoms	Neurological Finding (NRNT)	Finding
+Respiratory_System_Finding	Respiratory Finding (NRNT)	Finding
+Spontaneous_Perforation	Spontaneous Perforation (NRNT)	Finding
+Cyst	Cyst (NICHD+NRNT)	Finding
+Observation_Result	Observational Result (PEDS)	Finding
+Sign_or_Symptom	Signs or Symptoms (PEDS)	Finding
+Reproductive_System_Finding	Reproductive System Finding (PEDS)	Finding
+Birth_Complication	Birth Complication (PEDS)	Finding_during_Childbirth_Labor
+Internal_Fetal_Rotation	Internal Fetal Rotation (PEDS)	Finding_during_Childbirth_Labor
+Active_Phase_of_Labor	Active Phase of Labor (PEDS)	First_Stage_of_Labor
+Latent_Phase_of_Labor	Latent Phase of Labor (PEDS)	First_Stage_of_Labor
+Transition_Phase_of_Labor	Transitional Phase of Labor (PEDS)	First_Stage_of_Labor
+Fracture_of_Clavicle_due_to_Birth_Trauma	Fracture of Clavicle due to Birth Trauma (NRNT)	Fracture
+Femur_Fracture	Fracture of Femur (NRNT)	Fracture
+Fibula_Fracture	Fracture of Fibula (NRNT)	Fracture
+Humerus_Fracture	Fracture of Humerus (NRNT)	Fracture
+Fracture_of_Long_Bone_due_to_Birth_Trauma	Fracture of Long Bone due to Birth Trauma (NRNT)	Fracture
+Radial_Fracture	Fracture of Radius (NRNT)	Fracture
+Rib_Fracture	Fracture of Rib (NRNT)	Fracture
+Skull_Fracture	Fracture of Skull (NRNT)	Fracture
+Tibial_Fracture	Fracture of Tibia (NRNT)	Fracture
+Preterm_Neonatal_Stage	Preterm Neonatal Stage (PEDS)	Full_Term_Neonatal_Stage
+UTP-Hexose-1-Phosphate_Uridylyltransferase_Deficiency	Deficiency of Utp-Hexose-1-Phosphate Uridylyltransferase (NRNT)	Galactosemia
+Esophageal_Fistula	Esophageal Fistula (NRNT)	Gastrointestinal_Disorder
+Esophageal_Varix	Esophageal Varices (NRNT)	Gastrointestinal_Disorder
+Esophageal_Web	Esophageal Web (NRNT)	Gastrointestinal_Disorder
+Esophagitis	Esophagitis (NRNT)	Gastrointestinal_Disorder
+Intestinal_Fistula	Fistula of Intestine (NRNT)	Gastrointestinal_Disorder
+Gastroesophageal_Reflux_Disease	Gastroesophageal Reflux Disease (NRNT)	Gastrointestinal_Disorder
+Gastrointestinal_Perforation	Gastrointestinal Perforation (NRNT)	Gastrointestinal_Disorder
+Bowel_Obstruction	Intestinal Obstruction (NRNT)	Gastrointestinal_Disorder
+Malabsorption_Syndrome	Malabsorption Syndrome (NRNT)	Gastrointestinal_Disorder
+Meconium_Plug_Syndrome	Meconium Plug (NRNT)	Gastrointestinal_Disorder
+Neonatal_Hepatitis	Neonatal Hepatitis (NRNT)	Gastrointestinal_Disorder
+Pyloric_Stenosis	Pyloric Stenosis (NRNT)	Gastrointestinal_Disorder
+Colonic_Stenosis	Stenosis of Colon (NRNT)	Gastrointestinal_Disorder
+Duodenal_Stenosis	Stenosis of Duodenum (NRNT)	Gastrointestinal_Disorder
+Rectal_Stenosis	Stenosis of Rectum (NRNT)	Gastrointestinal_Disorder
+Intestinal_Stricture	Stricture of Intestine (NRNT)	Gastrointestinal_Disorder
+Suspected_Necrotizing_Enterocolitis	Suspected Necrotizing Entercolitis (NRNT)	Gastrointestinal_Disorder
+Tracheoesophageal_Fistula	Tracheoesophageal Fistula (NRNT)	Gastrointestinal_Disorder
+Gastroenteritis	Gastroenteritis (PEDS)	Gastrointestinal_Disorder
+Hematochezia	Hematochezia (NRNT)	Gastrointestinal_Hemorrhage
+Perforation_Of_Esophagus	Perforation of Esophagus (NRNT)	Gastrointestinal_Perforation
+Intestinal_Perforation	Perforation of Intestine (NRNT)	Gastrointestinal_Perforation
+Ladd_Band	Band of Ladd (NRNT)	Gastrointestinal_System_Finding
+Cholestasis	Cholestasis (NRNT)	Gastrointestinal_System_Finding
+Colonic_Band	Colonic Band (NRNT)	Gastrointestinal_System_Finding
+Colonic_Web	Colonic Web (NRNT)	Gastrointestinal_System_Finding
+Choledochal_Cyst	Congenital Choledochal Cyst (NRNT)	Gastrointestinal_System_Finding
+Congenital_Ileal_Stenosis	Congenital Ileal Stenosis (NRNT)	Gastrointestinal_System_Finding
+Congenital_Jejunal_Stenosis	Congenital Jejunal Stenosis (NRNT)	Gastrointestinal_System_Finding
+Duodenal_Band	Duodenal Band (NRNT)	Gastrointestinal_System_Finding
+Duodenal_Web	Duodenal Web (NRNT)	Gastrointestinal_System_Finding
+Ileal_Band	Ileal Band (NRNT)	Gastrointestinal_System_Finding
+Ileal_Web	Ileal Web (NRNT)	Gastrointestinal_System_Finding
+Functional_Bowel_Obstruction	Intestinal Obstruction, Functional (NRNT)	Gastrointestinal_System_Finding
+Intestinal_Volvulus	Intestinal Volvulus (NRNT)	Gastrointestinal_System_Finding
+Jejunal_Band	Jejunal Band (NRNT)	Gastrointestinal_System_Finding
+Jejunal_Web	Jejunal Web (NRNT)	Gastrointestinal_System_Finding
+Liver_Dysfunction	Liver Finding (NRNT)	Gastrointestinal_System_Finding
+Jaundice	Jaundice (NRNT)	Gastrointestinal_System_Signs_and_Symptoms
+Birth_Head_Circumference	Head Circumference At Initial Disposition (NRNT)	General_Appearance
+Other	Other (PEDS)	General_Modifier
+Wilms_Tumor-Aniridia-Genitourinary_Anomalies-Mental_Retardation_Syndrome	11P Partial Monosomy Syndrome (NRNT)	Genetic_Disorder
+Barth_Syndrome	3-Methylglutaconic Aciduria Type 2 (NRNT)	Genetic_Disorder
+Cri_du_Chat_Syndrome	5P Partial Monosomy Syndrome (NRNT)	Genetic_Disorder
+Alpha-1_Antitrypsin_Deficiency	Alpha-1-Antitrypsin Deficiency (NRNT)	Genetic_Disorder
+Testicular_Feminization_Syndrome	Androgen Resistance Syndrome (NRNT)	Genetic_Disorder
+Angelman_Syndrome	Angelman Syndrome (NRNT)	Genetic_Disorder
+Alagille_Syndrome	Arteriohepatic Dysplasia (NRNT)	Genetic_Disorder
+Autosomal_Dominant_Inherited_Disorder	Autosomal Dominant Hereditary Disorder (NRNT)	Genetic_Disorder
+Autosomal_Recessive_Inherited_Disorder	Autosomal Recessive Hereditary Disorder (NRNT)	Genetic_Disorder
+Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome (NRNT)	Genetic_Disorder
+Carbohydrate-Deficient_Glycoprotein_Syndrome	Carbohydrate-Deficient Glycoprotein Syndrome (NRNT)	Genetic_Disorder
+Ellis-Van_Creveld_Syndrome	Chondroectodermal Dysplasia (NRNT)	Genetic_Disorder
+Chromosomal_Aberration	Chromosome Abnormality (NRNT)	Genetic_Disorder
+CHARGE_Syndrome	Coloboma, Heart Malformation, Choanal Atresia, Retardation of Growth and Development, Genital Abnormalities, and Ear Malformations (Charge) Association (NRNT)	Genetic_Disorder
+Complete_Trisomy_13_Syndrome	Complete Trisomy 13 Syndrome (NRNT)	Genetic_Disorder
+Complete_Trisomy_18_Syndrome	Complete Trisomy 18 Syndrome (NRNT)	Genetic_Disorder
+Complete_Trisomy_21_Syndrome	Complete Trisomy 21 Syndrome (NRNT)	Genetic_Disorder
+Congenital_Central_Hypoventilation_Syndrome	Congenital Central Hypoventilation (NRNT)	Genetic_Disorder
+Hypoplastic_Left_Heart_Syndrome	Congenital Hypoplasia of Aortic Arch (NRNT)	Genetic_Disorder
+Dandy_Walker_Malformation	Dandy-Walker Syndrome (NRNT)	Genetic_Disorder
+Cornelia_De_Lange_Syndrome	De Lange Syndrome (NRNT)	Genetic_Disorder
+DiGeorge_s_Syndrome	Digeorge Sequence (NRNT)	Genetic_Disorder
+Down_Syndrome	Down Syndrome (NRNT)	Genetic_Disorder
+Ectodermal_Dysplasia	Ectodermal Dysplasia (NRNT)	Genetic_Disorder
+Split_Hand_Foot_Malformation	Ectrodactyly (NRNT)	Genetic_Disorder
+F5_Leiden_Allele	Factor V Leiden Mutation (NRNT)	Genetic_Disorder
+Klinefelter_s_Syndrome	Klinefelter's Syndrome, Xxy (NRNT)	Genetic_Disorder
+Klippel-Feil_Syndrome	Klippel-Feil Sequence (NRNT)	Genetic_Disorder
+Klippel-Trenaunay-Weber_Syndrome	Klippel-Trenaunay-Weber Syndrome (NRNT)	Genetic_Disorder
+Oculocerebrorenal_Syndrome	Lowe Syndrome (NRNT)	Genetic_Disorder
+Maple_Syrup_Urine_Disease	Maple Syrup Urine Disease (NRNT)	Genetic_Disorder
+Meckel-Gruber_Syndrome	Meckel-Gruber Syndrome (NRNT)	Genetic_Disorder
+MMIH_Syndrome	Megacystis, Microcolon, Hypoperistalsis Syndrome (NRNT)	Genetic_Disorder
+Melnick-Fraser_Syndrome	Melnick-Fraser Syndrome (NRNT)	Genetic_Disorder
+Mitochondrial_Trifunctional_Protein_Deficiency	Mitochondrial Trifunctional Protein Deficiency (NRNT)	Genetic_Disorder
+Monosomy_13q_Syndrome	Monosomy 13Q Syndrome (NRNT)	Genetic_Disorder
+Noonan_Syndrome	Noonan's Syndrome (NRNT)	Genetic_Disorder
+Potter_Syndrome	Oligohydramnios Sequence (NRNT)	Genetic_Disorder
+Mobius_Syndrome	Oromandibular-Limb Hypogenesis Spectrum (NRNT)	Genetic_Disorder
+Pallister_Killian_Syndrome	Pallister-Killian Syndrome (NRNT)	Genetic_Disorder
+Pena-Shokeir_Syndrome	Pena-Shokeir Phenotype (NRNT)	Genetic_Disorder
+Poland_Syndrome	Poland Anomaly (NRNT)	Genetic_Disorder
+Polyploidy	Polyploidy Syndrome (NRNT)	Genetic_Disorder
+Prader_Willi_Syndrome	Prader-Willi Syndrome (NRNT)	Genetic_Disorder
+Prune_Belly_Syndrome	Prune Belly Syndrome (NRNT)	Genetic_Disorder
+Hypoplastic_Right_Heart_Syndrome	Right Hypoplastic Heart Syndrome (NRNT)	Genetic_Disorder
+Pierre_Robin_Syndrome	Robin Sequence (NRNT)	Genetic_Disorder
+Rubinstein_Taybi_Syndrome	Rubinstein-Taybi Syndrome (NRNT)	Genetic_Disorder
+Silver-Russell_Syndrome	Russell-Silver Syndrome (NRNT)	Genetic_Disorder
+Scimitar_Syndrome	Scimitar Syndrome (NRNT)	Genetic_Disorder
+Smith-Lemli-Opitz_Syndrome	Smith-Lemli-Opitz Syndrome (NRNT)	Genetic_Disorder
+Sotos_Syndrome	Sotos' Syndrome (NRNT)	Genetic_Disorder
+Stickler_Syndrome	Stickler Syndrome (NRNT)	Genetic_Disorder
+Tethered_Spinal_Cord_Syndrome	Tethered Cord (NRNT)	Genetic_Disorder
+Arakawa_s_Syndrome_II	Tetrahydrofolate Methyltransferase Deficiency (NRNT)	Genetic_Disorder
+Townes-Brocks_Syndrome	Townes Syndrome (NRNT)	Genetic_Disorder
+TORCH_Syndrome	Toxoplasmosis, Other Infections, Rubella, Cytomegalovirus, and Herpes Simplex Virus (Torch) Syndrome (NRNT)	Genetic_Disorder
+Treacher_Collins_Syndrome	Treacher Collins Syndrome (NRNT)	Genetic_Disorder
+Triploidy_Syndrome	Triploidy Syndrome (NRNT)	Genetic_Disorder
+Turner_s_Syndrome	Turner Syndrome (NRNT)	Genetic_Disorder
+Van_der_Woude_Syndrome	Van Der Woude Syndrome (NRNT)	Genetic_Disorder
+Waardenburg_Syndrome	Waardenburg's Syndrome (NRNT)	Genetic_Disorder
+Williams_Syndrome	Williams Syndrome (NRNT)	Genetic_Disorder
+Amniocentesis	Amniocentesis (PEDS)	Genetic_Screening
+Chorionic_Villus_Sampling	Chorionic Villus Sampling (PEDS)	Genetic_Screening
+Cystic_Fibrosis_Carrier_Screening	Cystic Fibrosis Carrier Screening (PEDS)	Genetic_Screening
+Nuchal_Translucency_Screen	Nuchal Translucency Screen (PEDS)	Genetic_Screening
+Quad_Screen	Quad Screen (PEDS)	Genetic_Screening
+Triple_Screen	Triple Screen (PEDS)	Genetic_Screening
+Karyotype	Karyotype (NICHD+NRNT)	Genetic_Testing
+Crown_to_Rump_Length	Crown to Rump Length Measurement (PEDS)	Gestational_Weeks
+Deficiency_of_Testosterone_Biosynthesis	Deficiency of Testosterone Biosynthesis (NRNT)	Gonadal_Disorder
+Mullerian_Inhibiting_Substance_Deficiency	Mullerian Inhibiting Factor Deficiency (NRNT)	Gonadal_Disorder
+Congenital_Abnormality_of_Vena_Cava	Congenital Abnormality of Vena Cava (NRNT)	Great_Vessels_Abnormality
+Interrupted_Aortic_Arch	Interrupted Aortic Arch (NRNT)	Great_Vessels_Abnormality
+Pulmonary_Artery_Stenosis	Pulmonary Artery Stenosis (NRNT)	Great_Vessels_Abnormality
+Great_Vessels_Transposition	Transposition of Great Vessels (NRNT)	Great_Vessels_Abnormality
+Vascular_Ring	Vascular Ring of Aorta (NRNT)	Great_Vessels_Abnormality
+Dextro-Transposition_of_the_Great_Arteries	D - Transposition of the Great Vessels (NRNT)	Great_Vessels_Transposition
+Levo-Transposition_of_the_Great_Arteries	Levo - Transposition of the Great Vessels (NRNT)	Great_Vessels_Transposition
+Hysterectomy	Hysterectomy (PEDS)	Gynecological_Surgical_Procedure
+Oophorectomy	Oophorectomy (PEDS)	Gynecological_Surgical_Procedure
+Surgical_Contraception	Surgical Contraception Method (PEDS)	Gynecological_Surgical_Procedure
+Procedure	Intervention or Procedure (NICHD+NRNT)	Healthcare_Activity
+Research_Activity	Research Activity (PEDS)	Healthcare_Activity
+Central_Hearing_Loss	Central Hearing Loss (PEDS)	Hearing_Loss
+Conductive_Hearing_Loss	Conductive Hearing Loss (PEDS)	Hearing_Loss
+Deafness	Deafness (PEDS)	Hearing_Loss
+Mixed_Hearing_Loss	Mixed Hearing Loss (PEDS)	Hearing_Loss
+Sensorineural_Deafness	Sensorineural Hearing Loss (PEDS)	Hearing_Loss
+Complete_Heart_Block	Complete Atrioventricular Block (NRNT)	Heart_Conduction_Disorder
+Wolff-Parkinson-White_Syndrome	Wolff-Parkinson-White Syndrome (NRNT)	Heart_Conduction_Disorder
+Arrhythmia	Cardiac Arrhythymia (PEDS)	Heart_Conduction_Disorder
+Cardiomyopathy	Cardiomyopathy (NRNT)	Heart_Disease
+Heart_Conduction_Disorder	Conduction Disorder of the Heart (NRNT)	Heart_Disease
+Congestive_Heart_Failure	Congestive Heart Failure (NRNT)	Heart_Disease
+Endocardial_Fibroelastosis	Endocardial Fibroelastosis (NRNT)	Heart_Disease
+Valvular_Heart_Disorder	Heart Valve Disorder (NRNT)	Heart_Disease
+Myocardial_Infarction	Myocardial Infarction (NRNT)	Heart_Disease
+Pericardial_Anomaly	Pericardial Anomaly (NRNT)	Heart_Disease
+Pericardial_Effusion	Pericardial Effusion (NRNT)	Heart_Disease
+Fetal_Heart_Rate	Fetal Heart Rate (NICHD+NRNT)	Heart_Rate
+Newborn_Heart_Rate	Newborn Heart Rate (NICHD+NRNT)	Heart_Rate
+Airway_Hemangioma	Airway Hemangioma (NRNT)	Hemangioma
+Arteriovenous_Hemangioma	Arteriovenous Hemangioma (NRNT)	Hemangioma
+Intra-Abdominal_Hemangioma	Hemangioma of Intra-Abdominal Structure (NRNT)	Hemangioma
+Hemangioma_of_the_Skin	Hemangioma of Skin (NRNT)	Hemangioma
+Angiomatosis	Multiple Hemangiomas (NRNT)	Hemangioma
+Anemia	Anemia (NRNT)	Hematologic_Disorder
+Coagulation_Disorder	Coagulation Defect (NRNT)	Hematologic_Disorder
+Myeloproliferation	Disorder of Hematopoietic Cell Proliferation (NRNT)	Hematologic_Disorder
+Hematopoietic_System_Disorder	Disorder of Hematopoietic Structure (NRNT)	Hematologic_Disorder
+Elliptocytosis	Elliptocytosis (NRNT)	Hematologic_Disorder
+Infarction	Infarct (NRNT)	Hematologic_Disorder
+Ovalocytosis	Ovalocytosis (NRNT)	Hematologic_Disorder
+Spherocytosis	Spherocytosis (NRNT)	Hematologic_Disorder
+Thrombocytosis	Thrombocytosis (NRNT)	Hematologic_Disorder
+Thrombocytopenia	Thrombocytopenia (NICHD+NRNT)	Hematologic_Disorder
+Excessive_Blood_Clotting	Thrombophilia (NICHD+NRNT)	Hematologic_Disorder
+Blood_Cell_Count	Blood Cell Count (PEDS)	Hematologic_Technique
+Leukemia	Leukemia, Disease (NRNT)	Hematopoietic_Cell_Neoplasm
+Hemoglobin_A_Measurement	Hemoglobin A Measurement (NRNT)	Hemoglobin_Measurement
+Hemoglobin_A2_Measurement	Hemoglobin A2 Measurement (NRNT)	Hemoglobin_Measurement
+Hemoglobin_C_Measurement	Measurement of Hemoglobin C (NRNT)	Hemoglobin_Measurement
+Hemoglobin_A_to_Total_Hemoglobin_Ratio_Measurement	Hemoglobin A to Total Hemoglobin Ratio Measurement (PEDS)	Hemoglobin_Measurement
+Hemoglobin_A2_to_Total_Hemoglobin_Ratio_Measurement	Hemoglobin A2 to Total Hemoglobin Ratio Measurement (PEDS)	Hemoglobin_Measurement
+Hemoglobin_C_to_Total_Hemoglobin_Ratio_Measurement	Hemoglobin C to Total Hemoglobin Ratio Measurement (PEDS)	Hemoglobin_Measurement
+Hemoglobin_S_to_Total_Hemoglobin_Ratio_Measurement	Hemoglobin S to Total Hemoglobin Ratio Measurement (NICHD+NRNT)	Hemoglobin_Measurement
+Hydrops_Fetalis	Hemoglobin Bart's Hydrops Syndrome (NRNT)	Hemoglobinopathy
+Thalassemia	Thalassemia (NRNT)	Hemoglobinopathy
+Hemoglobin_C_Disease	Hemoglobin C Disease (NICHD+NRNT)	Hemoglobinopathy
+Hemolytic_Disease_of_the_Newborn	Hemolytic Disease of the Newborn (PEDS)	Hemoglobinopathy
+Sickle_Cell_Disease	Sickle Cell Disease (NICHD+NRNT)	Hemoglobinopathy
+Hemolytic_Anemia_due_to_Membrane_Defect	Anemia due to Membrane Defect (NRNT)	Hemolytic_Anemia
+Hemolytic_Disease_of_the_Fetus_or_Newborn	Hemolytic Disease due to ABO Isoimmunization (NRNT)	Hemolytic_Anemia
+Hemophilia_A	Factor VIII Deficiency (NRNT)	Hemophilia
+Hemophilia_B	Hereditary Factor IX Deficiency Disease (NRNT)	Hemophilia
+Factor_XI_Deficiency	Hereditary Factor XI Deficiency Disease (NRNT)	Hemophilia
+Adrenal_Hemorrhage	Adrenal Hemorrhage (NRNT)	Hemorrhage
+Gastrointestinal_Hemorrhage	Gastrointestinal Hemorrhage (NRNT)	Hemorrhage
+Intracranial_Hemorrhage	Intracranial Hemorrhage (NRNT)	Hemorrhage
+Subependymal_Hemorrhage	Perinatal Subependymal Hemorrhage  with Intraventricular and Intracerebral Extension (NRNT)	Hemorrhage
+Pulmonary_Hemorrhage	Pulmonary Hemorrhage (NRNT)	Hemorrhage
+Subgaleal_Hemorrhage	Subgaleal Hemorrhage (NRNT)	Hemorrhage
+Intraventricular_Brain_Hemorrhage	Intraventricular Hemorrhage (PEDS)	Hemorrhage
+Postpartum_Hemorrhage	Postpartum Hemorrhage (PEDS)	Hemorrhage
+Hereditary_Factor_I_Deficiency	Hereditary Factor I Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Factor_II_Deficiency	Hereditary Factor II Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Hemophilia_B	Hereditary Factor IX Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Factor_V_Deficiency	Hereditary Factor V Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Hereditary_Factor_VII_Deficiency	Hereditary Factor VII Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Hereditary_Factor_X_Deficiency	Hereditary Factor X Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Factor_XI_Deficiency	Hereditary Factor XI Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Factor_XII_Deficiency	Hereditary Factor XII Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Hereditary_Factor_XIII_Deficiency	Hereditary Factor XIII Deficiency Disease (NRNT)	Hereditary_Coagulation_Factor_Deficiency
+Marfan_s_Syndrome	Marfan's Syndrome (NRNT)	Hereditary_Connective_Tissue_Disorder
+Menkes_Disease	Menkes Kinky-Hair Syndrome (NRNT)	Hereditary_Connective_Tissue_Disorder
+COL1A1_Associated_Connective_Tissue_Disorder	Metabolic Disease of Collagen (NRNT)	Hereditary_Connective_Tissue_Disorder
+Thrombocytopenia-Absent_Radius_Syndrome	Radial Aplasia-Thrombocytopenia Syndrome (NRNT)	Hereditary_Connective_Tissue_Disorder
+Rhizomelic_Chondrodysplasia_Punctata	Rhizomelic Chondrodysplasia Punctata Syndrome (NRNT)	Hereditary_Connective_Tissue_Disorder
+Congenital_Diaphragmatic_Hernia	Congenital Diaphragmatic Hernia (NRNT)	Hernia
+Abdomial_Hernia	Hernia of Abdominal Wall (NRNT)	Hernia
+Hiatal_Hernia	Hiatal Hernia (NRNT)	Hernia
+Inguinal_Hernia	Inguinal Hernia (NRNT)	Hernia
+Diaphragmatic_Hernia	Diaphragmatic Hernia (PEDS)	Hernia
+Heterotaxy_Syndrome_with_Asplenia	Heterotaxy, Asplenia (NRNT)	Heterotaxia
+Heterotaxy_Syndrome_with_Polyspenia	Heterotaxy, Polysplenia (NRNT)	Heterotaxia
+Human_Papillomavirus-16	Human Papillomavirus-16 (PEDS)	Human_Papillomavirus
+Human_Papillomavirus-18	Human Papillomavirus-18 (PEDS)	Human_Papillomavirus
+Acquired_Hydrocephalus	Acquired Hydrocephalus (NRNT)	Hydrocephalus
+Congenital_Hydrocephalus	Congenital Hydrocephalus (NRNT)	Hydrocephalus
+Systemic_Arterial_Hypertensive_Disorder	Hypertensive Disorder, Systemic Arterial (NRNT)	Hypertension
+Portal_Hypertension	Portal Hypertension (NRNT)	Hypertension
+Pulmonary_Hypertension	Pulmonary Hypertension (NRNT)	Hypertension
+Pregnancy_Associated_Hypertension	Pregnancy Induced Hypertension (NICHD+NRNT)	Hypertension
+Benign_Congenital_Hypotonia	Benign Congenital Hypotonia (NRNT)	Hypotonia
+Cesarean_Hysterectomy	Caesarean Hysterectomy (PEDS)	Hysterectomy
+Immature_Retinal_Vasculature_in_Zone_1	Immature Retinal Vasculature In Zone 1 (NRNT)	Immature_Retinal_Vasculature
+Immature_Retinal_Vasculature_in_Zone_2	Immature Retinal Vasculature In Zone 2 (NRNT)	Immature_Retinal_Vasculature
+Immature_Retinal_Vasculature_in_Zone_3	Immature Retinal Vasculature In Zone 3 (NRNT)	Immature_Retinal_Vasculature
+Autoimmune_Disease	Autoimmune Disease (NRNT)	Immune_System_Disorder
+Immunodeficiency_Syndrome	Primary Immune Deficiency Disorder (NRNT)	Immune_System_Disorder
+Varicella_Zoster_Virus_Immunization	Chickenpox Immunization (PEDS)	Immunization
+Influenza_Vaccination	Influenza Vaccination (PEDS)	Immunization
+Polio_Vaccination	Polio Vaccination (PEDS)	Immunization
+Rubella_Immunization	Rubella Immunization (PEDS)	Immunization
+Hepatitis_A_Vaccine	Hepatitis A Vaccine (PEDS)	Inactivated_Vaccine
+Inactivated_Poliovirus_Vaccine	Inactivated Poliovirus Vaccine (PEDS)	Inactivated_Vaccine
+Three-Methylglutaconic_Aciduria_Type_1	3-Methylglutaconic Aciduria Type 1 (NRNT)	Inborn_Errors_of_Metabolism
+Primary_Carnitine_Deficiency	Carnitine Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Amino_Acid_Metabolism_Disorder	Disorder of Amino Acid Metabolism (NRNT)	Inborn_Errors_of_Metabolism
+Hepatolenticular_Degeneration	Disorder of Copper Metabolism (NRNT)	Inborn_Errors_of_Metabolism
+Lipid_Metabolism_Disorder	Disorder of Fatty Acid Metabolism (NRNT)	Inborn_Errors_of_Metabolism
+Lysosomal_Storage_Disease	Disorder of Lysosomal Enzyme (NRNT)	Inborn_Errors_of_Metabolism
+Organic_Acid_Metabolism_Disorder	Disorder of Organic Acid Metabolism (NRNT)	Inborn_Errors_of_Metabolism
+Peroxisomal_Disorder	Disorder of Peroxisomal Function (NRNT)	Inborn_Errors_of_Metabolism
+Inborn_Urea_Cycle_Disorder	Disorder of the Urea Cycle Metabolism (NRNT)	Inborn_Errors_of_Metabolism
+Hereditary_Fructose_Intolerance	Fructose-1,6-Bisphosphate Aldolase B Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Galactosemia	Galactosemia (NRNT)	Inborn_Errors_of_Metabolism
+Glutaric_Acidemia_Type_2	Glutaric Aciduria, Type 2 (NRNT)	Inborn_Errors_of_Metabolism
+Glycogen_Storage_Disease	Glycogen Storage Disease (NRNT)	Inborn_Errors_of_Metabolism
+Hemochromatosis	Hemochromatosis (NRNT)	Inborn_Errors_of_Metabolism
+Hereditary_Orotic_Aciduria	Hereditary Orotic Aciduria (NRNT)	Inborn_Errors_of_Metabolism
+High_Molecular_Weight_Kininogen_Deficiency	High Molecular Weight Kininogen Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Acyl-CoA_Dehydrogenase_Long-Chain_Deficiency	Long Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Acyl-CoA_Dehydrogenase_Medium-Chain_Deficiency	Medium-Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Metabolic_Myopathy	Metabolic Myopathy (NRNT)	Inborn_Errors_of_Metabolism
+Methylmalonic_Acidemia	Methylmalonic Acidemia (NRNT)	Inborn_Errors_of_Metabolism
+Neonatal_Hyperbilirubinemia	Neonatal Hyperbilirubinemia (NRNT)	Inborn_Errors_of_Metabolism
+Neonatal_Jaundice	Neonatal Jaundice (NRNT)	Inborn_Errors_of_Metabolism
+Hartnup_Disease	Neutral 1 Amino Acid Transport Defect (NRNT)	Inborn_Errors_of_Metabolism
+Prekallikrein_Deficiency	Prekallikrein Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Surfactant_Protein_Deficiency	Surfactant Apoprotein Abnormality (NRNT)	Inborn_Errors_of_Metabolism
+Acyl-CoA_Dehydrogenase_Very_Long-Chain_Deficiency	Very Long Chain Acyl-CoA Dehydrogenase Deficiency (NRNT)	Inborn_Errors_of_Metabolism
+Wolman_Disease	Wolman's Disease (NRNT)	Inborn_Errors_of_Metabolism
+Congenital_Hypothyroidism	Congenital Hypothyroidism (NICHD+NRNT)	Inborn_Errors_of_Metabolism
+Transferase_Deficient_Galactosemia	Transferase Deficient Galactosemia (PEDS)	Inborn_Errors_of_Metabolism
+Carbamoyl-Phosphate_Synthetase_I_Deficiency	Carbamoyl Phosphate Synthetase Deficiency (NRNT)	Inborn_Urea_Cycle_Disorder
+Citrullinemia	Citrullinemia (NRNT)	Inborn_Urea_Cycle_Disorder
+Ornithine_Carbamoyltransferase_Deficiency_Disease	Ornithine Carbamoyltransferase Deficiency (NRNT)	Inborn_Urea_Cycle_Disorder
+No	No (PEDS)	Indicator
+Pass	Pass (PEDS)	Indicator
+Yes	Yes (PEDS)	Indicator
+Hysterotomy_Abortion	Hysterotomy Abortion (PEDS)	Induced_Abortion_Procedure
+Artificial_Rupture_of_Membrane	Artificial Rupture of Membrane (PEDS)	Induction_of_Labor
+Drug_Induced_Induction_of_Labor	Drug Induced Induction of Labor (PEDS)	Induction_of_Labor
+Stripping_of_Membrane	Stripping of Membrane (PEDS)	Induction_of_Labor
+Grasp_Reflex	Grasp Reflex (PEDS)	Infant_Reflex
+Moro_Reflex	Moro Reflex (NICHD+NRNT)	Infant_Reflex
+Rooting_Reflex	Rooting Reflex (PEDS)	Infant_Reflex
+Step_Reflex	Step Reflex (NICHD+NRNT)	Infant_Reflex
+Sucking_Reflex	Sucking Reflex (NICHD+NRNT)	Infant_Reflex
+Tonic_Neck_Reflex	Tonic Neck Reflex (NICHD+NRNT)	Infant_Reflex
+Spinal_Cord_Infarction	Infarction of Spinal Cord (NRNT)	Infarction
+Myocardial_Infarction	Myocardial Infarction (NRNT)	Infarction
+Acute_Appendicitis	Appendicitis (NRNT)	Infectious_Disorder
+Skin_Infection	Infection of Skin (NRNT)	Infectious_Disorder
+Central_Nervous_System_Infectious_Disorder	Infectious Disease of Central Nervous System (NRNT)	Infectious_Disorder
+Meconium_Peritonitis	Meconium Peritonitis (NRNT)	Infectious_Disorder
+Mucocutaneous_Candidiasis	Mucocutaneous Candidiasis (NRNT)	Infectious_Disorder
+Neonatal_Infectious_Disorder	Neonatal Infectious Disorder (NRNT)	Infectious_Disorder
+TORCH_Syndrome	Toxoplasmosis, Other Infections, Rubella, Cytomegalovirus, and Herpes Simplex Virus (Torch) Syndrome (NRNT)	Infectious_Disorder
+Varicella_Zoster_Infection	Varicella-Zoster Virus Infection (NRNT)	Infectious_Disorder
+Bacterial_Infection	Bacterial Disease (PEDS)	Infectious_Disorder
+Meningitis	Meningitis (NICHD+NRNT)	Infectious_Disorder
+Parasitic_Infection	Parasitic Disease (PEDS)	Infectious_Disorder
+Sinusitis	Sinus Infection (PEDS)	Infectious_Disorder
+Urinary_Tract_Infection	Urinary Tract Infection (NICHD+NRNT)	Infectious_Disorder
+Viral_Infection	Viral Disease (PEDS)	Infectious_Disorder
+Swine_Influenza	H1N1 Influenza (PEDS)	Influenza
+Neonatal_Birth_Trauma	Birth Trauma of Fetus (NRNT)	Injury
+Fracture	Fracture of Bone (NRNT)	Injury
+Head_Injury	Injury of Head (NRNT)	Injury
+Skin_Injury	Injury of Integument (NRNT)	Injury
+Connective_and_Soft_Tissue_Injury	Injury of Musculoskeletal System (NRNT)	Injury
+Pneumomediastinum	Mediastinal Emphysema (NRNT)	Injury
+Intentional_Trauma	Nonaccidental Trauma (NRNT)	Injury
+Pneumopericardium	Pneumopericardium (NRNT)	Injury
+Pneumoperitoneum	Pneumoperitoneum (NRNT)	Injury
+Recurrent_Laryngeal_Nerve_Injury	Recurrent Laryngeal Nerve Injury (NRNT)	Injury
+Neonatal_Acrocyanosis	Neonatal Acrocyanosis (NRNT)	Integumentary_System_Finding
+Colonic_Fistula	Large Bowel Fistula (NRNT)	Intestinal_Fistula
+In_Utero_Bowel_Perforation	In Utero Bowel Perforation (NRNT)	Intestinal_Perforation
+Ileal_Perforation	Perforation of Ileum (NRNT)	Intestinal_Perforation
+Cerebrovascular_Accident	Cerebrovascular Accident (NRNT)	Intracranial_Hemorrhage
+Extradural_Hemorrhage	Epidural Hemorrhage (NRNT)	Intracranial_Hemorrhage
+Perinatal_Intracranial_Hemorrhage	Perinatal Intracranial Hemorrhage (NRNT)	Intracranial_Hemorrhage
+Subarachnoid_Hemorrhage	Subarachnoid Hemorrhage (NRNT)	Intracranial_Hemorrhage
+Subdural_Hemorrhage	Subdural Hemorrhage (NRNT)	Intracranial_Hemorrhage
+Cervical_Dilation	Cervical Dilation (PEDS)	Intrapartum_Process
+Cervical_Effacement	Cervical Effacement (PEDS)	Intrapartum_Process
+Birthing_Labor	Labor (PEDS)	Intrapartum_Process
+Passing_of_Mucus_Plug	Passing of Mucus Plug (PEDS)	Intrapartum_Process
+Physiologic_Lightening	Physiologic Lightening (PEDS)	Intrapartum_Process
+Rupture_of_Membrane	Rupture of Membrane (PEDS)	Intrapartum_Process
+Uterine_Contraction	Uterine Contraction (PEDS)	Intrapartum_Process
+Contraceptive_Coil	Contraceptive Coil (PEDS)	Intrauterine_Device
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_1	Intraventricular (Nontraumatic) Hemorrhage, Grade 1, of Fetus and Newborn (NRNT)	Intraventricular_Brain_Hemorrhage
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_2	Intraventricular (Nontraumatic) Hemorrhage, Grade 2, of Fetus and Newborn (NRNT)	Intraventricular_Brain_Hemorrhage
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_3	Intraventricular (Nontraumatic) Hemorrhage, Grade 3, of Fetus and Newborn (NRNT)	Intraventricular_Brain_Hemorrhage
+Perinatal_Intraventricular_Hemorrhage	Perinatal Intraventricular Hemorrhage (NRNT)	Intraventricular_Brain_Hemorrhage
+Kernicterus_due_to_Isoimmunization	Kernicterus due to Isoimmunization (NRNT)	Jaundice
+Kernicterus	Kernicterus Not due to Isoimmunization (NRNT)	Jaundice
+Neonatal_Jaundice	Neonatal Jaundice (NRNT)	Jaundice
+Inspissated_Bile_Syndrome	Perinatal Jaundice due to Inspissated Bile Syndrome (NRNT)	Jaundice
+Central_Auditory_Processing_Disorder	Central Auditory Processing Disorder (PEDS)	Language_Disorder
+Dyscalculia	Dyscalculia (PEDS)	Learning_Disorder
+Dyslexia	Dyslexia (PEDS)	Learning_Disorder
+Total_Body_Length	Total Body Length (PEDS)	Length
+Childhood	Child Life Stage (PEDS)	Life_Stage
+Maternal_Life_Stage	Maternal Life Stage (PEDS)	Life_Stage
+Gaucher_Disease	Glucosylceramide Beta-Glucosidase Deficiency (NRNT)	Lipid_Metabolism_Disorder
+Niemann-Pick_Disease	Sphingomyelin/Cholesterol Lipidosis (NRNT)	Lipid_Metabolism_Disorder
+Fabry_Disease	Fabry's Disease (NRNT)	Lysosomal_Storage_Disease
+Fucosidosis	Fucosidosis (NRNT)	Lysosomal_Storage_Disease
+Mannosidosis	Mannosidosis (NRNT)	Lysosomal_Storage_Disease
+Maternal_Postnatal_Life_Stage	Postnatal Stage (PEDS)	Maternal_Life_Stage
+Maternal_Preconception_Life_Stage	Preconception Stage (PEDS)	Maternal_Life_Stage
+Maternal_Prenatal_Life_Stage	Prenatal Stage (PEDS)	Maternal_Life_Stage
+Fetal_Hydantoin_Syndrome	Fetal Hydantoin Syndrome (NRNT)	Maternal_Transmission
+Fetal_Methotrexate_Syndrome	Fetal Methotrexate Syndrome (NRNT)	Maternal_Transmission
+Fetal_Valproate_Syndrome	Fetal Valproate Syndrome (NRNT)	Maternal_Transmission
+Fetal_Warfarin_Syndrome	Fetal Warfarin Syndrome (NRNT)	Maternal_Transmission
+Neonatal_Withdrawal_Syndrome	Postnatal Drug Withdrawal (NRNT)	Maternal_Transmission
+Fetal_Retinoid_Syndrome	Retinoic Acid Embryopathy (NRNT)	Maternal_Transmission
+Measuring_Tape	Measuring Tape (PEDS)	Measurement_Device
+Vernier_Caliper	Vernier Caliper (PEDS)	Measurement_Device
+Lasso-O_Measuring_Tape	Lasso-O Measuring Tape (PEDS)	Measuring_Tape
+Infectious_Meningitis	Infective Meningitis (NRNT)	Meningitis
+Cervical_Meningocele	Cervical Meningocele (NRNT)	Meningocele
+Lumbar_Meningocele	Lumbar Meningocele (NRNT)	Meningocele
+Sacral_Meningocele	Sacral Meningocele (NRNT)	Meningocele
+Thoracic_Meningocele	Thoracic Meningocele (NRNT)	Meningocele
+Carbohydrate_Metabolism_Disorder	Disorder of Carbohydrate Metabolism (NRNT)	Metabolic_Disorder
+Type_IIb_Hyperlipoproteinemia	Disorder of Cholesterol Synthesis (NRNT)	Metabolic_Disorder
+Electrolyte_Disorder	Disorder of Electrolytes (NRNT)	Metabolic_Disorder
+Hypophosphatasia	Hypophosphatasia (NRNT)	Metabolic_Disorder
+Lactic_Acidosis	Lactic Acidosis (NRNT)	Metabolic_Disorder
+Metabolic_Bone_Disorder	Metabolic Bone Disease (NRNT)	Metabolic_Disorder
+Renal_Tubular_Acidosis	Renal Tubular Acidosis (NRNT)	Metabolic_Disorder
+Enzyme_Deficiency	Specific Enzyme Deficiency (NRNT)	Metabolic_Disorder
+Infant_of_Diabetic_Mother	Syndrome of Infant of Diabetic Mother (NRNT)	Metabolic_Disorder
+Vitamin_Deficiency_Disorder	Vitamin Deficiency (NRNT)	Metabolic_Disorder
+Inborn_Errors_of_Metabolism	Congenital Metabolic Disorder (NICHD+NRNT)	Metabolic_Disorder
+Mitochondrial_Myopathy	Mitochondrial Myopathy (NRNT)	Metabolic_Myopathy
+Congenital_Methemoglobinemia	Congenital Methemoglobinemia (NRNT)	Methemoglobinemia
+Artificial_Insemination	Artificial Insemination (PEDS)	Method_of_Conception
+Embryo_Transfer	Embryo Transfer (PEDS)	Method_of_Conception
+Fertilization	Fertilization (PEDS)	Method_of_Conception
+in_vitro_Fertilization	In Vitro Fertilization (PEDS)	Method_of_Conception
+Bilateral_Microphthalmos	Microphthalmos, Bilateral (NRNT)	Microphthalmos
+Unilateral_Microphthalmos	Microphthalmos, Unilateral (NRNT)	Microphthalmos
+Histiocytosis	Histiocytic Syndrome (NRNT)	Morphologic_Finding
+Extramedullary_Hematopoiesis	Skin Discoloration Consistent  with Extramedullary Hematopoeis (NRNT)	Morphologic_Finding
+Paralysis	Paralytic Syndrome (NRNT)	Motor_Manifestations
+Reflex	Reflex (NRNT)	Motor_Manifestations
+Vocal_Cord_Paralysis	Vocal Cord Palsy (NRNT)	Motor_Manifestations
+Sanfilippo_Syndrome	Deficiency of Acetyl-CoA Acyltransferase (NRNT)	Mucopolysaccharidosis
+Walker-Warburg_Syndrome	Walker-Warburg Congenital Muscular Dystrophy (NRNT)	Muscular_Dystrophy
+Cervical_Myelocele	Cervical Myelocele (NRNT)	Myelocele
+Lumbar_Myelocele	Lumbar Myelocele (NRNT)	Myelocele
+Sacral_Myelocele	Sacral Myelocele (NRNT)	Myelocele
+Thoracic_Myelocele	Thoracic Myelocele (NRNT)	Myelocele
+Cervical_Myelomeningocele	Cervical Meningomyelocele (NRNT)	Myelomeningocele
+Lumbar_Myelomeningocele	Lumbar Myelomeningocele (NRNT)	Myelomeningocele
+Sacral_Myelomeningocele	Sacral Myelomeningocele (NRNT)	Myelomeningocele
+Thoracic_Myelomeningocele	Thoracic Myelomeningocele (NRNT)	Myelomeningocele
+Cardiomyopathy	Cardiomyopathy (NRNT)	Myopathy
+Metabolic_Myopathy	Metabolic Myopathy (NRNT)	Myopathy
+Myotonic_Dystrophy	Myotonic Dystrophy (NRNT)	Myotonic_Disorder
+Finnegan_Score_Measurement	Finnegan Score Measurement (PEDS)	Neonatal_Abstinence_Syndrome_Assessment
+Brachial_Plexus_Injury_due_to_Birth_Trauma	Brachial Plexus Palsy due to Birth Trauma (NRNT)	Neonatal_Birth_Trauma
+Fracture_of_Clavicle_due_to_Birth_Trauma	Fracture of Clavicle due to Birth Trauma (NRNT)	Neonatal_Birth_Trauma
+Fracture_of_Long_Bone_due_to_Birth_Trauma	Fracture of Long Bone due to Birth Trauma (NRNT)	Neonatal_Birth_Trauma
+Fracture_of_Skull_due_to_Birth_Trauma	Fracture of Skull due to Birth Trauma (NRNT)	Neonatal_Birth_Trauma
+Spinal_Cord_Infarct_during_Birth	Spinal Cord Infarct During Birth (NRNT)	Neonatal_Birth_Trauma
+Spinal_Injury_due_to_Birth_Trauma	Spine or Spinal Cord Injury due to Birth Trauma (NRNT)	Neonatal_Birth_Trauma
+Breast_Milk_Jaundice	Neonatal Jaundice due to Delayed Conjugation From Breast Milk Inhibitors (NRNT)	Neonatal_Jaundice
+Transient_Tachypnea_of_the_Newborn	Transitory Tachypnea of Newborn (NRNT)	Neonatal_Respiratory_System_Disorder
+Neonatal_Respiratory_Distress_Syndrome	Neonatal Respiratory Distress Syndrome (NICHD+NRNT)	Neonatal_Respiratory_System_Disorder
+Neonatal_Opiate_Withdrawal_Syndrome	Neonatal Opiate Withdrawal Syndrome (NRNT)	Neonatal_Withdrawal_Syndrome
+Lymphangiomatosis	Congenital Lymphangioma (NRNT)	Neoplasm
+Congenital_Melanocytic_Skin_Nevus	Congenital Pigmented Melanocytic Nevus (NRNT)	Neoplasm
+Germ_Cell_Neoplasm	Germ Cell Tumor (NRNT)	Neoplasm
+Hemangioendothelioma	Hemangioendothelioma (NRNT)	Neoplasm
+Hematopoietic_Cell_Neoplasm	Hematologic Neoplasm (NRNT)	Neoplasm
+Hepatoblastoma	Hepatoblastoma (NRNT)	Neoplasm
+Langerhans_Cell_Histiocytosis	Hystocytosis (NRNT)	Neoplasm
+Lipoma	Lipoma (NRNT)	Neoplasm
+Lymphangioma	Lymphangioma (NRNT)	Neoplasm
+Malignant_Neoplasm	Malignant Neoplastic Disease (NRNT)	Neoplasm
+Malignant_Renal_Neoplasm	Malignant Tumor of Kidney Parenchyma (NRNT)	Neoplasm
+Bone_Marrow_Neoplasm	Neoplasm of Bone Marrow (NRNT)	Neoplasm
+Cardiac_Neoplasm	Neoplasm of Heart (NRNT)	Neoplasm
+Nervous_System_Neoplasm	Neoplasm of Nervous System (NRNT)	Neoplasm
+Renal_Wilms_Tumor	Nephroblastoma (NRNT)	Neoplasm
+Neuroendocrine_Neoplasm	Neuroendocrine Tumor (NRNT)	Neoplasm
+Polycythemia_Vera	Polycythemia Vera (NRNT)	Neoplasm
+Primary_Malignant_Neoplasm	Primary Malignant Neoplasm (NRNT)	Neoplasm
+Malignant_Eye_Neoplasm	Primary Malignant Neoplasm of Eye (NRNT)	Neoplasm
+Primary_Malignant_Neoplasm_of_Liver	Primary Malignant Neoplasm of Liver (NRNT)	Neoplasm
+Retinoblastoma	Retinoblastoma (NRNT)	Neoplasm
+Rhabdomyoma	Rhabdomyomatous Neoplasm (NRNT)	Neoplasm
+Rhabdomyosarcoma	Rhabdomyosarcoma (NRNT)	Neoplasm
+Sacrococcygeal_Teratoma	Sacrococcygeal Teratoma (NRNT)	Neoplasm
+Sarcoma_of_the_Soft_Tissue_and_Bone	Sarcoma (NRNT)	Neoplasm
+Gonadal_Teratoma	Teratoma, Gonads (NRNT)	Neoplasm
+Cervical_Carcinoma	Cervical Carcinoma (PEDS)	Neoplasm
+Cervical_Intraepithelial_Neoplasia	Cervical Intraepithelial Neoplasia (PEDS)	Neoplasm
+Cystic_Lymphangioma	Cystic Hygroma (NICHD+NRNT)	Neoplasm
+Hemangioma	Hemangioma (NICHD+NRNT)	Neoplasm
+Congenital_Nephrotic_Syndrome	Congenital Nephrotic Syndrome (NRNT)	Nephrotic_Syndrome
+Cranial_Nerve_Disorder	Cranial Nerve Disorder (NRNT)	Nervous_System_Disorder
+Peripheral_Nervous_System_Disorder	Disorder of the Peripheral Nervous System (NRNT)	Nervous_System_Disorder
+Facial_Nerve_Paralysis	Facial Palsy (NRNT)	Nervous_System_Disorder
+Spinal_Cord_Infarction	Infarction of Spinal Cord (NRNT)	Nervous_System_Disorder
+Central_Nervous_System_Infectious_Disorder	Infectious Disease of Central Nervous System (NRNT)	Nervous_System_Disorder
+Brachial_Plexopathy	Injury of Brachial Plexus (NRNT)	Nervous_System_Disorder
+Spinal_Cord_Injury	Spinal Cord Injury (NRNT)	Nervous_System_Disorder
+Canavan_Disease	Spongy Degeneration of Central Nervous System (NRNT)	Nervous_System_Disorder
+Central_Nervous_System_Disorder	Central Nervous System Disorder (NICHD+NRNT)	Nervous_System_Disorder
+Cerebral_Palsy	Cerebral Palsy (PEDS)	Nervous_System_Disorder
+Demyelinating_Disorder	Demyelinating Disorder (PEDS)	Nervous_System_Disorder
+Neuroglial_Tumor	Glioma (NRNT)	Nervous_System_Neoplasm
+Medulloblastoma	Medulloblastoma (NRNT)	Nervous_System_Neoplasm
+Spina_Bifida	Spina Bifida (NRNT)	Neural_Tube_Defect
+Encephalocele	Encephalocele (NICHD+NRNT)	Neural_Tube_Defect
+Spina_Bifida	Spina Bifida (NRNT)	Neurodevelopmental_Disorder
+Brain_Developmental_Abnormality	Brain Development Abnormality (PEDS)	Neurodevelopmental_Disorder
+Developmental_Coordination_Disorder	Developmental coordination disorder (PEDS)	Neurodevelopmental_Disorder
+Pervasive_Developmental_Disorder	Pervasive Developmental Disorder (PEDS)	Neurodevelopmental_Disorder
+Cognitive_Assessment	Cognitive Assessment (PEDS)	Neurologic_Examination
+Neurological_Screening	Neurological Screening (NICHD+NRNT)	Neurologic_Examination
+Lacrimal_Mucocele	Lacrimal Mucocele (NRNT)	Neurosensory_Disorder
+Phrenic_Nerve_Palsy	Paralysis of Diaphragm (NRNT)	Neurosensory_Disorder
+Phrenic_Nerve_Injury	Phrenic Nerve Injury, Acquired (NRNT)	Neurosensory_Disorder
+Congenital_Phrenic_Nerve_Palsy	Phrenic Nerve Palsy, Congenital (NRNT)	Neurosensory_Disorder
+Septo-Optic_Dysplasia	Septo-Optic Dysplasia Sequence (NRNT)	Neurosensory_Disorder
+Recurrent_Laryngeal_Nerve_Palsy	Vagus Nerve Laryngeal Paralysis (NRNT)	Neurosensory_Disorder
+Hearing_Loss	Hearing Loss (PEDS)	Neurosensory_Disorder
+Vision_Disorder	Vision Disorder (NICHD+NRNT)	Neurosensory_Disorder
+Full_Term_Neonate	Full Term Neonate (PEDS)	Newborn
+Preterm_Newborn_Infant	Preterm Newborn Infant (PEDS)	Newborn
+Sick_Newborn	Sick Newborn (PEDS)	Newborn
+Bayley_Scale_of_Infant_Development_II	Bayley Scale of Infant Development II (NRNT)	Newborn_Behavioral_Examination
+Bayley_Scale_of_Infant_Development_III	Bayley Scale of Infant Development III (NRNT)	Newborn_Behavioral_Examination
+Bayley_Scales_of_Infant_Development	Bayley Scales of Infant Development (NICHD+NRNT)	Newborn_Behavioral_Examination
+Behavioral_Rating_Scale	Behavioral Rating Scale (NICHD+NRNT)	Newborn_Behavioral_Examination
+Brazelton_Neonatal_Behavioral_Assessment_Scale	Brazelton Neonatal Behavioral Assessment Scale (PEDS)	Newborn_Behavioral_Examination
+Gesell_Developmental_Schedule	Gesell Developmental Schedule (NICHD+NRNT)	Newborn_Behavioral_Examination
+Mental_Development_Index	Mental Development Index (NICHD+NRNT)	Newborn_Behavioral_Examination
+Mental_Scale	Mental Scale (NICHD+NRNT)	Newborn_Behavioral_Examination
+APGAR_Test	APGAR Test (PEDS)	Newborn_Examination
+Arm_Recoil_Measurement	Arm Recoil Measurement (NICHD+NRNT)	Newborn_Examination
+Audiometric_Test	Audiometric Test (PEDS)	Newborn_Examination
+Barlow_s_Maneuver	Barlow's Maneuver (PEDS)	Newborn_Examination
+Denver_Development_Screening_Test	Denver Development Screening Test (PEDS)	Newborn_Examination
+Galeazzi_Test	Galeazzi Test (PEDS)	Newborn_Examination
+Heel_to_Ear_Measurement	Heel to Ear Measurement (PEDS)	Newborn_Examination
+Palmar_Crease_Examination	Inspection of palm crease (PEDS)	Newborn_Examination
+Neonatal_Abstinence_Syndrome_Assessment	Neonatal Abstinence Syndrome Assessment (NICHD+NRNT)	Newborn_Examination
+Neuromuscular_Maturity_Assessment	Neuromuscular Maturity Assessment (NICHD+NRNT)	Newborn_Examination
+Newborn_Behavioral_Examination	Newborn Behavioral Examination (NICHD+NRNT)	Newborn_Examination
+Newborn_Screening	Newborn Screening (PEDS)	Newborn_Examination
+Ortolani_Maneuver	Ortolani Maneuver (PEDS)	Newborn_Examination
+Physical_Maturity_Assessment	Physical Maturity Assessment (PEDS)	Newborn_Examination
+Popliteal_Angle_Measurement	Popliteal Angle Measurement (NICHD+NRNT)	Newborn_Examination
+Red_Reflex_Vision_Test	Red Reflex Vision Test (NICHD+NRNT)	Newborn_Examination
+Scarf_Sign	Scarf Sign (PEDS)	Newborn_Examination
+Square_Window_Measurement	Square Window (PEDS)	Newborn_Examination
+Anatomic_Structure_System_or_Substance	Anatomic Structure or System (PEDS)	NICHD
+Device	Device (PEDS)	NICHD
+Diseases_and_Disorders	Disease or Disorder (NICHD+NRNT)	NICHD
+Finding	Finding (NICHD+NRNT)	NICHD
+Healthcare_Activity	Healthcare Activity (PEDS)	NICHD
+Organisms	Organism (PEDS)	NICHD
+Organismal_Process	Organismal Process (PEDS)	NICHD
+Person	Person (PEDS)	NICHD
+Properties_or_Attributes	Property or Attribute (PEDS)	NICHD
+Substance	Substance (PEDS)	NICHD
+Fetal_Methotrexate_Syndrome	Fetal Methotrexate Syndrome (NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Valproate_Syndrome	Fetal Valproate Syndrome (NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Warfarin_Syndrome	Fetal Warfarin Syndrome (NRNT)	Non-Neoplastic_Fetal_Disorder
+Hydrops_Fetalis	Hemoglobin Bart's Hydrops Syndrome (NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Retinoid_Syndrome	Retinoic Acid Embryopathy (NRNT)	Non-Neoplastic_Fetal_Disorder
+Cephalhematoma	Cephalhematoma (NICHD+NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Alcohol_Spectrum_Disorder	Fetal Alcohol Spectrum Disorder (NICHD+NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Tachycardia	Fetal Tachycardia (NICHD+NRNT)	Non-Neoplastic_Fetal_Disorder
+Fetal_Growth_Retardation	Intrauterine Growth Retardation (PEDS)	Non-Neoplastic_Fetal_Disorder
+Fetal_Malpresentation	Malpresentation of Fetus (PEDS)	Non-Neoplastic_Fetal_Disorder
+Oligohydramnios	Oligohydramnios (PEDS)	Non-Neoplastic_Fetal_Disorder
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_1	Intraventricular (Nontraumatic) Hemorrhage, Grade 1, of Fetus and Newborn (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_2	Intraventricular (Nontraumatic) Hemorrhage, Grade 2, of Fetus and Newborn (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Intraventricular_Hemorrhage_of_the_Newborn_Grade_3	Intraventricular (Nontraumatic) Hemorrhage, Grade 3, of Fetus and Newborn (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Hyperbilirubinemia	Neonatal Hyperbilirubinemia (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Hypoglycemia	Neonatal Hypoglycemia (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Infectious_Disorder	Neonatal Infectious Disorder (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Jaundice	Neonatal Jaundice (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Breast_Milk_Jaundice	Neonatal Jaundice due to Delayed Conjugation From Breast Milk Inhibitors (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Lupus_Erythematosus	Neonatal Lupus Erythematosus (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Rickets	Neonatal Rickets (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Perinatal_Drug_Abuse_and_Neonatal_Drug_Withdrawal	Perinatal Drug Withdrawal (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Transient_Neonatal_Thrombocytopenia	Transient Neonatal Thrombocytopenia (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Transient_Tachypnea_of_the_Newborn	Transitory Tachypnea of Newborn (NRNT)	Non-Neoplastic_Neonatal_Disorder
+Hemolytic_Disease_of_the_Newborn	Hemolytic Disease of the Newborn (NICHD+NRNT)	Non-Neoplastic_Neonatal_Disorder
+Neonatal_Abstinence_Syndrome	Neonatal Abstinence Syndrome (NICHD+NRNT)	Non-Neoplastic_Neonatal_Disorder
+Retrolental_Fibroplasia	Retinopathy of Prematurity (NICHD+NRNT)	Non-Neoplastic_Neonatal_Disorder
+Sick_Newborn	Sick Newborn (PEDS)	Non-Neoplastic_Neonatal_Disorder
+Congenital_Malformation_Syndrome	Congenital Malformation Syndrome (NRNT)	Non-Neoplastic_Pediatric_Disorder
+Non-Neoplastic_Fetal_Disorder	Fetal Disorder (NRNT)	Non-Neoplastic_Pediatric_Disorder
+Non-Neoplastic_Neonatal_Disorder	Neonatal Disorder (NRNT)	Non-Neoplastic_Pediatric_Disorder
+Perinatal_Disorder	Perinatal Disorder (NRNT)	Non-Neoplastic_Pediatric_Disorder
+Cerebral_Palsy	Cerebral Palsy (PEDS)	Non-Neoplastic_Pediatric_Disorder
+Pediatric_Psychiatric_Disorder	Childhood Mental Disorder (PEDS)	Non-Neoplastic_Pediatric_Disorder
+Pediatric_Obesity	Childhood Obesity (PEDS)	Non-Neoplastic_Pediatric_Disorder
+Pediatric_Viral_Infection	Childhood Viral Disease (PEDS)	Non-Neoplastic_Pediatric_Disorder
+Congenital_Abnormality	Congenital Abnormality (NICHD+NRNT)	Non-Neoplastic_Pediatric_Disorder
+Developmental_Disorder	Developmental Disorder (NICHD+NRNT)	Non-Neoplastic_Pediatric_Disorder
+Multiple_Pregnancy	Multiple Pregnancy (PEDS)	Normal_Pregnancy
+Teenage_Pregnancy	Teenage Pregnancy (PEDS)	Normal_Pregnancy
+Apgar_Score	APGAR Score (NICHD+NRNT)	Numeric_Value
+Dubowitz_Score	Ballard/Dubowitz Score (NICHD+NRNT)	Numeric_Value
+Breathing_Effort_Score	Breathing Effort Score (NICHD+NRNT)	Numeric_Value
+Heart_Rate	Heart Rate (NICHD+NRNT)	Numeric_Value
+Heart_Rate_Score	Heart Rate Score (NICHD+NRNT)	Numeric_Value
+Muscle_Tone_Score	Muscle Tone Score (NICHD+NRNT)	Numeric_Value
+Newborn_Blood_Pressure	Newborn Blood Pressure (PEDS)	Numeric_Value
+Newborn_Motor_Scale	Newborn Motor Scale (NICHD+NRNT)	Numeric_Value
+Pulse_Rate	Pulse Rate (NICHD+NRNT)	Numeric_Value
+Reflex_Irritability_Score	Reflex Irritability Score (NICHD+NRNT)	Numeric_Value
+Respiratory_Rate	Respiratory Rate (NICHD+NRNT)	Numeric_Value
+Skin_Color_Score	Skin Color Score (NICHD+NRNT)	Numeric_Value
+Acquired_Rickets	Acquired Rickets (NRNT)	Nutritional_Disorder
+Vitamin_Deficiency_Disorder	Vitamin Deficiency (NRNT)	Nutritional_Disorder
+Goiter	Goiter (PEDS)	Nutritional_Disorder
+Maternal_Obesity	Maternal Obesity (PEDS)	Nutritional_Disorder
+Heart_Monitoring	Cardiac Monitoring (NRNT)	Observation
+Injury	Traumatic Injury (NRNT)	Observation_Result
+Cause_of_Death	Cause of Death (PEDS)	Observation_Result
+Clinical_Test_Result	Clinical Test Result (NICHD+NRNT)	Observation_Result
+Developmental_Milestone	Developmental Milestones (PEDS)	Observation_Result
+Diagnosis	Diagnosis (PEDS)	Observation_Result
+Fetal_Finding	Fetal Finding (NICHD+NRNT)	Observation_Result
+Fetal_Heart_Finding	Fetal Heart Finding (NICHD+NRNT)	Observation_Result
+Finding_during_Childbirth_Labor	Finding during Childbirth Labor (PEDS)	Observation_Result
+Head_Circumference	Head Circumference (NICHD+NRNT)	Observation_Result
+Reproductive_System_Finding	Reproductive System Finding (PEDS)	Observation_Result
+Amnioinfusion	Amnioinfusion (PEDS)	Obstetric_Procedure
+Assisted_Labor	Assisted Labor (PEDS)	Obstetric_Procedure
+Method_of_Conception	Conception Method (PEDS)	Obstetric_Procedure
+Birth_Method_of_Delivery	Delivery Procedure (PEDS)	Obstetric_Procedure
+Therapeutic_Abortion_Procedure	Therapeutic Abortion (PEDS)	Obstetric_Procedure
+Bilateral_Optic_Nerve_Hypoplasia	Hypoplasia of the Optic Nerve, Bilateral (NRNT)	Optic_Nerve_Hypoplasia
+Unilateral_Optic_Nerve_Hypoplasia	Hypoplasia of the Optic Nerve, Unilateral (NRNT)	Optic_Nerve_Hypoplasia
+Beta-Ketothiolase_Deficiency	Beta-Ketothiolase Deficiency (NRNT)	Organic_Acid_Metabolism_Disorder
+Isovaleric_Acidemia	Isovaleryl-Coa Dehydrogenase Deficiency (NRNT)	Organic_Acid_Metabolism_Disorder
+Propionic_Acidemia	Propionic Acidemia (NRNT)	Organic_Acid_Metabolism_Disorder
+Behavior	Behavior (PEDS)	Organismal_Process
+Breast_Feeding	Breast Feeding (PEDS)	Organismal_Process
+Development	Maturation (PEDS)	Organismal_Process
+Menopause	Menopause (PEDS)	Organismal_Process
+Nutrition	Nutrition (PEDS)	Organismal_Process
+Reproductive_Process	Reproductive Process (PEDS)	Organismal_Process
+Sleep	Sleep (PEDS)	Organismal_Process
+Bacteria	Bacteria (PEDS)	Organisms
+Virus	Virus (PEDS)	Organisms
+Osteogenesis_Imperfecta_Type_I	Osteogenesis Imperfecta Type I (NRNT)	Osteogenesis_Imperfecta
+Osteogenesis_Imperfecta_Type_II	Osteogenesis Imperfecta Type Ii (NRNT)	Osteogenesis_Imperfecta
+Osteogenesis_Imperfecta_Type_III	Osteogenesis Imperfecta Type Iii (NRNT)	Osteogenesis_Imperfecta
+Osteogenesis_Imperfecta_Tye_IV	Osteogenesis Imperfecta Type Iv (NRNT)	Osteogenesis_Imperfecta
+Pulse_Oximetry	Pulse Oximetry (NRNT)	Oxygen_Saturation
+Brachial_Plexus_Injury_due_to_Birth_Trauma	Brachial Plexus Palsy due to Birth Trauma (NRNT)	Paralysis
+Malaria	Malaria (PEDS)	Parasitic_Infection
+Toxoplasmosis	Toxoplasmosis (PEDS)	Parasitic_Infection
+Intramuscular_Injection	Intramuscular Route of Administration (PEDS)	Parenteral_Route_of_Drug_Administration
+Intravenous_Route_of_Drug_Administration	Intravenous Route of Administration (PEDS)	Parenteral_Route_of_Drug_Administration
+Subcutaneous_Route_of_Drug_Administration	Subcutaneous Route of Administration (PEDS)	Parenteral_Route_of_Drug_Administration
+Birth	Birth (PEDS)	Parturition
+Intrapartum_Process	Intrapartum Process (PEDS)	Parturition
+Postpartum_Process	Postpartum Process (PEDS)	Parturition
+Vaginal_Birth_Mechanism	Vaginal Birth Mechanism (PEDS)	Parturition
+Assessment_of_Fetal_Condition	Assessment of Fetal Condition (PEDS)	Pediatric_Intervention_or_Procedure
+Fetal_Examination	Fetal Examination (PEDS)	Pediatric_Intervention_or_Procedure
+Gestational_Weeks	Gestational Weeks Assessment (PEDS)	Pediatric_Intervention_or_Procedure
+Newborn_Examination	Newborn Examination (PEDS)	Pediatric_Intervention_or_Procedure
+Childhood_Depression	Childhood Depression (PEDS)	Pediatric_Psychiatric_Disorder
+Childhood_Schizophrenia	Childhood Schizophrenia (PEDS)	Pediatric_Psychiatric_Disorder
+Developmental_Coordination_Disorder	Developmental coordination disorder (PEDS)	Pediatric_Psychiatric_Disorder
+Language_Disorder	Language Disorder (PEDS)	Pediatric_Psychiatric_Disorder
+Learning_Disorder	Learning Disorder (PEDS)	Pediatric_Psychiatric_Disorder
+Mental_Retardation	Mental Retardation (PEDS)	Pediatric_Psychiatric_Disorder
+Separation_Anxiety_Disorder	Separation Anxiety Disorder (PEDS)	Pediatric_Psychiatric_Disorder
+Chickenpox	Chicken Pox (PEDS)	Pediatric_Viral_Infection
+Rubeola_Infection	Measles (PEDS)	Pediatric_Viral_Infection
+Mumps	Mumps (PEDS)	Pediatric_Viral_Infection
+Acute_Poliomyelitis	Poliomyelitis (PEDS)	Pediatric_Viral_Infection
+Neuropathy	Neuropathy (NRNT)	Peripheral_Nervous_System_Disorder
+Cystic_Periventricular_Leukomalacia	Cystic Periventricular Leukomalacia (NRNT)	Periventricular_Leukomalacia
+Attending_Health_Care_Provider	Attending Health Care Provider (PEDS)	Person
+Child_Offspring	Child (PEDS)	Person
+Maiden_Name	Maiden Name (PEDS)	Personal_Information
+Name	Person Name (PEDS)	Personal_Information
+Personal_Medical_History	Personal Medical History (PEDS)	Personal_Information
+Telephone_Number	Telephone Number (PEDS)	Personal_Information
+Alcohol_Use_History	Alcohol Use History (PEDS)	Personal_Medical_History
+Doctor_s_Information	Doctor's Information (PEDS)	Personal_Medical_History
+Drug_Use_History	Drug Use History (PEDS)	Personal_Medical_History
+Image_Identifier	Image Identifier (PEDS)	Personal_Medical_History
+Imaging_Information	Imaging Information (PEDS)	Personal_Medical_History
+Medical_Record_Number	Medical Record Number (PEDS)	Personal_Medical_History
+Smoking_History	Smoking History (PEDS)	Personal_Medical_History
+Social_History	Social History (PEDS)	Personal_Medical_History
+Autism_Spectrum_Disorder	Autism Spectrum Disorder (PEDS)	Pervasive_Developmental_Disorder
+Childhood_Disintegrative_Disorder	Childhood Disintegrative Disorder (PEDS)	Pervasive_Developmental_Disorder
+Rett_Syndrome	Rett Syndrome (PEDS)	Pervasive_Developmental_Disorder
+Neurofibromatosis	Neurofibromatosis Syndrome (NRNT)	Phakomatosis
+Sturge-Weber_Syndrome	Sturge-Weber Syndrome (NRNT)	Phakomatosis
+Tuberous_Sclerosis	Tuberous Sclerosis Syndrome (NRNT)	Phakomatosis
+Biological_Agent	Biologic Agent (PEDS)	Pharmacologic_Substance
+Congenital_Phrenic_Nerve_Injury	Phrenic Nerve Injury, Congenital (NRNT)	Phrenic_Nerve_Injury
+Chylothorax	Chylothorax (NRNT)	Pleural_Effusion
+Pneumococcal_10-valent_Conjugate_Vaccine	Pneumococcal 10-valent Conjugate Vaccine (PEDS)	Pneumococcal_Conjugate_Vaccine
+Pneumococcal_13-valent_Conjugate_Vaccine	Pneumococcal 13-valent Conjugate Vaccine (PEDS)	Pneumococcal_Conjugate_Vaccine
+Pneumococcal_7-Valent_Conjugate_Vaccine	Pneumococcal 7-Valent Conjugate Vaccine (PEDS)	Pneumococcal_Conjugate_Vaccine
+Autosomal_Recessive_Polycystic_Kidney_Disease	Polycystic Kidney Disease, Infantile Type (NRNT)	Polycystic_Kidney_Disease
+Conjugate_Vaccine	Conjugate Vaccine (PEDS)	Polysaccharide_Vaccine
+Meningococcal_Polysaccharide_Vaccine_MPSV-4	Meningococcal Polysaccharide Vaccine MPSV-4 (PEDS)	Polysaccharide_Vaccine
+Pneumococcal_Polyvalent_Vaccine	Pneumococcal 23-valent Polysaccharide Vaccine (PEDS)	Polysaccharide_Vaccine
+Vi_Capsular_Polysaccharide_Typhoid_Vaccine	Vi Capsular Polysaccharide Typhoid Vaccine (PEDS)	Polysaccharide_Vaccine
+Diphtheria_Toxoid_Tetanus_Toxoid_Acellular_Pertussis_Vaccine_Adsorbed	Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine (PEDS)	Polyvalent_Vaccine
+Diphtheria_Toxoid_Tetanus_Toxoid_Inactivated_Pertussis_Vaccine	Diphtheria Toxoid/Tetanus Toxoid/Inactivated Pertussis Vaccine DTP (PEDS)	Polyvalent_Vaccine
+Trivalent_Influenza_Vaccine	Trivalent Influenza Vaccine (PEDS)	Polyvalent_Vaccine
+Breast_Engorgement	Breast Engorgement (PEDS)	Postpartum_Process
+Delivery_of_Placenta	Delivery of Placenta (PEDS)	Postpartum_Process
+Placental_Duncan_Mechanism	Duncan Mechanism (PEDS)	Postpartum_Process
+Lochia	Lochial Flow (PEDS)	Postpartum_Process
+Postpartum_Placental_Separation	Placental Separation (PEDS)	Postpartum_Process
+Post-Partum_Recovery	Post-Partum Recovery (PEDS)	Postpartum_Process
+Uterine_Involution	Uterine Involution (PEDS)	Postpartum_Process
+Early_Post-Partum_Recovery	Early Post-Partum Recovery (PEDS)	Post-Partum_Recovery
+HELLP_Syndrome	HELLP Syndrome (NICHD+NRNT)	Preeclampsia
+Preeclampsia	Preeclampsia (PEDS)	Pregnancy_Associated_Hypertension
+Diabetes_in_Pregnancy	Gestational Diabetes (PEDS)	Pregnancy_Complication
+Hyperemesis_Gravidarum	Hyperemesis Gravidarum (PEDS)	Pregnancy_Complication
+Fetal_Growth_Retardation	Intrauterine Growth Retardation (PEDS)	Pregnancy_Complication
+Late_Pregnancy_Bleeding	Late Pregnancy Bleeding (PEDS)	Pregnancy_Complication
+Leakage_of_Amniotic_Fluid	Leakage of Amniotic Fluid (PEDS)	Pregnancy_Complication
+Maternal_Fever	Maternal Fever (PEDS)	Pregnancy_Complication
+Maternal_Hypotension	Maternal Hypotension (PEDS)	Pregnancy_Complication
+Oligohydramnios	Oligohydramnios (PEDS)	Pregnancy_Complication
+Placenta_Previa	Placenta Previa (PEDS)	Pregnancy_Complication
+Premature_Separation_of_Placenta	Placental Abruption (PEDS)	Pregnancy_Complication
+Polyhydramnios	Polyhydramnios (PEDS)	Pregnancy_Complication
+Postpartum_Hemorrhage	Postpartum Hemorrhage (PEDS)	Pregnancy_Complication
+Pregnancy_Associated_Hypertension	Pregnancy Induced Hypertension (NICHD+NRNT)	Pregnancy_Complication
+Premature_Labor	Premature Labor (PEDS)	Pregnancy_Complication
+Premature_Rupture_of_Membranes	Premature Rupture of Membranes (PEDS)	Pregnancy_Complication
+Rh_Incompatibility	Rh Incompatibility (PEDS)	Pregnancy_Complication
+Toxemia_of_Pregnancy	Toxemia (PEDS)	Pregnancy_Complication
+Vaginal_Bleeding_during_Pregnancy	Vaginal Bleeding (PEDS)	Pregnancy_Complication
+Maternal_Transmission	Fetus or Newborn Affected By Maternal Transmission of Substance (NRNT)	Pregnancy_Finding
+Change_in_Uterine_Shape	Change in Uterine Shape (PEDS)	Pregnancy_Finding
+Early_Pregnancy_Symptom	Early Pregnancy Symptoms (PEDS)	Pregnancy_Finding
+Enlarging_Abdomen	Enlarged Abdomen (NICHD+NRNT)	Pregnancy_Finding
+Enlarged_Uterus	Enlarged Uterus (PEDS)	Pregnancy_Finding
+First_Movement	First Movement (PEDS)	Pregnancy_Finding
+High_Risk_Pregnancy	High Risk Pregnancy (PEDS)	Pregnancy_Finding
+Labor_Pain	Labor Pain (PEDS)	Pregnancy_Finding
+Last_Menstrual_Period	Last Menstrual Period (PEDS)	Pregnancy_Finding
+Pregnancy_Mood_Swing	Mood Swing (PEDS)	Pregnancy_Finding
+Multiple_Gestation	Multiple Gestation (PEDS)	Pregnancy_Finding
+Negative_Pregnancy_Test	Negative Pregnancy Test (PEDS)	Pregnancy_Finding
+Normal_Pregnancy	Normal Pregnancy (PEDS)	Pregnancy_Finding
+Positive_Pregnancy_Test	Positive Pregnancy Test (PEDS)	Pregnancy_Finding
+Signs_of_Impending_Birth	Signs of Impending Birth (PEDS)	Pregnancy_Finding
+Pregnancy_Related_Skin_Change	Skin Changes (PEDS)	Pregnancy_Finding
+Pregnancy_Stretch_Mark	Stretch Marks (PEDS)	Pregnancy_Finding
+Uterine_Souffle	Uterine Souffle (PEDS)	Pregnancy_Finding
+Weight_Gain	Weight Gain (PEDS)	Pregnancy_Finding
+Conjoined_Twins	Conjoined Twins (NRNT)	Pregnancy_Outcome
+Abortion	Abortion (PEDS)	Pregnancy_Outcome
+Deceased_Sibling	Deceased Sibling (PEDS)	Pregnancy_Outcome
+Multiple_Births	Multiple Birth (PEDS)	Pregnancy_Outcome
+Natural_Birth	Natural Birth (PEDS)	Pregnancy_Outcome
+Perinatal_Death	Perinatal Death (PEDS)	Pregnancy_Outcome
+Preterm_Birth	Preterm Birth (PEDS)	Pregnancy_Outcome
+Bacterial_Vaginosis_Screening	Bacterial Vaginosis Screen (PEDS)	Pregnancy_Related_Screening
+Blood_Glucose_Measurement	Blood Glucose Measurement (NICHD+NRNT)	Pregnancy_Related_Screening
+Blood_Type	Blood Type (PEDS)	Pregnancy_Related_Screening
+Uterine_Contraction_Stress_Test	Contraction Stress Test (PEDS)	Pregnancy_Related_Screening
+Fetal_Biophysical_Profile	Fetal Biophysical Profile (PEDS)	Pregnancy_Related_Screening
+Fetal_Fibronectin_Test	Fetal Fibronectin Test (NICHD+NRNT)	Pregnancy_Related_Screening
+Group_B_Streptococcus_Screening	Group B Streptococcus Screening (PEDS)	Pregnancy_Related_Screening
+Hepatitis_B_Screening	Hepatitis B Screening (PEDS)	Pregnancy_Related_Screening
+Prenatal_HIV_Screening	HIV Screening (PEDS)	Pregnancy_Related_Screening
+Non-Stress_Test	Non-Stress Test (PEDS)	Pregnancy_Related_Screening
+Risk_Factor_Assessment	Risk Factor Assessment (PEDS)	Pregnancy_Related_Screening
+Varicella_Zoster_Virus_Screening	Screening for Chickenpox (PEDS)	Pregnancy_Related_Screening
+Genetic_Screening	Screening for Genetic Defect (PEDS)	Pregnancy_Related_Screening
+Rubella_Screening	Screening for Rubella (NICHD+NRNT)	Pregnancy_Related_Screening
+Human_Chorionic_Gonadotropin_Measurement	Human Chorionic Gonadotropin Measurement (NICHD+NRNT)	Pregnancy_Test
+Antepartum	Antepartum (PEDS)	Pregnancy_Time_Period
+Gestational	Gestational (PEDS)	Pregnancy_Time_Period
+Intrapartum	Intrapartum (PEDS)	Pregnancy_Time_Period
+Postpartum	Postpartum (PEDS)	Pregnancy_Time_Period
+Prenatal	Prenatal (PEDS)	Pregnancy_Time_Period
+Trimester	Trimester (PEDS)	Pregnancy_Time_Period
+Preterm_Premature_Rupture_of_Membranes	Preterm Premature Rupture of Membrane (PEDS)	Premature_Rupture_of_Membranes
+Contraception	Contraception (PEDS)	Preventive_Intervention
+Immunization	Immunization (PEDS)	Preventive_Intervention
+Pap_Smear	Pap Smear (PEDS)	Preventive_Intervention
+Rh_Immune_Globulin_Administration	Rh Immune Globulin Administration (PEDS)	Preventive_Intervention
+Pregnancy_Related_Screening	Screening or Clinical Tests during Pregnancy (PEDS)	Preventive_Intervention
+Sexually_Transmitted_Disease_Screening	Sexually Transmitted Disease Screening (PEDS)	Preventive_Intervention
+Malignant_Eye_Neoplasm	Primary Malignant Neoplasm of Eye (NRNT)	Primary_Malignant_Neoplasm
+Primary_Malignant_Neoplasm_of_Liver	Primary Malignant Neoplasm of Liver (NRNT)	Primary_Malignant_Neoplasm
+Anesthesia_Procedure	Anesthesia Procedure (PEDS)	Procedure
+Diagnostic_Procedure	Diagnostic Procedure (PEDS)	Procedure
+Evaluation	Evaluation Procedure (NICHD+NRNT)	Procedure
+Test	Laboratory Procedure (NICHD+NRNT)	Procedure
+Obstetric_Procedure	Obstetric Procedure (PEDS)	Procedure
+Pediatric_Intervention_or_Procedure	Pediatric Intervention or Procedure (PEDS)	Procedure
+Preventive_Intervention	Preventive Intervention (PEDS)	Procedure
+Referral	Referral (PEDS)	Procedure
+Surgical_Incision	Surgical Incision (PEDS)	Procedure
+Surgical_Procedure	Surgical Procedure (PEDS)	Procedure
+Techniques	Technique (PEDS)	Procedure
+Therapeutic_Procedure	Therapeutic Procedure (PEDS)	Procedure
+Characteristics	Characteristic (PEDS)	Properties_or_Attributes
+Data_Value	Data Value (PEDS)	Properties_or_Attributes
+Demographics	Demographics (PEDS)	Properties_or_Attributes
+General_Modifier	General Qualifier (PEDS)	Properties_or_Attributes
+Personal_Information	Personal Information (PEDS)	Properties_or_Attributes
+Qualitative	Qualitative Concept (PEDS)	Properties_or_Attributes
+Quantitative	Quantitative Concept (PEDS)	Properties_or_Attributes
+Risk_Factor	Risk Factor (PEDS)	Properties_or_Attributes
+Temporal_Modifier	Temporal Qualifier (PEDS)	Properties_or_Attributes
+Time	Time (PEDS)	Properties_or_Attributes
+Unit_of_Measure	Unit of Measure (PEDS)	Properties_or_Attributes
+Blood_Type_Determination	Blood Group Antibody Titer Measurement (NRNT)	Protein_or_Enzyme_Type_Measurement
+Hormone_Measurement	Hormone Measurement (NRNT)	Protein_or_Enzyme_Type_Measurement
+Hemoglobin_Measurement	Hemoglobin Measurement (NICHD+NRNT)	Protein_or_Enzyme_Type_Measurement
+Sexual_and_Gender_Identity_Disorders	Disorder of Sexual Differentiation (NRNT)	Psychiatric_Disorder
+Anxiety_Disorder	Anxiety Disorder (PEDS)	Psychiatric_Disorder
+Bipolar_Disorder	Bipolar Disorder (PEDS)	Psychiatric_Disorder
+Depression	Depression (PEDS)	Psychiatric_Disorder
+Eating_Disorder	Eating Disorder (PEDS)	Psychiatric_Disorder
+Intellectual_Disability	Intellectual Disabilities (PEDS)	Psychiatric_Disorder
+Branch_Pulmonary_Artery_Stenosis	Pulmonary Artery Stenosis, Branch (Not Peripheral Pulmonary Stenosis) (NRNT)	Pulmonary_Artery_Stenosis
+Supravalvar_Pulmonary_Artery_Stenosis	Pulmonary Artery Stenosis, Supravalvar (NRNT)	Pulmonary_Artery_Stenosis
+Persistent_Fetal_Circulation_Syndrome	Persistent Pulmonary Hypertension of the Newborn (NRNT)	Pulmonary_Hypertension
+Pulmonary_Valve_Atresia_with_Intact_Ventricular_Septum	Pulmonary Atresia  with Intact Ventricular Septum (NRNT)	Pulmonary_Valve_Atresia
+Pulmonary_Valve_Atresia_with_Ventricular_Septal_Defect	Pulmonary Atresia  with Ventricular Septal Defect (NRNT)	Pulmonary_Valve_Atresia
+Hypertrophic_Pyloric_Stenosis	Hypertrophic Pyloric Stenosis (NRNT)	Pyloric_Stenosis
+Health	Health (PEDS)	Qualitative
+Identified	Identification (PEDS)	Qualitative
+Indicator	Indicator (PEDS)	Qualitative
+Placement	Placement (PEDS)	Qualitative
+Uterine_Contraction_Frequency	Contraction Frequency (PEDS)	Quantitative
+Uterine_Contraction_Intensity	Contraction Intensity (PEDS)	Quantitative
+Uterine_Contraction_Interval	Contraction Interval (PEDS)	Quantitative
+Duration_of_Uterine_Contraction	Duration of Contraction (PEDS)	Quantitative
+Range	Range (PEDS)	Quantitative
+Regularity_of_Uterine_Contraction	Regularity of Uterine Contraction (PEDS)	Quantitative
+High_Test_Reference_Range	High Test Reference Range (PEDS)	Range
+Low_Test_Reference_Range	Low Test Reference Range (PEDS)	Range
+Normal_Reference_Range	Normal Reference Range (PEDS)	Range
+Hepatitis_B_Vaccine	Recombinant Hepatitis B Vaccine (PEDS)	Recombinant_Viral_Vaccine
+Human_Papilloma_Virus_Vaccine	Recombinant Human Papilloma Virus Vaccine (PEDS)	Recombinant_Viral_Vaccine
+Babinski_s_Sign	Plantar Grasp Reflex Finding (NRNT)	Reflex
+Epidural_Block	Epidural Block (PEDS)	Regional_Anesthesia_Procedure
+Spinal_Block	Spinal Block (PEDS)	Regional_Anesthesia_Procedure
+Unilateral_Renal_Agenesis	Unilateral Agenesis of Kidney (NRNT)	Renal_Agenesis
+Bilateral_Renal_Agenesis	Bilateral Renal Agenesis (NRNT)	Renal_Disorder
+Bilateral_Renal_Dysplasia	Bilateral Renal Dysplasia (NRNT)	Renal_Disorder
+Renal_Vascular_Disorder	Renal Vascular Disorder (NRNT)	Renal_Disorder
+Conception	Conception (PEDS)	Reproductive_Process
+Development_of_Corpus_Luteum	Development of Corpus Luteum (PEDS)	Reproductive_Process
+Impending_Labor	Impending Labor (PEDS)	Reproductive_Process
+Parturition	Labor and Delivery Process (PEDS)	Reproductive_Process
+Ovulation	Ovulation (PEDS)	Reproductive_Process
+Pregnancy	Pregnancy (PEDS)	Reproductive_Process
+Gonadal_Disorder	Disorder of Endocrine Gonad (NRNT)	Reproductive_System_Disorder
+Female_Reproductive_System_Disorder	Female Reproductive System Disorder (PEDS)	Reproductive_System_Disorder
+Male_Reproductive_System_Disorder	Male Reproductive System Disorder (NICHD+NRNT)	Reproductive_System_Disorder
+Ambiguous_Genitalia	Ambiguous Genitalia (NRNT)	Reproductive_System_Finding
+Ovarian_Cyst	Cyst of Ovary (NRNT)	Reproductive_System_Finding
+Female_Genitalia	Female Genitalia Finding (NRNT)	Reproductive_System_Finding
+Ovarian_Torsion	Torsion of Ovary (NRNT)	Reproductive_System_Finding
+Testicular_Torsion	Torsion of Testis (NRNT)	Reproductive_System_Finding
+Pregnancy_Finding	Pregnancy Finding (PEDS)	Reproductive_System_Finding
+Pregnancy_Outcome	Pregnancy Outcome (PEDS)	Reproductive_System_Finding
+Airway_Hemangioma	Airway Hemangioma (NRNT)	Respiratory_Disorder
+Chronic_Lung_Disorder	Chronic Lung Disease (NRNT)	Respiratory_Disorder
+Chronic_Pulmonary_Heart_Disease	Cor Pulmonale (NRNT)	Respiratory_Disorder
+Lung_Disorder	Disorder of Lung (NRNT)	Respiratory_Disorder
+Tracheal_Disorder	Disorder of Trachea (NRNT)	Respiratory_Disorder
+Interstitial_Emphysema	Interstitial Emphysema of Lung (NRNT)	Respiratory_Disorder
+Laryngomalacia	Laryngomalacia (NRNT)	Respiratory_Disorder
+Neonatal_Respiratory_System_Disorder	Neonatal Respiratory System Disorder (NRNT)	Respiratory_Disorder
+Respiratory_Distress	Perinatal Respiratory Distress (NRNT)	Respiratory_Disorder
+Pleural_Effusion	Pleural Effusion (NRNT)	Respiratory_Disorder
+Pneumothorax	Pneumothorax (NRNT)	Respiratory_Disorder
+Pulmonary_Embolism	Pulmonary Embolism (NRNT)	Respiratory_Disorder
+Respiratory_Failure	Respiratory Failure (NRNT)	Respiratory_Disorder
+Laryngeal_Stenosis	Stenosis of Larynx (NRNT)	Respiratory_Disorder
+Tracheal_Web	Tracheal Web (NRNT)	Respiratory_Disorder
+Tracheomalacia	Tracheomalacia (NRNT)	Respiratory_Disorder
+Pneumonia	Pneumonia (PEDS)	Respiratory_Disorder
+Respiratory_Distress_Syndrome	Respiratory Distress Syndrome (PEDS)	Respiratory_Disorder
+Sinusitis	Sinus Infection (PEDS)	Respiratory_Disorder
+Acute_Respiratory_Failure	Acute Respiratory Failure (NRNT)	Respiratory_Failure
+Respiratory_Failure_due_to_Central_Nervous_System_Disorder	Respiratory Failure due to CNS  Failure (NRNT)	Respiratory_Failure
+Respiratory_Failure_due_to_Neuromuscular_Disorder	Respiratory Failure due to Neuromuscular Failure (NRNT)	Respiratory_Failure
+Newborn_Respiratory_Rate	Newborn Respiratory Rate (NICHD+NRNT)	Respiratory_Rate
+Unintentional_Material_Aspiration	Aspiration Into Respiratory Tract (NRNT)	Respiratory_System_Finding
+Laryngeal_Web	Laryngeal Web (NRNT)	Respiratory_System_Finding
+Neonatal_Aspiration_of_Amniotic_Fluid	Neonatal Aspiration of Amniotic Fluid (NRNT)	Respiratory_System_Finding
+Tracheal_Stenosis	Stenosis of Trachea (NRNT)	Respiratory_System_Finding
+Retinopathy_of_Prematurity_with_Plus_Disease	Retinopathy of Prematurity  with Plus Disease (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_in_Zone_1	Retinopathy of Prematurity In Zone 1 (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_in_Zone_2	Retinopathy of Prematurity In Zone 2 (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_in_Zone_3	Retinopathy of Prematurity In Zone 3 (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_Stage_1_Demarcation_Line	Retinopathy of Prematurity Stage 1 - Demarcation Line (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_Stage_2_Intraretinal_Ridge	Retinopathy of Prematurity Stage 2 - Intraretinal Ridge (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_Stage_3_Ridge_with_Extraretinal_Fibroblastic_Proliferation	Retinopathy of Prematurity Stage 3 - Ridge  with Extraretinal Fibrovascular Proliferation (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_Stage_4_Subtotal_Retinal_Detachment	Retinopathy of Prematurity Stage 4 - Subtotal Retinal Detachment (NRNT)	Retrolental_Fibroplasia
+Retinopathy_of_Prematurity_Stage_5_Total_Retinal_Detachment	Retinopathy of Prematurity Stage 5 - Total Retinal Detachment (NRNT)	Retrolental_Fibroplasia
+Immature_Retinopathy_of_Prematurity	Retinopathy of Prematurity, Immature (NRNT)	Retrolental_Fibroplasia
+Acquired_Rickets	Acquired Rickets (NRNT)	Rickets
+Neonatal_Rickets	Neonatal Rickets (NRNT)	Rickets
+Spontaneous_Rupture_of_Membrane	Spontaneous Rupture of Membrane (PEDS)	Rupture_of_Membrane
+Fibrosarcoma	Malignant Fibromatous Neoplasm (NRNT)	Sarcoma_of_the_Soft_Tissue_and_Bone
+Postural_Scoliosis	Congenital Postural Scoliosis (NRNT)	Scoliosis
+Female	Female (PEDS)	Sex
+Male	Male (PEDS)	Sex
+Apnea	Apnea (NRNT)	Sign_or_Symptom
+Ascites	Ascites (NRNT)	Sign_or_Symptom
+Edema	Edema (NRNT)	Sign_or_Symptom
+Neurological_Signs_and_Symptoms	Neurological Finding (NRNT)	Sign_or_Symptom
+Plethoric_Face	Plethoric Face (NRNT)	Sign_or_Symptom
+Change_in_Voice	Voice Finding (NRNT)	Sign_or_Symptom
+Hypersensitivity	Allergic Reaction (PEDS)	Sign_or_Symptom
+Back_Labor	Back Labor (PEDS)	Sign_or_Symptom
+Basilar_Rales	Basilar Rales (NICHD+NRNT)	Sign_or_Symptom
+Central_Nervous_System_Signs_and_Symptoms	Central Nervous System Signs and Symptoms (NICHD+NRNT)	Sign_or_Symptom
+Clonus	Clonus (PEDS)	Sign_or_Symptom
+Confusion	Confusion (PEDS)	Sign_or_Symptom
+Cyanosis	Cyanosis (NICHD+NRNT)	Sign_or_Symptom
+Cyanotic_Body	Cyanotic Body (PEDS)	Sign_or_Symptom
+Cyanotic_Limbs	Cyanotic Limbs (PEDS)	Sign_or_Symptom
+Diarrhea	Diarrhea (NICHD+NRNT)	Sign_or_Symptom
+Early_Pregnancy_Symptom	Early Pregnancy Symptoms (PEDS)	Sign_or_Symptom
+Excessive_Sucking	Excessive Sucking (PEDS)	Sign_or_Symptom
+Excoriation	Excoriation (NICHD+NRNT)	Sign_or_Symptom
+Fever	Fever (PEDS)	Sign_or_Symptom
+Gastrointestinal_System_Signs_and_Symptoms	Gastrointestinal System Signs and Symptoms (NICHD+NRNT)	Sign_or_Symptom
+High_Pitched_Cry	High Pitched Cry (NICHD+NRNT)	Sign_or_Symptom
+Hyperthermia	Hyperthermia (PEDS)	Sign_or_Symptom
+Hypertonia	Hypertonia (PEDS)	Sign_or_Symptom
+Hypotonia	Hypotonia (NICHD+NRNT)	Sign_or_Symptom
+Intercostal_Retractions	Intercostal Retractions (NICHD+NRNT)	Sign_or_Symptom
+Irregular_Respiratory_Rate	Irregular Breathing (NICHD+NRNT)	Sign_or_Symptom
+Lung_Overinflation	Lung Overinflation (PEDS)	Sign_or_Symptom
+Motor_Manifestations	Motor Manifestations (NICHD+NRNT)	Sign_or_Symptom
+Mottling	Mottling (PEDS)	Sign_or_Symptom
+Movement_of_Lip_Corners	Movement of Lip Corners (PEDS)	Sign_or_Symptom
+Myoclonic_Jerk	Myoclonic Jerk (PEDS)	Sign_or_Symptom
+Nasal_Congestion	Nasal Congestion (PEDS)	Sign_or_Symptom
+Nasal_Flaring	Nasal Flaring (PEDS)	Sign_or_Symptom
+Pain	Pain (PEDS)	Sign_or_Symptom
+Pallor	Pallor (NICHD+NRNT)	Sign_or_Symptom
+Poor_Feeding	Poor Feeding (PEDS)	Sign_or_Symptom
+Redness	Redness (PEDS)	Sign_or_Symptom
+Regurgitation	Regurgitation (PEDS)	Sign_or_Symptom
+Rhonchi	Rhonchi (NICHD+NRNT)	Sign_or_Symptom
+Seizure	Seizure (NICHD+NRNT)	Sign_or_Symptom
+Signs_of_Impending_Birth	Signs of Impending Birth (PEDS)	Sign_or_Symptom
+Skin_Rash	Skin Rash (PEDS)	Sign_or_Symptom
+Sneezing	Sneezing (PEDS)	Sign_or_Symptom
+Sweating	Sweating (PEDS)	Sign_or_Symptom
+Tremor	Tremor (NICHD+NRNT)	Sign_or_Symptom
+Vomiting	Vomiting (PEDS)	Sign_or_Symptom
+Watery_Stool	Watery Stool (PEDS)	Sign_or_Symptom
+Weak_Breathing	Weak Breathing (PEDS)	Sign_or_Symptom
+Wheezing	Wheezing (NICHD+NRNT)	Sign_or_Symptom
+Yawning	Yawning (PEDS)	Sign_or_Symptom
+Bulging_Perineum	Bulging Perineum (PEDS)	Signs_of_Impending_Birth
+Crowning_during_Childbirth	Crowning (PEDS)	Signs_of_Impending_Birth
+Dilated_Anus	Dilated Anus (PEDS)	Signs_of_Impending_Birth
+Urge_to_Push	Urge to Push (PEDS)	Signs_of_Impending_Birth
+Situs_Inversus_Thoracis	Situs Inversus Thoracis (NRNT)	Situs_Inversus
+Cafe_Au_Lait_Patch	Cafe Au Lait Spot (NRNT)	Skin_Disorder
+Epidermolysis_Bullosa	Epidermolysis Bullosa (NRNT)	Skin_Disorder
+Cutaneous_Fistula	Fistula of Skin (NRNT)	Skin_Disorder
+Skin_Infection	Infection of Skin (NRNT)	Skin_Disorder
+Mucocutaneous_Candidiasis	Mucocutaneous Candidiasis (NRNT)	Skin_Disorder
+Localized_Skin_Lesion	Skin Lesion (NRNT)	Skin_Disorder
+Skin_Ulcer	Skin Necrosis (NRNT)	Skin_Disorder
+Fracture_of_Skull_due_to_Birth_Trauma	Fracture of Skull due to Birth Trauma (NRNT)	Skull_Fracture
+Atresia_of_Duodenum	Congenital Atresia of Duodenum (NRNT)	Small_Intestinal_Atresia
+Atresia_of_Ileum	Congenital Atresia of Ileum (NRNT)	Small_Intestinal_Atresia
+Atresia_of_Jejunum	Congenital Atresia of Jejunum (NRNT)	Small_Intestinal_Atresia
+Spermicidal_Cream	Spermicidal Cream (PEDS)	Spermicide
+Spermicidal_Foam	Spermicidal Foam (PEDS)	Spermicide
+Spermicidal_Jelly	Spermicidal Jelly (PEDS)	Spermicide
+Spina_Bifida_Occulta	Spina Bifida Occulta (NRNT)	Spina_Bifida
+Werdnig-Hoffmann_Disease	Werdnig-Hoffmann Disease (NRNT)	Spinal_Muscular_Atrophy
+First_Stage_of_Labor	First Stage of Labor (PEDS)	Stage_of_Labor
+Fourth_Stage_of_Labor	Fourth Stage of Labor (PEDS)	Stage_of_Labor
+Second_Stage_of_Labor	Second Stage of Labor (PEDS)	Stage_of_Labor
+Third_Stage_of_Labor	Third Stage of Labor (PEDS)	Stage_of_Labor
+Allergen	Allergen (PEDS)	Substance
+Body_Fluid_or_Substance	Biological Substance (PEDS)	Substance
+Blood_Product	Blood Product (PEDS)	Substance
+Contrast_Agent	Contrast Agent (PEDS)	Substance
+Infant_Formula	Infant Formula (PEDS)	Substance
+Pharmacologic_Substance	Pharmacologic Substance (PEDS)	Substance
+Prenatal_Vitamin	Prenatal Vitamins (PEDS)	Substance
+Vitamin_K	Vitamin K (PEDS)	Substance
+Atrial_Fibrillation	Atrial Fibrillation (NRNT)	Supraventricular_Arrhythmia
+Atrial_Flutter	Atrial Flutter (NRNT)	Supraventricular_Arrhythmia
+Wandering_Atrial_Pacemaker	Wandering Atrial Pacemaker (NRNT)	Supraventricular_Arrhythmia
+Congenital_Supraventricular_Tachycardia	Supraventricular Tachycardia (Svt), Congential (NRNT)	Supraventricular_Tachycardia
+Surfactant_Protein_A_Deficiency	Surfactant Apoprotein A Deficiency (NRNT)	Surfactant_Protein_Deficiency
+Surfactant_Protein_ABCA3_Deficiency	Surfactant Apoprotein Abc A3 Deficiency (NRNT)	Surfactant_Protein_Deficiency
+Surfactant_Protein_B_Deficiency	Surfactant Apoprotein B Deficiency (NRNT)	Surfactant_Protein_Deficiency
+Surfactant_Protein_C_Deficiency	Surfactant Apoprotein C Deficiency (NRNT)	Surfactant_Protein_Deficiency
+Surfactant_Protein_D_Deficiency	Surfactant Apoprotein D Deficiency (NRNT)	Surfactant_Protein_Deficiency
+Tubal_Ligation	Tubal Ligation (PEDS)	Surgical_Contraception
+Vasectomy	Vasectomy (PEDS)	Surgical_Contraception
+Episiotomy	Episiotomy (PEDS)	Surgical_Incision
+Hysterotomy	Hysterotomy (PEDS)	Surgical_Incision
+Laparotomy	Laparotomy (PEDS)	Surgical_Incision
+Lower_Uterine_Segment_Incision	Lower Uterine Segment Incision (PEDS)	Surgical_Incision
+Midline_Longitudinal_Uterine_Incision	Midline Longitudinal Incision (PEDS)	Surgical_Incision
+Circumcision	Circumcision (PEDS)	Surgical_Procedure
+Gynecological_Surgical_Procedure	Gynecologic Surgical Procedure (PEDS)	Surgical_Procedure
+Congenital_Adrenal_Hyperplasia	Adrenogenital Disorder (NRNT)	Systemic_Congenital_Disorder
+Congenital_Eye_Disorder	Congenital Abnormality of Visual System (NRNT)	Systemic_Congenital_Disorder
+Congenital_Heart_Disease	Congenital Heart Disease (NRNT)	Systemic_Congenital_Disorder
+Hydrops_Fetalis	Hemoglobin Bart's Hydrops Syndrome (NRNT)	Systemic_Congenital_Disorder
+Mitochondrial_Trifunctional_Protein_Deficiency	Mitochondrial Trifunctional Protein Deficiency (NRNT)	Systemic_Congenital_Disorder
+OEIS_Complex	Oeis Syndrome (NRNT)	Systemic_Congenital_Disorder
+Pentalogy_of_Cantrell	Pentalogy of Cantrell (NRNT)	Systemic_Congenital_Disorder
+VACTERL_Association	Vertebral Abnormalities, Anal Atresia, Cardiac Abnormalities, Tracheo-Esophageal Fistula, Renal Anomalies, Limb Defects Syndrome (NRNT)	Systemic_Congenital_Disorder
+Congenital_Cardiovascular_Abnormality	Congenital Abnormality of the Circulatory System (NICHD+NRNT)	Systemic_Congenital_Disorder
+Congenital_Gastrointestinal_Disorder	Congenital Abnormality of the Digestive System (PEDS)	Systemic_Congenital_Disorder
+Congenital_Musculoskeletal_Defect	Congenital Abnormality of the Musculoskeletal System (NICHD+NRNT)	Systemic_Congenital_Disorder
+Congenital_Nervous_System_Disorder	Congenital Abnormality of the Nervous System (NICHD+NRNT)	Systemic_Congenital_Disorder
+Congenital_Respiratory_System_Disorder	Congenital Abnormality of the Respiratory System (NICHD+NRNT)	Systemic_Congenital_Disorder
+Congenital_Skin_Disorder	Congenital Abnormality of the Skin (PEDS)	Systemic_Congenital_Disorder
+Inborn_Errors_of_Metabolism	Congenital Metabolic Disorder (NICHD+NRNT)	Systemic_Congenital_Disorder
+Fetal_Alcohol_Spectrum_Disorder	Fetal Alcohol Spectrum Disorder (NICHD+NRNT)	Systemic_Congenital_Disorder
+Heterotaxia	Heterotaxia (NICHD+NRNT)	Systemic_Congenital_Disorder
+Neonatal_Abstinence_Syndrome	Neonatal Abstinence Syndrome (NICHD+NRNT)	Systemic_Congenital_Disorder
+Situs_Inversus	Situs Inversus (NICHD+NRNT)	Systemic_Congenital_Disorder
+Dehydration	Dehydration (NRNT)	Systemic_Disease
+Ciliary_Motility_Defect	Immotile Cilia Syndrome (NRNT)	Systemic_Disease
+Metabolic_Disorder	Metabolic Disease (NRNT)	Systemic_Disease
+Neonatal_Rickets	Neonatal Rickets (NRNT)	Systemic_Disease
+Shock	Shock (NRNT)	Systemic_Disease
+Nutritional_Disorder	Nutritional Disorder (NICHD+NRNT)	Systemic_Disease
+Respiratory_Disorder	Respiratory System Disorder (NICHD+NRNT)	Systemic_Disease
+Sleep_Disorder	Sleep Disorder (NICHD+NRNT)	Systemic_Disease
+Speech_Manifestations	Speech Disorder (PEDS)	Systemic_Disease
+Feeding_Method	Feeding Method (PEDS)	Techniques
+Intrauterine_Cordocentesis	Intrauterine Cordocentesis (PEDS)	Techniques
+Drug_Route_of_Administration	Route of Administration (PEDS)	Techniques
+Tocodynamometry	Tocodynamometry (PEDS)	Techniques
+Ultrasound_Imaging	Ultrasound Imaging (PEDS)	Techniques
+Cellular_Telephone_Number	Cellular Telephone Number (PEDS)	Telephone_Number
+Residential_Telephone_Number	Residential Telephone Number (PEDS)	Telephone_Number
+Date	Date (PEDS)	Temporal_Modifier
+Life_Stage	Life Stage (PEDS)	Temporal_Modifier
+Pregnancy_Time_Period	Pregnancy Time Period (PEDS)	Temporal_Modifier
+Stage_of_Labor	Stages of Labor (PEDS)	Temporal_Modifier
+TORCH_Antibody_Measurement	Toxoplasmosis, Other Infections, Rubella, Cytomegalovirus, and Herpes Simplex Virus (Torch) Antibody Panel Measurement (NRNT)	Test
+Galactose_Measurement	Galactose Measurement (PEDS)	Test
+Galactose-1-Phosphate_Uridyltransferase_Measurement	Galactose-1-Phosphate Uridyltransferase Measurement (PEDS)	Test
+Genetic_Testing	Genetic Testing (NICHD+NRNT)	Test
+Hemoglobin_Measurement	Hemoglobin Measurement (NICHD+NRNT)	Test
+Phenylalanine__Measurement	Phenylalanine Measurement (NICHD+NRNT)	Test
+Phenylalanine_to_Tyrosine_Ratio_Measurement	Phenylalanine to Tyrosine Ratio Measurement (NICHD+NRNT)	Test
+Thyrotropin_Measurement	Thyrotropin Measurement (NICHD+NRNT)	Test
+Total_Thyroxine_Measurement	Total Thyroxine Measurement (PEDS)	Test
+Hyperammonemia	Hyperammonemia (NRNT)	Test_Result
+Elevated_Bilirubin	Hyperbilirubinemia (NRNT)	Test_Result
+Hyperkalemia	Hyperkalemia (NRNT)	Test_Result
+Hypermagnesemia	Hypermagnesemia (NRNT)	Test_Result
+Hypocalcemia	Hypocalcemia (NRNT)	Test_Result
+Hypomagnesemia	Hypomagnesemia (NRNT)	Test_Result
+Hyponatremia	Hyponatremia (NRNT)	Test_Result
+Leukemoid_Reaction	Leukemoid Reaction (NRNT)	Test_Result
+White_Blood_Cell_Count_Increased	Leukocytosis (NRNT)	Test_Result
+Complete_Atrioventricular_Septal_Defect_with_Tetralogy_of_Fallot	Tetralogy of Fallot - Complete Av Canal Defect (NRNT)	Tetralogy_of_Fallot
+Sickle_Beta_Thalassemia	Sickle Cell-Beta-Thalassemia (NRNT)	Thalassemia
+S-Beta_Thalassemia	S-Beta Thalassemia (PEDS)	Thalassemia
+Type_1_Thanatophoric_Dysplasia	Thanatophoric Dysplasia, Type 1 (NRNT)	Thanatophoric_Dysplasia
+Type_2_Thanatophoric_Dysplasia	Thanatophoric Dysplasia, Type 2 (NRNT)	Thanatophoric_Dysplasia
+Induced_Abortion_Procedure	Induced Abortion (PEDS)	Therapeutic_Abortion_Procedure
+Cardiac_Resuscitation	Cardiac Resuscitation (NRNT)	Therapeutic_Procedure
+Blood_Transfusion	Blood Transfusion (PEDS)	Therapeutic_Procedure
+Ophthalmic_Prophylaxis	Eye prophylaxis (PEDS)	Therapeutic_Procedure
+Medication_Administered_at_Birth	Medication Given at Birth (PEDS)	Therapeutic_Procedure
+Drug_Induced_Thrombocytopenia	Drug-Induced Immune Thrombocytopenia (NRNT)	Thrombocytopenia
+Heparin_Induced_Thrombocytopenia	Heparin-Induced Thrombocytopenia (NRNT)	Thrombocytopenia
+Thrombocytopenia_Due_to_Platelet_Alloimmunization	Neonatal Thrombocytopenia due to Platelet Alloimmunization (NRNT)	Thrombocytopenia
+Transient_Neonatal_Thrombocytopenia	Transient Neonatal Thrombocytopenia (NRNT)	Thrombocytopenia
+Arterial_Thrombosis	Arterial Thrombosis (NRNT)	Thrombosis
+Abdominal_Aortic_Thrombosis	Thrombosis of Abdominal Aorta (NRNT)	Thrombosis
+Venous_Thrombosis	Venous Thrombosis (NRNT)	Thrombosis
+Birth_Time	Birth Time (PEDS)	Time
+Collection_Time	Collection Time (PEDS)	Time
+First_Feeding	First Feeding (PEDS)	Time
+Five_Minutes_After_Birth	Five Minutes After Birth (PEDS)	Time
+One_Minute_After_Birth	One Minute After Birth (PEDS)	Time
+Point_in_Time_Test_Given	Point in Time Test Given (PEDS)	Time
+Type_I_Total_Anomalous_Pulmonary_Venous_Return	Total Anomalous Pulmonary Venous Return,  Type I (Supracardiac) (NRNT)	Total_Anomalous_Pulmonary_Venous_Return
+Type_II_Total_Anomalous_Pulmonary_Venous_Return	Total Anomalous Pulmonary Venous Return,  Type Ii (Intracardiac) (NRNT)	Total_Anomalous_Pulmonary_Venous_Return
+Type_III_Total_Anomalous_Pulmonary_Venous_Return	Total Anomalous Pulmonary Venous Return,  Type Iii (Infradiaphragmatic/Infracardiac) (NRNT)	Total_Anomalous_Pulmonary_Venous_Return
+Type_IV_Total_Anomalous_Pulmonary_Venous_Return	Total Anomalous Pulmonary Venous Return,  Type Iv (Mixed) (NRNT)	Total_Anomalous_Pulmonary_Venous_Return
+Total_Colonic_Aganglionisis	Total Colonic Aganglionosis (NRNT)	Total_Intestinal_Aganglionosis
+Diphtheria_Toxoid_Tetanus_Toxoid_Vaccine_Adsorbed	Diphtheria Toxoid/Tetanus Toxoid Vaccine Adsorbed (PEDS)	Toxoid_Vaccine
+Tetanus_and_Diptheria_Toxoids_Adsorbed	Tetanus and Diphtheria Toxoids Adsorbed (PEDS)	Toxoid_Vaccine
+Tetanus_Toxoid	Tetanus Toxoid Vaccine (PEDS)	Toxoid_Vaccine
+H-Type_Congenital_Tracheoesophageal_Fistula	H-Type Congenital Tracheoesophageal Fistula (NRNT)	Tracheoesophageal_Fistula
+First_Trimester	First Trimester (PEDS)	Trimester
+Second_Trimester	Second Trimester (PEDS)	Trimester
+Third_Trimester	Third Trimester (PEDS)	Trimester
+Blood_Aspiration_Syndrome	Perinatal Aspiration of Blood (NRNT)	Unintentional_Material_Aspiration
+Centimeter	Centimeter (PEDS)	Unit_of_Measure
+Gram	Gram (PEDS)	Unit_of_Measure
+Inch	Inch (PEDS)	Unit_of_Measure
+Microinternational_Unit_per_Milliliter	Microinternational Unit per Milliliter (PEDS)	Unit_of_Measure
+Milligram_per_Deciliter	Milligram per Deciliter (PEDS)	Unit_of_Measure
+Millimole_per_Liter	Millimole per Liter (PEDS)	Unit_of_Measure
+Molar_Ratio	Molar Ratio (PEDS)	Unit_of_Measure
+Nanogram_per_Deciliter	Nanogram per Deciliter (PEDS)	Unit_of_Measure
+Ounce	Ounce (PEDS)	Unit_of_Measure
+Pound	Pound (PEDS)	Unit_of_Measure
+Unit_per_Gram	Unit per Gram (PEDS)	Unit_of_Measure
+Acute_Renal_Failure_with_Tubular_Necrosis	Acute Tubular Necrosis (NRNT)	Urinary_Tract_Disorder
+Vesical_Fistula	Bladder Fistula (NRNT)	Urinary_Tract_Disorder
+Congenital_Hydronephrosis	Congenital Hydronephrosis (NRNT)	Urinary_Tract_Disorder
+Hydroureter	Congenital Hydroureter (NRNT)	Urinary_Tract_Disorder
+Cystic_Kidney_Disease	Fibrocystic Kidney Disease (NRNT)	Urinary_Tract_Disorder
+Renal_Disorder	Kidney Disease (NRNT)	Urinary_Tract_Disorder
+Nephrotic_Syndrome	Nephrotic Syndrome (NRNT)	Urinary_Tract_Disorder
+Renal_Cell_Dysplasia	Renal Dysplasia (NRNT)	Urinary_Tract_Disorder
+Renal_Failure	Renal Failure Syndrome (NRNT)	Urinary_Tract_Disorder
+Urinary_Tract_Obstruction	Urinary Tract Obstruction (NRNT)	Urinary_Tract_Disorder
+Vesicoureteral_Reflux	Vesicoureteric Reflux (NRNT)	Urinary_Tract_Disorder
+Urinary_Tract_Infection	Urinary Tract Infection (NICHD+NRNT)	Urinary_Tract_Disorder
+Ureterovesical_Obstruction	Congenital Ureterovesical Obstruction (NRNT)	Urinary_Tract_Obstruction
+Pelviureteric_Junction_Obstruction	Obstruction of Pelviureteric Junction (NRNT)	Urinary_Tract_Obstruction
+False_Labor	False Labor (PEDS)	Uterine_Contraction
+Intense_Uterine_Contraction	Intensified Contraction (PEDS)	Uterine_Contraction
+Mild_Uterine_Contraction	Mild Uterine Contractions (PEDS)	Uterine_Contraction
+Regular_Uterine_Contraction	Regular Contraction (PEDS)	Uterine_Contraction
+Uterine_Tachysystole	Tachysystole (PEDS)	Uterine_Contraction
+Posterior_Uveitis	Choroiditis (NRNT)	Uveitis
+Attenuated_Live_Vaccine	Attenuated Live Vaccine (PEDS)	Vaccine
+Inactivated_Vaccine	Inactivated Vaccine (PEDS)	Vaccine
+Polysaccharide_Vaccine	Polysaccharide Vaccine (PEDS)	Vaccine
+Polyvalent_Vaccine	Polyvalent Vaccine (PEDS)	Vaccine
+Recombinant_Viral_Vaccine	Recombinant Viral Vaccine (PEDS)	Vaccine
+Toxoid_Vaccine	Toxoid Vaccine (PEDS)	Vaccine
+Forceps_Delivery	Forceps Delivery (PEDS)	Vaginal_Assisted_Delivery
+Vacuum_Assisted_Vaginal_Delivery	Vacuum Assisted Vaginal Delivery (PEDS)	Vaginal_Assisted_Delivery
+Fetal_Descent	Fetal Descent (PEDS)	Vaginal_Birth_Mechanism
+Fetal_Engagement	Fetal Engagement (PEDS)	Vaginal_Birth_Mechanism
+Fetal_Extension	Fetal Extension (PEDS)	Vaginal_Birth_Mechanism
+Fetal_Restitution	Fetal Restitution (PEDS)	Vaginal_Birth_Mechanism
+Fetal_Flexion	Flexion (PEDS)	Vaginal_Birth_Mechanism
+Normal_Spontaneous_Vaginal_Delivery	Normal Spontaneous Vaginal Delivery (PEDS)	Vaginal_Delivery
+Vaginal_Assisted_Delivery	Vaginal Assisted Delivery (PEDS)	Vaginal_Delivery
+Vaginal_Birth_after_Cesarean	Vaginal Birth after Cesarean (PEDS)	Vaginal_Delivery
+Aortic_Valve_Disorder	Aortic Valve Disorder (NRNT)	Valvular_Heart_Disorder
+Valvular_Insufficiency	Heart Valve Regurgitation (NRNT)	Valvular_Heart_Disorder
+Aortic_Insufficiency	Congenital Insufficiency of Aortic Valve (NRNT)	Valvular_Insufficiency
+Pulmonary_Valve_Regurgitation	Congenital Insufficiency of Pulmonary Valve (NRNT)	Valvular_Insufficiency
+Chickenpox	Chicken Pox (PEDS)	Varicella_Zoster_Infection
+Pulmonary_Vein_Stenosis	Pulmonary Vein Stenosis (NRNT)	Venous_Stenosis
+Venous_Thrombosis_due_to_Vascular_Access_Complication	Acquired Secondary Venous Thrombosis due to Catheter Complication (NRNT)	Venous_Thrombosis
+Renal_Vein_Thrombosis	Thrombosis of Renal Vein (NRNT)	Venous_Thrombosis
+Ventricular_Fibrillation	Ventricular Fibrillation (NRNT)	Ventricular_Arrhythmia
+Ventricular_Tachycardia	Ventricular Tachycardia (NRNT)	Ventricular_Arrhythmia
+Congenital_Ventricular_Tachycardia	Congenital Ventricular Tachycardia (NRNT)	Ventricular_Tachycardia
+Grade_I_Vesicoureteral_Reflux	Vesicoureteric Reflux, Grade I (NRNT)	Vesicoureteral_Reflux
+Grade_II_Vesicoureteral_Reflux	Vesicoureteric Reflux, Grade Ii (NRNT)	Vesicoureteral_Reflux
+Grade_III_Vesicoureteral_Reflux	Vesicoureteric Reflux, Grade Iii (NRNT)	Vesicoureteral_Reflux
+Grade_IV_Vesicoureteral_Reflux	Vesicoureteric Reflux, Grade Iv (NRNT)	Vesicoureteral_Reflux
+Grade_V_Vesicoureteral_Reflux	Vesicoureteric Reflux, Grade V (NRNT)	Vesicoureteral_Reflux
+Pediatric_Viral_Infection	Childhood Viral Disease (PEDS)	Viral_Infection
+Condyloma_Acuminatum	Genital Warts (PEDS)	Viral_Infection
+Hepatitis_A	Hepatitis A (PEDS)	Viral_Infection
+Hepatitis_B	Hepatitis B (PEDS)	Viral_Infection
+Herpes	Herpes (PEDS)	Viral_Infection
+Influenza	Influenza (PEDS)	Viral_Infection
+Rubella	Rubella Infection (PEDS)	Viral_Infection
+Yellow_Fever_Virus_Infection	Yellow Fever Virus Infection (PEDS)	Viral_Infection
+Human_Papillomavirus	Human Papilloma Virus (PEDS)	Virus
+Poliovirus	Poliovirus (PEDS)	Virus
+Rotavirus	Rotavirus (PEDS)	Virus
+Human_Herpesvirus_3	Varicella-Zoster Virus (PEDS)	Virus
+Cataract	Cataract (NRNT)	Vision_Disorder
+Uveitis	Chorioretinitis (NRNT)	Vision_Disorder
+Lacrimal_System_Disorder	Disorder of Lacrimal System (NRNT)	Vision_Disorder
+Retinal_Disorder	Retinal Disorder (NRNT)	Vision_Disorder
+Retinitis_Pigmentosa	Retinitis (NRNT)	Vision_Disorder
+Blindness	Blindness (PEDS)	Vision_Disorder
+Low_Vision	Low Vision (PEDS)	Vision_Disorder
+Proptosis	Proptosis (PEDS)	Vision_Disorder
+Strabismus	Strabismus (NICHD+NRNT)	Vision_Disorder
+Visual_Cortex_Disorder	Visual Cortex Disorder (PEDS)	Vision_Disorder
+Vitamin_B6_Deficiency	Vitamin B6 Deficiency (NRNT)	Vitamin_Deficiency_Disorder
+Vitamin_K_Deficiency	Vitamin K Deficiency Coagulation Disorder (NRNT)	Vitamin_Deficiency_Disorder
+Hematemesis	Hematemesis (NRNT)	Vomiting
+Birth_Weight_New	Birth Weight (PEDS)	Weight_of_Body
+Transient_Leukemoid_Reaction_of_the_Newborn	Leukemoid Reaction of the Newborn (NRNT)	White_Blood_Cell_Count_Increased
+Neonatal_Withdrawal_Syndrome	Drug Withdrawal Syndrome In Newborn (NRNT)	Withdrawal_Syndrome
+Perinatal_Drug_Abuse_and_Neonatal_Drug_Withdrawal	Perinatal Drug Withdrawal (NRNT)	Withdrawal_Syndrome
+Postnatal_Drug_Withdrawal	Postnatal Drug Withdrawal (NRNT)	Withdrawal_Syndrome
+In-utero_Drug_Withdrawal	In-utero Drug Withdrawal (NRNT)	Withdrawal_Syndrome
+Neonatal_Adrenoleukodystrophy	Neonatal Adrenoleukodystrophy (NRNT)	Zellweger_Syndrome
