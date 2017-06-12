@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY dc "http://purl.org/dc/elements/1.1/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY owl2xml "http://www.w3.org/2006/12/owl2-xml#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
+    <!ENTITY Thesaurus "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#" >
+    <!ENTITY ncicp "http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#" >
+]>
+
+
+<rdf:RDF xmlns="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+     xml:base="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:ncicp="http://ncicb.nci.nih.gov/xml/owl/EVS/ComplexProperties.xsd#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="">
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.10d</owl:versionInfo>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >NICHD OWL derived from NCI Thesaurus, a controlled vocabulary in support of
+NCI administrative and scientific activities.
+
+Produced by the Enterprise Vocabulary System (EVS), a project 
+by the NCI Center for Bioinformatics.  National Cancer Institute,
+National Institutes of Health, Bethesda, MD 20892, U.S.A.</rdfs:comment>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >October 27, 2014</dc:date>
+        <protege:defaultLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</protege:defaultLanguage>
+        <owl:imports rdf:resource="http://protege.stanford.edu/plugins/owl/protege"/>
+    </owl:Ontology>
+    <owl:Ontology rdf:about="http://protege.stanford.edu/plugins/owl/protege">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+            >The Protege metadata ontology (in the version that is used inside Protege. Note that this is an OWL Full ontology, with annotation properties that have range and domain restrictions. However, the "official" online release of this file is OWL DL, so that ontologies that use Protege metadata annotations can still be shared as OWL DL.</rdfs:comment>
+    </owl:Ontology>
+
+    <owl:DatatypeProperty rdf:about="#ALT_DEFINITION">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALT_DEFINITION</rdfs:label>
+        <DEFINITION rdf:parseType="Literal"
+            ><ncicp:ComplexDefinition><ncicp:def-definition>English language definitions of what a source other than NCI means by the concept. These are limited to 1024 characters. They include information about the definition's source in a form that can easily be interpreted by software.</ncicp:def-definition><ncicp:def-source>NCI</ncicp:def-source></ncicp:ComplexDefinition></DEFINITION>
+        <FULL_SYN rdf:parseType="Literal"
+            ><ncicp:ComplexTerm><ncicp:term-name>ALT_DEFINITION</ncicp:term-name><ncicp:term-group>PT</ncicp:term-group><ncicp:term-source>NCI</ncicp:term-source></ncicp:ComplexTerm></FULL_SYN>
+        <code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P325</code>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="#DEFINITION">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DEFINITION</rdfs:label>
+        <DEFINITION rdf:parseType="Literal"
+            ><ncicp:ComplexDefinition><ncicp:def-definition>English language definitions of what NCI means by the concept. These are limited to 1024 characters. They may also include information about the definition's source and attribution in a form that can easily be interpreted by software.</ncicp:def-definition><ncicp:def-source>NCI</ncicp:def-source></ncicp:ComplexDefinition></DEFINITION>
+        <FULL_SYN rdf:parseType="Literal"
+            ><ncicp:ComplexTerm><ncicp:term-name>DEFINITION</ncicp:term-name><ncicp:term-group>PT</ncicp:term-group><ncicp:term-source>NCI</ncicp:term-source></ncicp:ComplexTerm></FULL_SYN>
+        <code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P97</code>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="#FULL_SYN">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FULL_SYN</rdfs:label>
+        <DEFINITION rdf:parseType="Literal"
+            ><ncicp:ComplexDefinition><ncicp:def-definition>Fully qualified synonym, contains the string, term type, source, and an optional source code if appropriate. Each subfield is deliniated to facilitate interpretation by software.</ncicp:def-definition><ncicp:def-source>NCI</ncicp:def-source></ncicp:ComplexDefinition></DEFINITION>
+        <FULL_SYN rdf:parseType="Literal"
+            ><ncicp:ComplexTerm><ncicp:term-name>FULL_SYN</ncicp:term-name><ncicp:term-group>PT</ncicp:term-group><ncicp:term-source>NCI</ncicp:term-source></ncicp:ComplexTerm></FULL_SYN>
+        <FULL_SYN rdf:parseType="Literal"
+            ><ncicp:ComplexTerm><ncicp:term-name>Synonym with Source Data</ncicp:term-name><ncicp:term-group>SY</ncicp:term-group><ncicp:term-source>NCI</ncicp:term-source></ncicp:ComplexTerm></FULL_SYN>
+        <code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P90</code>
+    </owl:DatatypeProperty>
+    <owl:DatatypeProperty rdf:about="#code">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">code</rdfs:label>
+        <code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NHC0</code>
+        <protege:readOnly rdf:datatype="http://www.w3.org/2001/XMLSchema#string">true</protege:readOnly>
+    </owl:DatatypeProperty>
+
