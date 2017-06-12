@@ -1,0 +1,56 @@
+\<span style=\\"color: #666688\\"\>
+\<\\/span\>
+^<span .*
+<br /></td></tr>
+^<tr><td>
+<\/td><\/tr><\/table>
+<\/td><\/tr>
+^}$
+^<!DOCTYPE.*
+<html lang="en">
+</html>
+<head>
+</head>
+<meta .*
+<title>.*
+^<style.*
+<!--
+//-->
+^body.*
+^<body.*
+^</body>
+^.aws.*
+	background.*
+	border.*
+	font.*
+^th.*
+^td.*
+^b \{.*
+^a \{.*
+^.currentday.*
+^</style>
+^<option.*
+^a:.*
+^<script.*
+<a name.*
+^<form.*
+^<table.*
+^</table.*
+<br /><br />
+<br />
+^</form>
+^<input type.*
+^<td.*
+^<tr valign.*
+^<tr bgcolor.*
+^<select.*
+^</select>
+^<tr><td class="aws" valign.*
+^<tr><td class="aws"><a href.*
+^<tr><td class="aws_title".*
+<tr><td colspan="2">
+</table>
+<tr><td class="aws">
+<span style="color: #666688">
+</span>
+</td><td>
