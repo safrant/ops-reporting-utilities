@@ -1,0 +1,7 @@
+A=subset_code
+B=subset_name
+C=nci_code
+D=nci_pt
+E=nci_definition
+F=stab_pt
+G=stability_definition

@@ -1,0 +1,1311 @@
+<?xml version="1.0"?  encoding="UTF-8"?>
+<EventCode version="11.06d" date="2011-06-27">
+	<SubsetItem subset_code='C96080' subset_name='Stability Container Closure System Terminology'>
+		<CodeItem nci_code='C96113' nci_pt='Child Resistant Metal Container Closure' stab_pt='Child-resistant, Metal'>
+			<stability_definition>Metal closure that is designed or constructed to be significantly difficult for children under five years of age to open and not difficult for normal adults to use properly.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96114' nci_pt='Child Resistant Plastic Container Closure' stab_pt='Child-resistant, Plastic'>
+			<stability_definition>Plastic closure that is designed or constructed to be significantly difficult for children under five years of age to open and not difficult for normal adults to use properly.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96115' nci_pt='Continuous Thread Metal Container Closure' stab_pt='Continuous Thread, Metal'>
+			<stability_definition>Metal closure turned onto a corresponding thread on the top or mouth of a container, whether it be glass, plastic or metal.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96116' nci_pt='Continuous Thread Plastic Container Closure' stab_pt='Continuous Thread, Plastic'>
+			<stability_definition>Plastic closure turned onto a corresponding thread on the top or mouth of a container, whether it be glass, plastic or metal.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96125' nci_pt='Crown Metal Container Closure' stab_pt='Crown, Metal'>
+			<stability_definition>A non-threaded shallow draw metal closure that normally has 21 corrugations on the outer edge, which function to engage the container when applied. The crown is only 1/4" high when manufactured and does not have a rolled edge or wire. The crown is manufactured in 26mm worldwide and can be applied to either a threaded finish or a solid ring pry-off finish.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96128' nci_pt='Flip-Top Dispensing Plastic Container Closure' stab_pt='Flip-Top (Dispensing), Plastic'>
+			<stability_definition>A hinged single or dual flap closure for controlled product dispensing.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96129' nci_pt='Hinged Dispensing Plastic Container Closure' stab_pt='Hinged (Dispensing), Plastic'>
+			<stability_definition>A closure with a lid that is hinged to the top of a closure and opens to expose a dispensing orifice.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96130' nci_pt='Linerless Plastic Container Closure' stab_pt='Linerless, Plastic'>
+			<stability_definition>A closure that incorporates a specific molded-in feature such as rings, plugs or flexible sections. These features achieve a seal by conforming to one or more of the sealing surfaces on the container neck finish.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96126' nci_pt='Lug Metal Container Closure' stab_pt='Lug, Metal'>
+			<stability_definition>Closure with an ability to be applied and removed with a partial turn. The closure can also be produced with vacuum buttons that can clearly indicate to the packer if a vacuum has been effectively drawn following the closure application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96124' nci_pt='Press-On Composite Container Closure' stab_pt='Press-on, Composite'>
+			<stability_definition>A metal/plastic composite cap composed of a plastisol lined metal disk, assembled to a plastic band. The closure requires a simple glass bead finish common on bowls, tumblers and carafes.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96123' nci_pt='Press-On / Twist-Off Metal Container Closure' stab_pt='Press-on/twist-off, Metal'>
+			<stability_definition>Closure with a stepped, skirted drawn shell with an inside curl. The closure is lined with an annular plastisol material designed to provide a proper seal along the top and side surfaces of the glass container finish. The closure uses a special plastisol material that, following application, takes a permanent impression of the glass threads ensuring cam-off and reseal.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96131' nci_pt='Pump Dispensing Plastic Container Closure' stab_pt='Pump (Dispensing), Plastic'>
+			<stability_definition>Closure dispensing pumps are used to dispense product from containers.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96132' nci_pt='Push-Pull Dispensing Plastic Container Closure' stab_pt='Push-pull (Dispensing), Plastic'>
+			<stability_definition>A two-piece dispensing closure that includes a base member the lower portion of which is designed to attach and seal securely to a container finish and the upper portion of which is designed to receive a dispensing spout member. The spout member may be moved upward and downward to open and close the dispensing passageway.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96127' nci_pt='Roll On Metal Container Closure' stab_pt='Roll-on, Metal'>
+			<stability_definition>A tamper-evident closure produced as an unthreaded shell containing a liner. It is applied to the proper finish on a plastic or glass container by the bottler, using a roll-on capping machine that forms a thread in the closure matching the bottle thread.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96133' nci_pt='Snap-On Cap Plastic Container Closure' stab_pt='Snap-on Cap, Plastic'>
+			<stability_definition>A non-threaded closure that is pressed onto the package finish with a protruding feature that mates with a similar protruding feature on the closure to secure the closure to the package.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96134' nci_pt='Snip-Tip Dispensing Plastic Container Closure' stab_pt='Snip-tip (Dispensing), Plastic'>
+			<stability_definition>Conical closure that is turned onto a container. The tip is cut off to open the container.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96139' nci_pt='Stopper Container Closure' stab_pt='Stopper'>
+			<stability_definition>Object used to plug opening of container.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96120' nci_pt='Tamper Evident Composite Container Closure' stab_pt='Tamper-evident, Composite'>
+			<stability_definition>Composite tamper-evident closures usually consist of a metal disk with a plastic skirt. The plastic skirt is perforated or weakened in some manner so that when the closure is removed, this section is designed to break and either remain on the container or attached to the closure to indicate the package has been opened.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96117' nci_pt='Tamper Evident Metal Container Closure' stab_pt='Tamper-evident, Metal'>
+			<stability_definition>A closure/finish of a closure/container system designed to make it difficult to achieve the first removal of a closure from a container without it being detectable by subsequent users that the package seal has been breached (e.g., aluminum overseal).</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96118' nci_pt='Tamper Evident Plastic Container Closure' stab_pt='Tamper-evident, Plastic'>
+			<stability_definition>A closure that shows the package has been opened and the product has been exposed to the outside environment.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96140' nci_pt='Tie Container Closure' stab_pt='Tie'>
+			<stability_definition>Line, ribbon, or cord used for fastening, or drawing the container closed.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96135' nci_pt='Toggle-Swing Dispensing Plastic Container Closure' stab_pt='Toggle-swing (Dispensing), Plastic'>
+			<stability_definition>A closure with a lower part attaches securely and seals the container. The upper part provides a second movable portion which functions in a rocker-like pivotal motion between an open and a closed position.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96136' nci_pt='Trigger Spray Dispensing Plastic Container Closure' stab_pt='Trigger Sprayer (Dispensing), Plastic'>
+			<stability_definition>Closure designed to dispense product from containers by spraying the product when a trigger is pulled.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96137' nci_pt='Twist Open/Close Dispensing Plastic Container Closure' stab_pt='Twist Open/Close (Dispensing), Plastic'>
+			<stability_definition>Two-piece dispensing closure that has a lower portion designed to attach and seal securely to a container finish and the upper portion of which is designed to receive a dispensing spout member. Rotating the spout member opens and closed the container.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96122' nci_pt='Vacuum Sealed Composite Container Closure' stab_pt='Vacuum, Composite'>
+			<stability_definition>Metal/Plastic closures used on packages where the pressure inside the package is less than atmospheric.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96119' nci_pt='Vacuum Sealed Metal Container Closure' stab_pt='Vacuum, Metal'>
+			<stability_definition>Metal closures used on packages where the pressure inside the package is less than atmospheric.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96121' nci_pt='Vacuum Sealed Plastic Container Closure' stab_pt='Vacuum, Plastic'>
+			<stability_definition>Plastic closures used on packages where the pressure inside the package is less than atmospheric.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96138' nci_pt='Valved Dispensing Plastic Container Closure' stab_pt='Valved (Dispensing), Plastic'>
+			<stability_definition>Dispensing closure incorporating a product-flow controlling valve within the orifice. Product will not dispense from the package until sufficient squeezing pressure is applied to the flexible container to cause the valve to open.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96081' subset_name='Stability Container Type Terminology'>
+		<CodeItem nci_code='C43165' nci_pt='Ampule' stab_pt='AMPULE'>
+			<stability_definition />
+			<nci_definition>A container capable of being hermetically sealed, intended to hold sterile materials.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43166' nci_pt='Applicator' stab_pt='APPLICATOR'>
+			<stability_definition />
+			<nci_definition>A pre-filled non-injectable pipette, syringe or tube.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43167' nci_pt='Bag' stab_pt='BAG'>
+			<stability_definition />
+			<nci_definition>A sac or pouch.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43168' nci_pt='Blister Pack' stab_pt='BLISTER PACK'>
+			<stability_definition />
+			<nci_definition>A package that consists of molded plastic or laminate that has indentations (viewed as 'blisters' when flipped) into which a dosage form, is placed. A covering, usually of laminated material, is then sealed to the molded part. A strip pack is a specialized type of blister pack where there are no pre-formed or molded parts; in this case there are two flexible layers that are sealed with the dosage form in between. Suppositories that are strip packed between two layers of foil are also considered a blister pack.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43169' nci_pt='Bottle' stab_pt='BOTTLE'>
+			<stability_definition />
+			<nci_definition>A vessel with a narrow neck designed to accept a specific closure.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43170' nci_pt='Dispensing Bottle' stab_pt='BOTTLE, DISPENSING'>
+			<stability_definition />
+			<nci_definition>A bottle that is used by the pharmacist to dispense the prescribed medication. It includes preparations for which a dropper accompanies the bottle.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43171' nci_pt='Dropper Bottle' stab_pt='BOTTLE, DROPPER'>
+			<stability_definition />
+			<nci_definition>A bottle that has a device specifically intended for the application of a liquid in a drop by drop manner, or a device intended for the delivery of an exact dose (e.g., calibrated dropper for oral medications).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43172' nci_pt='Glass Bottle' stab_pt='BOTTLE, GLASS'>
+			<stability_definition />
+			<nci_definition>A glass vessel with a narrow neck designed to accept a specific closure.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43173' nci_pt='Plastic Bottle' stab_pt='BOTTLE, PLASTIC'>
+			<stability_definition />
+			<nci_definition>A plastic vessel with a narrow neck designed to accept a specific closure.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43174' nci_pt='Pump Bottle' stab_pt='BOTTLE, PUMP'>
+			<stability_definition />
+			<nci_definition>A bottle that is fitted with a pumping mechanism for the administration of drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43175' nci_pt='Spray Bottle' stab_pt='BOTTLE, SPRAY'>
+			<stability_definition />
+			<nci_definition>A bottle that is fitted with an atomizer or a device which produces finely divided liquid carried by air.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43176' nci_pt='Unit Dose Bottle' stab_pt='BOTTLE, UNIT-DOSE'>
+			<stability_definition />
+			<nci_definition>A bottle that contains a single whole dose of a non-parenteral drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43177' nci_pt='Applicator Bottle' stab_pt='BOTTLE, WITH APPLICATOR'>
+			<stability_definition />
+			<nci_definition>A bottle which includes a device for applying its contents.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43178' nci_pt='Box' stab_pt='BOX'>
+			<stability_definition />
+			<nci_definition>A square or rectangular vessel, usually made of cardboard or plastic.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43179' nci_pt='Unit Dose Box' stab_pt='BOX, UNIT-DOSE'>
+			<stability_definition />
+			<nci_definition>A box that contains a single dose of a non-parenteral drug product. [Note: Boxes that contain 100 unit dose blister packs should be classified under blister pack, since this is the immediate container into which the dosage form is placed.]</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43180' nci_pt='Can' stab_pt='CAN'>
+			<stability_definition />
+			<nci_definition>A cylindrical vessel, usually made of metal.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43181' nci_pt='Canister' stab_pt='CANISTER'>
+			<stability_definition />
+			<nci_definition>A type of can for holding a drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96143' nci_pt='Lined Canister' stab_pt='Canisters, lined'>
+			<stability_definition>A type of lined can for holding a drug product.</stability_definition>
+			<nci_definition>A round container that has an inner layer of a material different from what the canister is composed of.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C92708' nci_pt='Capsule' stab_pt='CAPSULE'>
+			<stability_definition />
+			<nci_definition>A drug packaging type usually in a cylindrical shape with rounded ends. Capsule shells may be made from gelatin, starch, or cellulose, or other suitable materials, may be soft or hard, and are filled with solid or liquid drug products.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43182' nci_pt='Carton' stab_pt='CARTON'>
+			<stability_definition />
+			<nci_definition>A cardboard box or container which is usually considered a secondary packaging component.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43183' nci_pt='Cartridge' stab_pt='CARTRIDGE'>
+			<stability_definition />
+			<nci_definition>A container consisting of a cylinder with a septum at one end, and a seal at the other end, which is inserted into a device to form a syringe which contains a single dose of a parenteral drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43184' nci_pt='Packaging Case' stab_pt='CASE'>
+			<stability_definition />
+			<nci_definition>A receptacle for holding something (e.g., that into which some oral contraceptive blister packs are placed).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43185' nci_pt='Cello Pack' stab_pt='CELLO PACK'>
+			<stability_definition />
+			<nci_definition>A plastic 'clamshell' [thin plastic pre-formed structure for a device].</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43186' nci_pt='Container' stab_pt='CONTAINER'>
+			<stability_definition />
+			<nci_definition>An object that can be used to hold things.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43187' nci_pt='Cup' stab_pt='CUP'>
+			<stability_definition />
+			<nci_definition>A bowl-shaped container.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43188' nci_pt='Unit Dose Cup' stab_pt='CUP, UNIT-DOSE'>
+			<stability_definition />
+			<nci_definition>A cup intended to hold a single dose of a non-parenteral drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43189' nci_pt='Gas Cylinder' stab_pt='CYLINDER'>
+			<stability_definition />
+			<nci_definition>A container designed specifically to hold gases.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43190' nci_pt='Dewar' stab_pt='DEWAR'>
+			<stability_definition />
+			<nci_definition>A container, usually made of glass or metal, that has at least two walls with the space between each wall evacuated so as to prevent the transfer of heat. The inside of the container often has a coating (as silvering) on the inside to reduce heat transfer, and is used especially for storing liquified gases or for experiments at low temperatures. The size can vary from that of a small thermos bottle up to that which may be mounted upon a large truck (also known as a 'cryogenic truck').</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43191' nci_pt='Dialpack' stab_pt='DIALPACK'>
+			<stability_definition />
+			<nci_definition>A dose pack container designed to assist with patient compliance. The patient turns a dial to the correct day and the correct dose is made available and the container indicates that the dose has been removed.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96141' nci_pt='Petri Dish' stab_pt='Dish, Petri'>
+			<stability_definition>A shallow dish with a loose-fitting cover.</stability_definition>
+			<nci_definition>A shallow dish with a lid used to culture cells.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43192' nci_pt='Dose Pack' stab_pt='DOSE PACK'>
+			<stability_definition />
+			<nci_definition>A container in which a preselected dose or dose regimen of the medication is placed.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43193' nci_pt='Packaging Drum' stab_pt='DRUM'>
+			<stability_definition />
+			<nci_definition>A straight-sided cylindrical shipping container with flat ends; one of which can be opened/closed.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96144' nci_pt='Flask' stab_pt='Flask'>
+			<stability_definition>Flat bottom bottle, container or vessel.</stability_definition>
+			<nci_definition>A container with a base wider than the narrow neck traditionally used for holding liquids.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C79135' nci_pt='Flexible Intermediate Bulk Container' stab_pt='FLEXIBLE INTERMEDIATE BULK CONTAINER'>
+			<stability_definition />
+			<nci_definition>A receptacle with a body constructed of film, woven plastic, woven fabric, paper or combination thereof, together with any appropriate service equipment and handling devices, and if necessary, an inner coating or liner.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C16738' nci_pt='Inhaler' stab_pt='INHALER'>
+			<stability_definition />
+			<nci_definition>A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43194' nci_pt='Inhaler Refill' stab_pt='INHALER, REFILL'>
+			<stability_definition />
+			<nci_definition>A container of medication intended to refill an inhaler.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43195' nci_pt='Jar' stab_pt='JAR'>
+			<stability_definition />
+			<nci_definition>A rigid container having a wide mouth and often no neck which typically holds solid or semisolid drug products.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43196' nci_pt='Jug' stab_pt='JUG'>
+			<stability_definition />
+			<nci_definition>A large, deep container that has a narrow mouth, is typically fitted with a handle, and is used to hold liquids.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43197' nci_pt='Drug Kit' stab_pt='KIT'>
+			<stability_definition />
+			<nci_definition>A packaged set of related pharmaceutical or and/or drug delivery devices used for a particular medical activity or procedure including required documentation for kit components and the entire kit.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C48626' nci_pt='Package Type Not Stated' stab_pt='NOT STATED'>
+			<stability_definition />
+			<nci_definition>The package type is not stated or is unavailable.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43233' nci_pt='Drug Package' stab_pt='PACKAGE'>
+			<stability_definition />
+			<nci_definition>The drug product container with any accompanying materials or components. This may include the protective packaging, labeling, administration devices, etc.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43198' nci_pt='Combination Package' stab_pt='PACKAGE, COMBINATION'>
+			<stability_definition />
+			<nci_definition>A package in which two or more drug products that are normally available separately are now available together.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43199' nci_pt='Packet' stab_pt='PACKET'>
+			<stability_definition />
+			<nci_definition>An envelope into which only one dose of a drug product, usually in the form of granules or powder, has been directly placed. An example includes glassine powder paper containing aspirin. Other examples include aluminum foil packets into which alcohol swabs and pledgets are placed.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C79136' nci_pt='Pail' stab_pt='PAIL'>
+			<stability_definition />
+			<nci_definition>A watertight vessel, often cylindrical, that is usually fitted with a handle, and that may have a lid.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C82332' nci_pt='Patch' stab_pt='PATCH'>
+			<stability_definition />
+			<nci_definition>A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96142' nci_pt='Microwell Plate' stab_pt='Plate, Microwell'>
+			<stability_definition>Small volume multi-chambered plate (e.g. 96 well).</stability_definition>
+			<nci_definition>A flat dish type device with multiple wells for testing cellular material.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43200' nci_pt='Pouch' stab_pt='POUCH'>
+			<stability_definition />
+			<nci_definition>A flexible container used to protect or hold one or more doses of a drug product (e.g. a pouch into which oral contraceptive blister packs are inserted, and an overwrap pouch for large volume parenterals).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43201' nci_pt='Supersack' stab_pt='SUPERSACK'>
+			<stability_definition />
+			<nci_definition>A multilayer paper bag for shipping some solid bulk excipients, usually in the form of powder or granules.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43202' nci_pt='Syringe' stab_pt='SYRINGE'>
+			<stability_definition />
+			<nci_definition>A device for the administration of parenteral drug products that consists of a rigid barrel fitted with septum with a plunger at one end and a seal or needle at the other end. The needle assembly may be part of the device or separate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43203' nci_pt='Glass Syringe' stab_pt='SYRINGE, GLASS'>
+			<stability_definition />
+			<nci_definition>A device for the administration of parenteral drug products that consists of a rigid glass barrel fitted with septum with a plunger at one end and a seal or needle at the other end. The needle assembly may be part of the device or separate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43204' nci_pt='Plastic Syringe' stab_pt='SYRINGE, PLASTIC'>
+			<stability_definition />
+			<nci_definition>A device for the administration of parenteral drug products that consists of a rigid plastic barrel fitted with septum with a plunger at one end and a seal or needle at the other end. The needle assembly may be part of the device or separate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43205' nci_pt='Tabminder' stab_pt='TABMINDER'>
+			<stability_definition />
+			<nci_definition>A specialized package; it registers each time it is opened and is used for checking patient compliance to prescribed medication regimens.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43206' nci_pt='Packaging Tank' stab_pt='TANK'>
+			<stability_definition />
+			<nci_definition>A large receptacle used for holding, transporting, or storing liquids or gases, and often referred to as a reservoir.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C53438' nci_pt='Tray' stab_pt='TRAY'>
+			<stability_definition />
+			<nci_definition>A shallow flat receptacle, with a raised edge or rim, used for carrying, holding, or displaying finished drug product in its primary or market package. A tray and its contents may be encased in shrink-wrapped plastic for shipping, or with a cover or an overwrap as part of a unit of use package or kit.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42794' nci_pt='Packaging Tube' stab_pt='TUBE'>
+			<stability_definition />
+			<nci_definition>A flexible container for semisolid drug products which is flattened and crimped or sealed at one end and has a reclosable opening at the other.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43207' nci_pt='Applicator Tube' stab_pt='TUBE, WITH APPLICATOR'>
+			<stability_definition />
+			<nci_definition>A tube which is provided with a device (the applicator) for administering the dosage form. The applicator may be part of the tube closure or be separate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43226' nci_pt='Parenteral Vial' stab_pt='VIAL'>
+			<stability_definition />
+			<nci_definition>A container designed for use with parenteral drug products.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43208' nci_pt='Dispensing Vial' stab_pt='VIAL, DISPENSING'>
+			<stability_definition />
+			<nci_definition>A vial that is used by the pharmacist to dispense the prescribed medication.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43209' nci_pt='Glass Vial' stab_pt='VIAL, GLASS'>
+			<stability_definition />
+			<nci_definition>A glass container designed for use with parenteral drug products.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43210' nci_pt='Multi Dose Vial' stab_pt='VIAL, MULTI-DOSE'>
+			<stability_definition />
+			<nci_definition>A vial intended to contain more than one dose of the drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43211' nci_pt='Patent Delivery System Vial' stab_pt='VIAL, PATENT DELIVERY SYSTEM'>
+			<stability_definition />
+			<nci_definition>A vial that has a patented delivery system.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43212' nci_pt='Pharmacy Bulk Vial' stab_pt='VIAL, PHARMACY BULK PACKAGE'>
+			<stability_definition />
+			<nci_definition>A container of a sterile preparation whose contents are intended for use in a pharmacy admixture program and are restricted to the preparation of admixtures for infusion or, through a sterile transfer device, for the filling of empty sterile syringes.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43213' nci_pt='Piggyback Vial' stab_pt='VIAL, PIGGYBACK'>
+			<stability_definition />
+			<nci_definition>A vial that contains a parenteral preparation that can be attached directly to the tubing of a parenterally administered fluid.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43214' nci_pt='Plastic Vial' stab_pt='VIAL, PLASTIC'>
+			<stability_definition />
+			<nci_definition>A plastic container designed for use with parenteral drug products.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43215' nci_pt='Single Dose Vial' stab_pt='VIAL, SINGLE-DOSE'>
+			<stability_definition />
+			<nci_definition>A vial containing a single unit of a parenteral drug product.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43216' nci_pt='Single Use Vial' stab_pt='VIAL, SINGLE-USE'>
+			<stability_definition />
+			<nci_definition>A vial where a single dose of a parenteral drug product can be removed, and then the vial and its remaining contents can be disposed.</nci_definition>
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96069' subset_name='Stability Data Standards Terminology'>
+		<CodeItem nci_code='C96080' nci_pt='Stability Container Closure System Terminology' stab_pt='Stability Container Closure System Terminology'>
+			<stability_definition>The closure system of the container.</stability_definition>
+			<nci_definition>Terminology developed to support Closure Systems within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96081' nci_pt='Stability Container Type Terminology' stab_pt='Stability Container Type Terminology'>
+			<stability_definition>As reported entity or as part of a reported packaged product, this is the official code for a referenced package type. For FDA implementation, only the display Name (i.e., the product name is mandatory, the code values might be provided if available).</stability_definition>
+			<nci_definition>Terminology developed to support Container Types within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96074' nci_pt='Stability Product Form Terminology' stab_pt='Stability Product Form Terminology'>
+			<stability_definition>This code describes the form of the reported product. Code values might be provided if available (e.g., when used in other submissions like SPL).</stability_definition>
+			<nci_definition>Terminology developed to support Product Forms within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96072' nci_pt='Stability Product Identifier Terminology' stab_pt='Stability Product Identifier Terminology'>
+			<stability_definition>This is the code for the official product name. For FDA implementation, only the "displayName" (i.e., the product name) is mandatory, the code values might be provided if available (e.g., when used in other submissions like SPL). For NDA this is a new identifier. For ongoing studies the identifier should be identical to an already submitted code, so that a unique relationship can be established.</stability_definition>
+			<nci_definition>Terminology developed to support Product Identifiers within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96071' nci_pt='Stability Study Data File Reason Terminology' stab_pt='Stability Study Data File Reason Terminology'>
+			<stability_definition>This code should indicate the type of application the data supports or whether the data is submitted to an existing application. The codes indicate that the data is part of an Annual Report, New Drug Application, New Active Ingredient, Biologics License Application, Premarket Approval, or Supplement to an Approved Application.</stability_definition>
+			<nci_definition>Terminology developed to support Data File Reasons within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96070' nci_pt='Stability Study Data File Type Terminology' stab_pt='Stability Study Data File Type Terminology'>
+			<stability_definition>This code should reflect if the file in hand is a standard data file for one storage condition or a partial file as part of a cycled study.</stability_definition>
+			<nci_definition>Terminology developed to support Data File Types within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96078' nci_pt='Stability Study Interpretation Terminology' stab_pt='Stability Study Interpretation Terminology'>
+			<stability_definition>For a single acceptance criterion (i.e., limit) this code describes how to relate the given value to a measured value, (e.g., a result should not be greater (not more) than the given value). The common accepted nomenclature should be used here.</stability_definition>
+			<nci_definition>Terminology developed to support Study Interpretations within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96077' nci_pt='Stability Study Method Type Terminology' stab_pt='Stability Study Method Type Terminology'>
+			<stability_definition>A classification of the methods used in stability testing.</stability_definition>
+			<nci_definition>Terminology developed to support Study Method Types within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96083' nci_pt='Stability Study Pause Description Terminology' stab_pt='Stability Study Pause Description Terminology'>
+			<stability_definition>This code describes any delay that happened during testing, e.g. none (Immediate) or freeze sample (Delayed Frozen).</stability_definition>
+			<nci_definition>Terminology developed to support Pause Descriptions within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96082' nci_pt='Stability Study Storage Condition Terminology' stab_pt='Stability Study Storage Condition Terminology'>
+			<stability_definition>The code provided represents a storage condition. Dependent of the internal company definitions this condition might be simple (e.g., 25 degrees) or complex (e.g., 25 degrees C/60% R.H. upright).</stability_definition>
+			<nci_definition>Terminology developed to support Storage Conditions within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96076' nci_pt='Stability Study Test Terminology' stab_pt='Stability Study Test Terminology'>
+			<stability_definition>This code describes the test performed during a study within the specification sheet.</stability_definition>
+			<nci_definition>Terminology developed to support Study Tests within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96079' nci_pt='Stability Study Type Terminology' stab_pt='Stability Study Type Terminology'>
+			<stability_definition>This code classifies the type of study performed on the given Research Subject, e.g., Commercial, Development, Clinical.</stability_definition>
+			<nci_definition>Terminology developed to support Study Types within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96075' nci_pt='Stability Substance Identifier Terminology' stab_pt='Stability Substance Identifier Terminology'>
+			<stability_definition>The official code for a referenced substance (e.g., acetylsalicylic acid), as a single entity or part of a product (e.g., aspirin). For FDA implementation, only the displayName (i.e. the product name) is mandatory, the code values might be provided if available (e.g., when used in other submissions like SPL), please refer to Substance Registration System - Unique Ingredient Identifier (UNII), at http://www.fda.gov/oc/datacouncil/spl.html. If you have a new compound that is not in the Substance Registration System (SRS) it can be registered by contacting fda-srs(at)fda.hhs.gov. The compound can be given a code and the other information about the compound can remain confidential.</stability_definition>
+			<nci_definition>Terminology developed to support Substance Identifiers within the Stability Data Standards.</nci_definition>
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96074' subset_name='Stability Product Form Terminology'>
+		<CodeItem nci_code='C42887' nci_pt='Aerosol Dosage Form' stab_pt='AEROSOL'>
+			<stability_definition />
+			<nci_definition>Contents packaged under pressure that are released upon activation of an appropriate valve system.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42888' nci_pt='Aerosol Foam Dosage Form' stab_pt='AEROSOL, FOAM'>
+			<stability_definition />
+			<nci_definition>A foam that is packaged under pressure and released upon activation of an appropriate valve system.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42960' nci_pt='Metered Aerosol Dosage Form' stab_pt='AEROSOL, METERED'>
+			<stability_definition />
+			<nci_definition>An aerosol contained in a device with valves that permits the release of a specified quantity of active and/or inert ingredient(s) upon activation.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42971' nci_pt='Powder Aerosol Dosage Form' stab_pt='AEROSOL, POWDER'>
+			<stability_definition />
+			<nci_definition>A powder composed of active and/or inert ingredient(s) and packaged under pressure. Ingredients are released upon activation of an appropriate valve system.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42889' nci_pt='Aerosol Spray Dosage Form' stab_pt='AEROSOL, SPRAY'>
+			<stability_definition />
+			<nci_definition>A spray that is packaged under pressure and released upon activation of an appropriate valve system.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42892' nci_pt='Chewable Bar Dosage Form' stab_pt='BAR, CHEWABLE'>
+			<stability_definition />
+			<nci_definition>A bar designed to be chewed to release active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42890' nci_pt='Bead Dosage Form' stab_pt='BEAD'>
+			<stability_definition />
+			<nci_definition>A solid in the shape of a small sphere.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43451' nci_pt='Extended Release Bead Implant Dosage Form' stab_pt='BEAD, IMPLANT, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solid in the shape of a small sphere intended to be embedded securely in the body and designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42891' nci_pt='Block Dosage Form' stab_pt='BLOCK'>
+			<stability_definition />
+			<nci_definition>A solid or semi-solid in the shape of a square or rectangle.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C25158' nci_pt='Capsule Dosage Form' stab_pt='CAPSULE'>
+			<stability_definition />
+			<nci_definition>A solid contained within either a hard or soft soluble shell, usually prepared from gelatin.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42895' nci_pt='Coated Capsule Dosage Form' stab_pt='CAPSULE, COATED'>
+			<stability_definition />
+			<nci_definition>A capsule that contains an additional outer layer over the capsule shell.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42896' nci_pt='Coated Pellet in Capsule Dosage Form' stab_pt='CAPSULE, COATED PELLETS'>
+			<stability_definition />
+			<nci_definition>A capsule composed of small globular masses covered with an outer shell.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42917' nci_pt='Extended Release Coated Capsule Dosage Form' stab_pt='CAPSULE, COATED, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A capsule covered with a thin layer of substance and is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42902' nci_pt='Delayed Release Capsule Dosage Form' stab_pt='CAPSULE, DELAYED RELEASE'>
+			<stability_definition />
+			<nci_definition>A capsule covered with a substance that is designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42904' nci_pt='Delayed Release Pellet in Capsule Dosage Form' stab_pt='CAPSULE, DELAYED RELEASE PELLETS'>
+			<stability_definition />
+			<nci_definition>A capsule composed of active and/or inert ingredient(s) small, spherical structures that have been coated with a substance that is designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42916' nci_pt='Extended Release Capsule Dosage Form' stab_pt='CAPSULE, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A capsule designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42928' nci_pt='Extended Release Film Coated Capsule Dosage Form' stab_pt='CAPSULE, FILM COATED, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A capsule covered with a thin layer of water soluble or insoluble polymer and is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42936' nci_pt='Gelatin Coated Capsule Dosage Form' stab_pt='CAPSULE, GELATIN COATED'>
+			<stability_definition />
+			<nci_definition>A capsule covered with a thin layer of gelatin.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42954' nci_pt='Liquid Filled Capsule Dosage Form' stab_pt='CAPSULE, LIQUID FILLED'>
+			<stability_definition />
+			<nci_definition>A capsule composed of liquid covered with an outer shell, which is usually prepared from gelatin.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C45414' nci_pt='Cement Dosage Form' stab_pt='CEMENT'>
+			<stability_definition />
+			<nci_definition>A base composed of bonding agents intermingled with active and/or inert ingredient(s), which rapidly hardens into a firm mass upon application.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42678' nci_pt='Cigarette Dosage Form' stab_pt='CIGARETTE'>
+			<stability_definition />
+			<nci_definition>A solid composed of active and/or inert ingredient(s) wrapped in a paper cylinder whereby one end is burned. The ingredient is released in a smoke form, which is inhaled.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60884' nci_pt='Cloth Dosage Form' stab_pt='CLOTH'>
+			<stability_definition />
+			<nci_definition>A solid composed active and/or inert ingredient(s) in a woven absorbent material.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60891' nci_pt='Concentrated Dosage Form' stab_pt='CONCENTRATE'>
+			<stability_definition />
+			<nci_definition>A solution or suspension composed of active and/or inert ingredient(s) with increased strength in a reduced volume, which is usually diluted prior to administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42900' nci_pt='Cone Dosage Form' stab_pt='CONE'>
+			<stability_definition />
+			<nci_definition>A solid with a shape bounded by a circular base converging upon a single vertex.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42919' nci_pt='Extended Release Core Dosage Form' stab_pt='CORE, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solid or liquid core composed of active and/or inert ingredient(s) enclosed by a polymer coated shell. It is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C28944' nci_pt='Cream Dosage Form' stab_pt='CREAM'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of an emulsion of lipids, hydrocarbons, waxes, or polyols in water.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60897' nci_pt='Augmented Cream Dosage Form' stab_pt='CREAM, AUGMENTED'>
+			<stability_definition />
+			<nci_definition>A cream that is modified to enhance the release of active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42901' nci_pt='Crystal Dosage Form' stab_pt='CRYSTAL'>
+			<stability_definition />
+			<nci_definition>A solid that consists of naturally produced angular solids composed of singular, repeating units that are systematically arranged in an evenly spaced lattice.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47890' nci_pt='Vaginal Diaphragm Dosage Form' stab_pt='DIAPHRAGM'>
+			<stability_definition />
+			<nci_definition>A dome-shaped insert with a springy, flexible rim intended to be inserted into the vagina and positioned behind the pelvic bone to completely cover the cervix.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43525' nci_pt='Disc Dosage Form' stab_pt='DISC'>
+			<stability_definition />
+			<nci_definition>A flat, circular shaped form composed of a solid or powder that contains active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42679' nci_pt='Douche Dosage Form' stab_pt='DOUCHE'>
+			<stability_definition />
+			<nci_definition>A substance intended for use as a vaginal irrigant.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42763' nci_pt='Dressing Dosage Form' stab_pt='DRESSING'>
+			<stability_definition />
+			<nci_definition>A substance intended for administration in or on a wound.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C17423' nci_pt='Drug Delivery System' stab_pt='DRUG DELIVERY SYSTEM'>
+			<stability_definition />
+			<nci_definition>Modern technology, distributed with or as a part of a drug product that allows for the uniform release or targeting of drugs to the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42912' nci_pt='Elixir Dosage Form' stab_pt='ELIXIR'>
+			<stability_definition />
+			<nci_definition>A solution composed of a clear, sweetened hydroalcoholic liquid in which active and/or inert ingredient(s) are dissolved.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42913' nci_pt='Emulsion Dosage Form' stab_pt='EMULSION'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of at least two immiscible liquids, one of which is dispersed as droplets within the other liquid, and stabilized with one or more emulsifying agents.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42915' nci_pt='Enema Dosage Form' stab_pt='ENEMA'>
+			<stability_definition />
+			<nci_definition>A solution or suspension intended for administration into the rectum.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42929' nci_pt='Extract Dosage Form' stab_pt='EXTRACT'>
+			<stability_definition />
+			<nci_definition>A distillate composed of active and/or inert ingredient(s) extracted from plant or animal matter, and represented in concentrated form.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60926' nci_pt='Extended Release Fiber Dosage Form' stab_pt='FIBER, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solid in the shape of a slender, elongated thread that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42932' nci_pt='Film Dosage Form' stab_pt='FILM'>
+			<stability_definition />
+			<nci_definition>A thin layer of water soluble or insoluble polymer intended to coat the site of administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42920' nci_pt='Extended Release Film Dosage Form' stab_pt='FILM, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A film that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42984' nci_pt='Soluble Film Dosage Form' stab_pt='FILM, SOLUBLE'>
+			<stability_definition />
+			<nci_definition>A film that will dissolve in a liquid solvent to form a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60927' nci_pt='Dosage Form for Solution' stab_pt='FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A substance intended for administration as a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60928' nci_pt='Dosage Form for Suspension' stab_pt='FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A substance intended for administration as a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60929' nci_pt='Extended Release Dosage Form for Suspension' stab_pt='FOR SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A substance that forms a suspension upon reconstitution and designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42933' nci_pt='Gas Dosage Form' stab_pt='GAS'>
+			<stability_definition />
+			<nci_definition>An elastic aeriform fluid in which the molecules are separated from one another and have freedom of movement.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42934' nci_pt='Gel Dosage Form' stab_pt='GEL'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a solid, three dimensional, cross linked matrix of polymers within a liquid, yielding a jelly-like material unable to flow at steady state.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42906' nci_pt='Dentifrice Gel Dosage Form' stab_pt='GEL, DENTIFRICE'>
+			<stability_definition />
+			<nci_definition>A gel intended for use in the oral cavity to clean the teeth and maintain oral hygiene.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60930' nci_pt='Metered Gel Dosage Form' stab_pt='GEL, METERED'>
+			<stability_definition />
+			<nci_definition>A gel contained in a device with valves that permits the release of a uniform dose of gel that composed of active and/or inert ingredient(s) upon activation.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C48193' nci_pt='Generator Dosage Form' stab_pt='GENERATOR'>
+			<stability_definition />
+			<nci_definition>An apparatus that converts solutions, suspensions or solids, composed of active and/or inert ingredient(s) into a vapor or gas by heat or chemical reaction.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42937' nci_pt='Globule Dosage Form' stab_pt='GLOBULE'>
+			<stability_definition />
+			<nci_definition>A solid composed of sucrose, lactose or other polysaccharides formed into small globular pellets impregnated with active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C45416' nci_pt='Graft Dosage Form' stab_pt='GRAFT'>
+			<stability_definition />
+			<nci_definition>A solid composed of a piece of skin or other tissue intended for implantation into or on the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42938' nci_pt='Granule Dosage Form' stab_pt='GRANULE'>
+			<stability_definition />
+			<nci_definition>A solid composed of small particles or grains.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87540' nci_pt='Delayed Release Granule for Suspension Dosage Form' stab_pt='GRANULE FOR SUSPENSION, DELAYED RELEASE'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form comprised of delayed release granules designed to form a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42903' nci_pt='Delayed Release Granule Dosage Form' stab_pt='GRANULE, DELAYED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solid composed of small particles or grains and have been coated with a substance that is designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42909' nci_pt='Effervescent Granule Dosage Form' stab_pt='GRANULE, EFFERVESCENT'>
+			<stability_definition />
+			<nci_definition>A granule composed of active and/or inert ingredient(s), and a mixture of acids and sodium bicarbonate, which release carbon dioxide when dissolved in water.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C69067' nci_pt='Extended Release Granule Dosage Form' stab_pt='GRANULE, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solid in the shape of a small particle or grain designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42939' nci_pt='Granule for Solution Dosage Form' stab_pt='GRANULE, FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A granule intended for administration as a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42940' nci_pt='Granule for Suspension Dosage Form' stab_pt='GRANULE, FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A granule intended for administration as a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42921' nci_pt='Extended Release Granule for Suspension Dosage Form' stab_pt='GRANULE, FOR SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A granule intended for administration as a suspension and designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42941' nci_pt='Gum Dosage Form' stab_pt='GUM'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a sticky, mucilaginous polysaccharide.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42894' nci_pt='Chewing Gum Dosage Form' stab_pt='GUM, CHEWING'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of synthetic, polymerized polysaccharide and flavorings, intended to be chewed to release active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42978' nci_pt='Resin Gum Dosage Form' stab_pt='GUM, RESIN'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a mixture of gum and a plant based hydrocarbon.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42942' nci_pt='Implant Dosage Form' stab_pt='IMPLANT'>
+			<stability_definition />
+			<nci_definition>A solid intended for insertion securely within the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42944' nci_pt='Inhalant Dosage Form' stab_pt='INHALANT'>
+			<stability_definition />
+			<nci_definition>Vaporized active and/or inert ingredient(s) intended for administration by inhalation.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60931' nci_pt='Liposomal Injection Dosage Form' stab_pt='INJECTABLE, LIPOSOMAL'>
+			<stability_definition />
+			<nci_definition>A substance composed of active and/or inert ingredient(s) encapsulated in liposomes and intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42946' nci_pt='Injectable Dosage Form' stab_pt='INJECTION'>
+			<stability_definition />
+			<nci_definition>A substance intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42914' nci_pt='Emulsion for Injection Dosage Form' stab_pt='INJECTION, EMULSION'>
+			<stability_definition />
+			<nci_definition>An emulsion intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42950' nci_pt='Injectable Lipid Complex Dosage Form' stab_pt='INJECTION, LIPID COMPLEX'>
+			<stability_definition />
+			<nci_definition>A substance composed of complexed active and/or inert ingredient(s) with natural or synthetic lipids that is intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42974' nci_pt='Powder for Injectable Solution Dosage Form' stab_pt='INJECTION, POWDER, FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A powder intended for injection following reconstitution to form a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42976' nci_pt='Powder for Injectable Suspension Dosage Form' stab_pt='INJECTION, POWDER, FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A powder intended for injection following reconstitution to form a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42977' nci_pt='Powder for Injectable Extended Release Suspension Dosage Form' stab_pt='INJECTION, POWDER, FOR SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A powder intended for injection following reconstitution to form a suspension that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42959' nci_pt='Lyophilized Powder for Injectable Liposomal Suspension Dosage Form' stab_pt='INJECTION, POWDER, LYOPHILIZED, FOR LIPOSOMAL SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A freeze dried powder composed of active and/or inert ingredient(s) encapsulated in liposomes and intended for injection following reconstitution with a suitable solvent to form a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42957' nci_pt='Lyophilized Powder for Injectable Solution Dosage Form' stab_pt='INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A freeze dried powder intended for injection following reconstitution with a suitable solvent to form a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42958' nci_pt='Lyophilized Powder for Injectable Suspension Dosage Form' stab_pt='INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A freeze dried powder intended for injection following reconstitution with a suitable solvent to form a suspension.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42956' nci_pt='Lyophilized Powder for Extended Release Injectable Suspension Dosage Form' stab_pt='INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A freeze dried powder intended for injection following reconstitution with a suitable solvent to form a suspension that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42945' nci_pt='Injectable Solution Dosage Form' stab_pt='INJECTION, SOLUTION'>
+			<stability_definition />
+			<nci_definition>A solution intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42899' nci_pt='Concentrated Injectable Solution Dosage Form' stab_pt='INJECTION, SOLUTION, CONCENTRATE'>
+			<stability_definition />
+			<nci_definition>A concentrate which is usually diluted prior to administration by injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42995' nci_pt='Injectable Suspension Dosage Form' stab_pt='INJECTION, SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A suspension intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42926' nci_pt='Injectable Extended Release Suspension Dosage Form' stab_pt='INJECTION, SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A suspension intended for injection that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42951' nci_pt='Injectable Liposomal Suspension Dosage Form' stab_pt='INJECTION, SUSPENSION, LIPOSOMAL'>
+			<stability_definition />
+			<nci_definition>A suspension composed of active and/or inert ingredient(s) encapsulated in liposomes and intended for injection.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42988' nci_pt='Injectable Sonicated Suspension Dosage Form' stab_pt='INJECTION, SUSPENSION, SONICATED'>
+			<stability_definition />
+			<nci_definition>A suspension intended for injection and is sonicated while a gas is bubbled through the suspension resulting in the creation of microspheres by the solid particles.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60933' nci_pt='Insert Dosage Form' stab_pt='INSERT'>
+			<stability_definition />
+			<nci_definition>A solid or semi-solid intended for administration within the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42922' nci_pt='Extended Release Insert Dosage Form' stab_pt='INSERT, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>An insert designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87538' nci_pt='Extended Release Intraruminal Device Dosage Form' stab_pt='INTRARUMINAL DEVICE, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form comprised of extended release agents for intraruminal administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47915' nci_pt='Intrauterine Device Dosage Form' stab_pt='INTRAUTERINE DEVICE'>
+			<stability_definition />
+			<nci_definition>A solid intended for placement within the uterine cavity where active and/or inert ingredient(s) are released from an apparatus at a controlled rate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42947' nci_pt='Irrigant Dosage Form' stab_pt='IRRIGANT'>
+			<stability_definition />
+			<nci_definition>A solution or suspension used to bathe or flush open wounds or body cavities.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42948' nci_pt='Jelly Dosage Form' stab_pt='JELLY'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of suspensions of active and/or inert ingredient(s) in any type of highly viscous material, including gelatin or gel. The structural matrix of the jelly contains high levels of liquid.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47916' nci_pt='Kit Dosage Form' stab_pt='KIT'>
+			<stability_definition />
+			<nci_definition>A collection of unrelated materials that are used together to orchestrate dosage administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C45413' nci_pt='Dental Liner Dosage Form' stab_pt='LINER, DENTAL'>
+			<stability_definition />
+			<nci_definition>A resinous film-forming agent dissolved in a solvent or a calcium hydroxide suspension within a synthetic resin solution, which rapidly hardens into a firm mass upon administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42949' nci_pt='Liniment Dosage Form' stab_pt='LINIMENT'>
+			<stability_definition />
+			<nci_definition>A semi-solid with viscosity similar to that of a lotion, which is intended for topical use and must be rubbed into the site of administration to release the active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42952' nci_pt='Lipstick Dosage Form' stab_pt='LIPSTICK'>
+			<stability_definition />
+			<nci_definition>A solid or semi-solid with a waxy consistency in the shape of a stick and intended for use on the lips.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42953' nci_pt='Liquid Dosage Form' stab_pt='LIQUID'>
+			<stability_definition />
+			<nci_definition>A substance in the fluid state of matter having no fixed shape but a fixed volume.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60934' nci_pt='Extended Release Liquid Dosage Form' stab_pt='LIQUID, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solution or suspension that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C29167' nci_pt='Lotion Dosage Form' stab_pt='LOTION'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of an oil in water emulsion, with lower viscosity than cream or gel.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60957' nci_pt='Augmented Lotion Dosage Form' stab_pt='LOTION, AUGMENTED'>
+			<stability_definition />
+			<nci_definition>A lotion that is modified to enhance the release of active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60958' nci_pt='Lotion Shampoo Dosage Form' stab_pt='LOTION/SHAMPOO'>
+			<stability_definition />
+			<nci_definition>A lotion composed of anionic surfactant intended for administration to the hair or scalp.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42955' nci_pt='Lozenge Dosage Form' stab_pt='LOZENGE'>
+			<stability_definition />
+			<nci_definition>A solid composed of active and/or inert ingredient(s), sweeteners, other flavorings and mucilage, intended for oral administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C29269' nci_pt='Mouthwash Dosage Form' stab_pt='MOUTHWASH'>
+			<stability_definition />
+			<nci_definition>A solution or suspension intended for oral administration, for its deodorizing or antiseptic effects in the oral cavity. Usually, the mouthwash is swished around the mouth and expelled.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C48624' nci_pt='Dosage Form Not Applicable' stab_pt='NOT APPLICABLE'>
+			<stability_definition />
+			<nci_definition>An indication that the dosage form is not relevant or appropriate.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42965' nci_pt='Oil Dosage Form' stab_pt='OIL'>
+			<stability_definition />
+			<nci_definition>A solution or suspension that is hydrophobic, soluble in organic solvents, and liquid at ambient temperature.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42966' nci_pt='Ointment Dosage Form' stab_pt='OINTMENT'>
+			<stability_definition />
+			<nci_definition>A semi-solid, viscous in texture, that may be composed of a variety of bases including hydrocarbons, emulsifiers or vegetable oils, and mixed with active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60984' nci_pt='Augmented Ointment Dosage Form' stab_pt='OINTMENT, AUGMENTED'>
+			<stability_definition />
+			<nci_definition>An ointment that is modified to enhance the release of active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47887' nci_pt='Packing Dosage Form' stab_pt='PACKING'>
+			<stability_definition />
+			<nci_definition>A solid composed of a material that contains active and/or inert ingredient(s) which is intended to be placed in a cavity or depression within the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42967' nci_pt='Paste Dosage Form' stab_pt='PASTE'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a large proportion of solids and finely dispersed active and/or inert ingredient(s) in a fat-based vehicle.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42907' nci_pt='Dentifrice Paste Dosage Form' stab_pt='PASTE, DENTIFRICE'>
+			<stability_definition />
+			<nci_definition>A paste of mild abrasives, detergents, flavoring agents, binders, fluoride, and other active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60985' nci_pt='Pastille Dosage Form' stab_pt='PASTILLE'>
+			<stability_definition />
+			<nci_definition>A solid or semi-solid composed of a lozenge, that contains active and/or inert ingredient(s) that dissolves when sucked in the mouth.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42968' nci_pt='Patch Dosage Form' stab_pt='PATCH'>
+			<stability_definition />
+			<nci_definition>A solid composed of an impermeable occlusive backing and a formulation matrix in which the active and/or inert ingredient(s) are dissolved or dispersed; possibly includes an adhesive layer.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42923' nci_pt='Extended Release Patch Dosage Form' stab_pt='PATCH, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A patch designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42911' nci_pt='Electrically Controlled Extended Release Patch Dosage Form' stab_pt='PATCH, EXTENDED RELEASE, ELECTRICALLY CONTROLLED'>
+			<stability_definition />
+			<nci_definition>A patch that composed of active and/or inert ingredient(s) whose release is controlled by electronic impulses that release ingredients at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42969' nci_pt='Pellet Dosage Form' stab_pt='PELLET'>
+			<stability_definition />
+			<nci_definition>A solid composed of a small granular or compressed mass that contains highly purified active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42943' nci_pt='Implantable Pellet Dosage Form' stab_pt='PELLET, IMPLANTABLE'>
+			<stability_definition />
+			<nci_definition>A pellet intended for insertion securely within the body.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42918' nci_pt='Extended Release Coated Pellet Dosage Form' stab_pt='PELLETS, COATED, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A pellet covered with a thin layer of substance that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87542' nci_pt='Pendant Dosage Form' stab_pt='PENDANT'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form containing active substance(s) delivered via pendant.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C25394' nci_pt='Pill Dosage Form' stab_pt='PILL'>
+			<stability_definition />
+			<nci_definition>A solid composed of a small, round object composed of active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42970' nci_pt='Plaster Dosage Form' stab_pt='PLASTER'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a soft, smooth mass with relatively thick consistency and strong adhesiveness that becomes solid when dry.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47913' nci_pt='Poultice Dosage Form' stab_pt='POULTICE'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a soft, moist mass that is made by wetting an absorbent solid substance.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42972' nci_pt='Powder Dosage Form' stab_pt='POWDER'>
+			<stability_definition />
+			<nci_definition>A solid composed of a mixture of dry, finely divided active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42908' nci_pt='Dentifrice Powder Dosage Form' stab_pt='POWDER, DENTIFRICE'>
+			<stability_definition />
+			<nci_definition>A powder composed of a mild abrasives, detergents, flavoring agents, binders, fluoride, and other active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C64884' nci_pt='Effervescent Powder Dosage Form' stab_pt='POWDER, EFFERVESCENT'>
+			<stability_definition />
+			<nci_definition>A powder composed of active and/or inert ingredient(s), and a mixture of acids and sodium bicarbonate, which release carbon dioxide when dissolved in water.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42973' nci_pt='Powder for Solution Dosage Form' stab_pt='POWDER, FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A powder that yields a solution following reconstitution with an appropriate liquid.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42975' nci_pt='Powder for Suspension Dosage Form' stab_pt='POWDER, FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A powder that forms a suspension when reconstituted with a liquid solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87541' nci_pt='Lyophilized Powder Dosage Form' stab_pt='POWDER, LYOPHILIZED'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form comprised of lyophilized powder.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42961' nci_pt='Metered Powder Dosage Form' stab_pt='POWDER, METERED'>
+			<stability_definition />
+			<nci_definition>A powder contained in a device with valves that permits the dispensing of active and/or inert ingredient(s) upon activation.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60988' nci_pt='Ring Dosage Form' stab_pt='RING'>
+			<stability_definition />
+			<nci_definition>A solid composed active and/or inert ingredient(s) of in the shape of a hoop.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42979' nci_pt='Rinse Dosage Form' stab_pt='RINSE'>
+			<stability_definition />
+			<nci_definition>A solution or suspension intended for irrigation purposes.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42980' nci_pt='Salve Dosage Form' stab_pt='SALVE'>
+			<stability_definition />
+			<nci_definition>A semi-solid composed of a thick, fat or wax-based ointment or cerate with a consistency somewhere between an ointment and a plaster.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42981' nci_pt='Shampoo Dosage Form' stab_pt='SHAMPOO'>
+			<stability_definition />
+			<nci_definition>A solution or suspension composed of an anionic surfactant and intended for administration to the hair and/or scalp.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42982' nci_pt='Shampoo Suspension Dosage Form' stab_pt='SHAMPOO, SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A suspension composed of anionic surfactant and intended for administration to the hair and/or scalp.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87537' nci_pt='Smoke Paper Dosage Form' stab_pt='SMOKE PAPER'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form comprised of paper that is smoked.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87536' nci_pt='Smoke Stick Dosage Form' stab_pt='SMOKE STICK'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form comprised of a stick that is smoked.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42983' nci_pt='Soap Dosage Form' stab_pt='SOAP'>
+			<stability_definition />
+			<nci_definition>An anionic surfactant for cleansing.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42986' nci_pt='Solution Dosage Form' stab_pt='SOLUTION'>
+			<stability_definition />
+			<nci_definition>A clear, homogeneous liquid composed of one or more chemical substances dissolved in a solvent or mixture of mutually miscible solvents.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42898' nci_pt='Concentrated Solution Dosage Form' stab_pt='SOLUTION, CONCENTRATE'>
+			<stability_definition />
+			<nci_definition>A concentrate which is usually diluted prior to administration and exists as a solution in its final form.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42987' nci_pt='Solution for Slush Dosage Form' stab_pt='SOLUTION, FOR SLUSH'>
+			<stability_definition />
+			<nci_definition>A solution composed of an iced saline slurry with or without active and/or inert ingredient(s) intended to induce regional hypothermia from the point of administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42935' nci_pt='Extended Release Gel Forming Solution Dosage Form' stab_pt='SOLUTION, GEL FORMING, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A solution that becomes gelatinous upon administration and is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60994' nci_pt='Gel Forming Drop Solution Dosage Form' stab_pt='SOLUTION, GEL FORMING/DROPS'>
+			<stability_definition />
+			<nci_definition>A solution intended for administration in a drop-wise fashion; it becomes gelatinous upon administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60992' nci_pt='Drop Solution Dosage Form' stab_pt='SOLUTION/DROPS'>
+			<stability_definition />
+			<nci_definition>A solution intended for administration in a drop-wise fashion.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47912' nci_pt='Sponge Dosage Form' stab_pt='SPONGE'>
+			<stability_definition />
+			<nci_definition>A solid composed of a porous, interlacing, absorbent, usually shape retaining material, such as cellulose wood fibers or plastic polymer form.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42989' nci_pt='Spray Dosage Form' stab_pt='SPRAY'>
+			<stability_definition />
+			<nci_definition>A solution or suspension composed of active and/or inert ingredient(s) in oil or water, typically dispensed from an atomizer or nebulizer.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42962' nci_pt='Metered Spray Dosage Form' stab_pt='SPRAY, METERED'>
+			<stability_definition />
+			<nci_definition>A spray contained in a device with valves that permits the dispensing of a specified quantity of active and/or inert ingredient(s) upon activation.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42990' nci_pt='Spray Suspension Dosage Form' stab_pt='SPRAY, SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A spray composed of a suspension that contains active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42991' nci_pt='Stick Dosage Form' stab_pt='STICK'>
+			<stability_definition />
+			<nci_definition>A solid composed active and/or inert ingredient(s) in a long, slender cylindrical shape.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47914' nci_pt='Strip Dosage Form' stab_pt='STRIP'>
+			<stability_definition />
+			<nci_definition>A solid composed of active and/or inert ingredient(s) in a long narrow piece of material.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42993' nci_pt='Suppository Dosage Form' stab_pt='SUPPOSITORY'>
+			<stability_definition />
+			<nci_definition>A solid or semi-solid composed of active and/or inert ingredient(s) in a wax, fat or a glycerin gelatin jelly and that is conical or oval in shape. It is intended to be inserted into a body orifice.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42924' nci_pt='Extended Release Suppository Dosage Form' stab_pt='SUPPOSITORY, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A suppository that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42994' nci_pt='Suspension Dosage Form' stab_pt='SUSPENSION'>
+			<stability_definition />
+			<nci_definition>Insoluble solid particles composed of active and/or inert ingredient(s) that are dispersed in a liquid.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42925' nci_pt='Extended Release Suspension Dosage Form' stab_pt='SUSPENSION, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A suspension that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60995' nci_pt='Drop Suspension Dosage Form' stab_pt='SUSPENSION/DROPS'>
+			<stability_definition />
+			<nci_definition>A suspension intended for administration in a drop-wise fashion.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47889' nci_pt='Suture Dosage Form' stab_pt='SUTURE'>
+			<stability_definition />
+			<nci_definition>A solid composed of fibrous strands of material that are used to bind wound edges together.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47898' nci_pt='Swab Dosage Form' stab_pt='SWAB'>
+			<stability_definition />
+			<nci_definition>A solid composed of a small piece of absorbent material attached to one end of a small stick.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42996' nci_pt='Syrup Dosage Form' stab_pt='SYRUP'>
+			<stability_definition />
+			<nci_definition>A solution or suspension composed of a viscid vehicle that contains a high concentration of sucrose or other sugars and active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42998' nci_pt='Tablet Dosage Form' stab_pt='TABLET'>
+			<stability_definition />
+			<nci_definition>A solid composed of a mixture of that active and/or inert ingredient(s) are pressed or compacted together, usually in the form of a relatively flat and round, square or oval shape.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42893' nci_pt='Chewable Tablet Dosage Form' stab_pt='TABLET, CHEWABLE'>
+			<stability_definition />
+			<nci_definition>A tablet designed to be chewed to release the active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42897' nci_pt='Coated Tablet Dosage Form' stab_pt='TABLET, COATED'>
+			<stability_definition />
+			<nci_definition>A tablet whose outer shell is covered with a substance.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C60997' nci_pt='Tablet Coated Particle Dosage Form' stab_pt='TABLET, COATED PARTICLES'>
+			<stability_definition />
+			<nci_definition>A tablet composed of a conglomerate of particles that contains active and/or inert ingredient(s) that have been individually covered with a coating.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42905' nci_pt='Delayed Release Tablet Dosage Form' stab_pt='TABLET, DELAYED RELEASE'>
+			<stability_definition />
+			<nci_definition>A tablet that has been coated with a substance that is designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42997' nci_pt='Delayed Release Particle Tablet Dosage Form' stab_pt='TABLET, DELAYED RELEASE PARTICLES'>
+			<stability_definition />
+			<nci_definition>A tablet composed of individual fragments have been coated with a substance that is designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42910' nci_pt='Effervescent Tablet Dosage Form' stab_pt='TABLET, EFFERVESCENT'>
+			<stability_definition />
+			<nci_definition>A tablet composed of active and/or inert ingredient(s), and a mixture of acids and sodium bicarbonate, which release carbon dioxide when dissolved in water.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42927' nci_pt='Extended Release Tablet Dosage Form' stab_pt='TABLET, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A tablet designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42931' nci_pt='Film Coated Tablet Dosage Form' stab_pt='TABLET, FILM COATED'>
+			<stability_definition />
+			<nci_definition>A tablet covered with a thin layer of water soluble or insoluble polymer.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42930' nci_pt='Film Coated Extended Release Tablet Dosage Form' stab_pt='TABLET, FILM COATED, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A tablet covered with a thin layer of water soluble or insoluble polymer and is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61004' nci_pt='Tablet for Solution Dosage Form' stab_pt='TABLET, FOR SOLUTION'>
+			<stability_definition />
+			<nci_definition>A tablet that changes into a solution when added to a liquid solvent.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61005' nci_pt='Tablet for Suspension Dosage Form' stab_pt='TABLET, FOR SUSPENSION'>
+			<stability_definition />
+			<nci_definition>A tablet that changes into a suspension when added to a liquid solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42964' nci_pt='Multilayered Tablet Dosage Form' stab_pt='TABLET, MULTILAYER'>
+			<stability_definition />
+			<nci_definition>A tablet composed of active and/or inert ingredient(s) that have been compressed to form a tablet that contains multiple layers.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42963' nci_pt='Multilayered Extended Release Tablet Dosage Form' stab_pt='TABLET, MULTILAYER, EXTENDED RELEASE'>
+			<stability_definition />
+			<nci_definition>A tablet composed of active and/or inert ingredient(s) that have been compressed into multiple layers and is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42999' nci_pt='Orally Disintegrating Tablet Dosage Form' stab_pt='TABLET, ORALLY DISINTEGRATING'>
+			<stability_definition />
+			<nci_definition>A tablet which disintegrates and dissolves quickly (usually within a matter of seconds) in the mouth. Additional water to complete dissolution is not necessary.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61006' nci_pt='Orally Disintegrating Delayed Release Tablet Dosage Form' stab_pt='TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE'>
+			<stability_definition />
+			<nci_definition>A tablet that disintegrates rapidly, usually within a matter of seconds, when placed upon the tongue but is also designed to impede the immediate release of the active and/or inert ingredient(s) after administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42985' nci_pt='Soluble Tablet Dosage Form' stab_pt='TABLET, SOLUBLE'>
+			<stability_definition />
+			<nci_definition>A tablet that will dissolve in a liquid solvent to form a solution.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C42992' nci_pt='Sugar Coated Tablet Dosage Form' stab_pt='TABLET, SUGAR COATED'>
+			<stability_definition />
+			<nci_definition>A tablet covered with sugar.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C87539' nci_pt='Tag Dosage Form' stab_pt='TAG'>
+			<stability_definition />
+			<nci_definition>A pharmaceutical dosage form containing active substance(s) that are delivered via a tag device.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47892' nci_pt='Tampon Dosage Form' stab_pt='TAMPON'>
+			<stability_definition />
+			<nci_definition>A solid composed of a plug made from absorbent material.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C47897' nci_pt='Tape Dosage Form' stab_pt='TAPE'>
+			<stability_definition />
+			<nci_definition>A solid composed of narrow woven fabric or a narrow extruded synthetic material, usually with an adhesive on one or both sides.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43000' nci_pt='Tincture Dosage Form' stab_pt='TINCTURE'>
+			<stability_definition />
+			<nci_definition>A solution composed of an alcoholic extract or solution of nonvolatile active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43001' nci_pt='Troche Dosage Form' stab_pt='TROCHE'>
+			<stability_definition />
+			<nci_definition>A solid discoid composed of active and/or inert ingredient(s) in a suitably flavored base, that dissolves when sucked in the mouth.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43002' nci_pt='Unassigned Dosage Form' stab_pt='UNASSIGNED'>
+			<stability_definition />
+			<nci_definition>An indication that the dosage form has yet to be assigned.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C43003' nci_pt='Wafer Dosage Form' stab_pt='WAFER'>
+			<stability_definition />
+			<nci_definition>A solid composed of a thin slice of material that contain active and/or inert ingredient(s).</nci_definition>
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96071' subset_name='Stability Study Data File Reason Terminology'>
+		<CodeItem nci_code='C96089' nci_pt='Annual Report' stab_pt='Annual Report'>
+			<stability_definition>Stability data submitted to an annual report or update to an approved application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C71778' nci_pt='Biologics License Application' stab_pt='Biologics License Application'>
+			<stability_definition>Stability data submitted to a biologics license application.</stability_definition>
+			<nci_definition>A formal submission to FDA from any legal person or entity to obtain permission for manufacturing and marketing a biological product subject to licensure under section 351 of the Public Health Service Act. A biologics license application must contains specific information on the manufacturing processes, chemistry, pharmacology, clinical pharmacology and the medical affects of the biologic product, sufficient for the FDA to determine that the establishment and the product meet applicable requirements to ensure the continued safety, purity, and potency of the product, including but not limited to GMPs.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C80440' nci_pt='Humanitarian Device Exemption' stab_pt='Humanitarian Device Exemption (HDE)'>
+			<stability_definition>Stability data submitted for an HDE application.</stability_definition>
+			<nci_definition>A premarket submission to FDA for a device intended to benefit patients by treating or diagnosing a condition affecting fewer than 4,000 individuals in the United States per year. An HDE is similar in form and content to a premarket approval (PMA) but is exempt from the effectiveness requirements of a PMA.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C82667' nci_pt='Investigational Device Exemption' stab_pt='Investigational Device Exemption'>
+			<stability_definition>Stability data submitted to an investigational device exemption.</stability_definition>
+			<nci_definition>Allows an investigational device to be used in a clinical study in order to collect safety and effectiveness data required to support a Premarket Approval application or a Premarket Notification submission to the Food and Drug Administration.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C96091' nci_pt='Investigational New Animal Drug File' stab_pt='Investigational New Animal Drug File'>
+			<stability_definition>Stability data submitted to an investigational new animal drug file.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96090' nci_pt='Investigational New Drug Application' stab_pt='Investigational New Drug Application'>
+			<stability_definition>Stability data submitted to an investigational new human drug application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96092' nci_pt='New Active Ingredient' stab_pt='New Active Ingredient'>
+			<stability_definition>Stability data submitted for an active ingredient, could be stability data for an active ingredient submitted in a drug application, or a Master File.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C72901' nci_pt='New Animal Drug Application' stab_pt='New Animal Drug Application'>
+			<stability_definition>Stability data submitted to a new animal drug application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C72899' nci_pt='New Drug Application' stab_pt='New Drug Application'>
+			<stability_definition>Stability data submitted to a new human drug application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C70880' nci_pt='Premarket Approval' stab_pt='Premarket Approval'>
+			<stability_definition>Stability data submitted for a PMA application.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96094' nci_pt='Approved Application Supplement' stab_pt='Supplement to an Approved Application'>
+			<stability_definition>Stability data submitted to an approved application already filed with the FDA.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96070' subset_name='Stability Study Data File Type Terminology'>
+		<CodeItem nci_code='C96086' nci_pt='Cycled Drug Stability Study' stab_pt='Cycled'>
+			<stability_definition>A Cycled study would be a one time freeze/thaw study.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96087' nci_pt='Photostability Drug Study' stab_pt='Photostability'>
+			<stability_definition>A Photostability study would be a one time study.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96085' nci_pt='Standard Drug Stability Study' stab_pt='Standard'>
+			<stability_definition>A Standard stability study would be a long term or accelerated stability study for either a finished product or active ingredient.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96078' subset_name='Stability Study Interpretation Terminology'>
+		<CodeItem nci_code='C44281' nci_pt='Failed' stab_pt='FAILED'>
+			<stability_definition>This is equivalent to does not meet requirements or specifications.</stability_definition>
+			<nci_definition>Having undergone failure; did not accomplish the intended purpose.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61585' nci_pt='Less Than' stab_pt='LT'>
+			<stability_definition>The value should not be greater than the given value excluding the given value, which is equivalent to "less than".</stability_definition>
+			<nci_definition>A statement about the relative size or order of two objects specifying that an object of interest is smaller than another object in quantity or measure or value or status.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61584' nci_pt='Greater Than' stab_pt='MT'>
+			<stability_definition>The value should not be smaller than the given value excluding the given value, which is equivalent to "greater than".</stability_definition>
+			<nci_definition>A statement about the relative size or order of two objects specifying that an object of interest exceeds another object in quantity or measure or value or status.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C48660' nci_pt='Not Applicable' stab_pt='NA'>
+			<stability_definition>If a value for test has to be provided, but has no given criteria (e.g., the result is for "report only" or "monitoring").</stability_definition>
+			<nci_definition>Determination of a value is not relevant in the current context.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61583' nci_pt='Greater Than or Equal To' stab_pt='NLT'>
+			<stability_definition>The value should not be smaller than the given value and includes the given value, which is equivalent to "greater than or equal to".</stability_definition>
+			<nci_definition>A statement about the relative size or order of two objects specifying that either both objects are the same in quantity or measure or value or status or that the object of interest exceeds the other object in one of these ways.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C61586' nci_pt='Less Than or Equal To' stab_pt='NMT'>
+			<stability_definition>The value should not be greater than the given value and includes the given value, which is equivalent to "less than or equal to".</stability_definition>
+			<nci_definition>A statement about the relative size or order of two objects specifying that either both objects are the same in quantity or measure or value or status or that the object of interest is smaller than the other object in one of these ways.</nci_definition>
+		</CodeItem>
+		<CodeItem nci_code='C81275' nci_pt='Pass' stab_pt='PASSED'>
+			<stability_definition>This is equivalent to meets requirements or specifications.</stability_definition>
+			<nci_definition>One of two possible results of a pass/fail assessment; when the result satisfies a condition.</nci_definition>
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96077' subset_name='Stability Study Method Type Terminology'>
+		<CodeItem nci_code='C96164' nci_pt='Code of Federal Regulations Method' stab_pt='CFR Regulation'>
+			<stability_definition>Method dictated by CFR.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96102' nci_pt='Compendial Method' stab_pt='Compendial'>
+			<stability_definition>Official compendial method.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96103' nci_pt='Proprietary Method' stab_pt='Proprietary'>
+			<stability_definition>Company method.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96083' subset_name='Stability Study Pause Description Terminology'>
+		<CodeItem nci_code='C96151' nci_pt='Delayed Testing' stab_pt='Delayed'>
+			<stability_definition>Sample is not tested immediately.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96154' nci_pt='Ambient Delayed Testing' stab_pt='Delayed, Ambient'>
+			<stability_definition>Sample is stored at ambient conditions and not tested immediately.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96153' nci_pt='Frozen Delayed Testing' stab_pt='Delayed, Frozen'>
+			<stability_definition>Sample is frozen and not tested immediately.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96155' nci_pt='Refrigerated Delayed Testing' stab_pt='Delayed, Refrigerate'>
+			<stability_definition>Sample is refrigerated and not tested immediately.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96150' nci_pt='Immediate Testing' stab_pt='Immediate'>
+			<stability_definition>Sample is tested immediately.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96082' subset_name='Stability Study Storage Condition Terminology'>
+		<CodeItem nci_code='C96146' nci_pt='ICH Temperature/Humidity Storage Condition' stab_pt='ICH'>
+			<stability_definition>ICH storage temperature, Q1A-Q1F.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96148' nci_pt='Proprietary Storage Condition' stab_pt='Proprietary'>
+			<stability_definition>Company defined.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96147' nci_pt='WHO Temperature/Humidity Storage Condition' stab_pt='WHO'>
+			<stability_definition>WHO Technical Report Series, No.953, 2009. Stability testing of active pharmaceutical ingredients and finished pharmaceutical products.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96076' subset_name='Stability Study Test Terminology'>
+		<CodeItem nci_code='C96100' nci_pt='Biological or Textual Reference to Actual Test or Parameter' stab_pt='Biological'>
+			<stability_definition>Biological measurement or determination.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96099' nci_pt='Chemical or Textual Reference to Actual Test or Parameter' stab_pt='Chemical'>
+			<stability_definition>Chemical measurement or determination.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96098' nci_pt='Physical or Textual Reference to Actual Test or Parameter' stab_pt='Physical'>
+			<stability_definition>Physical measurement or determination.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+	<SubsetItem subset_code='C96079' subset_name='Stability Study Type Terminology'>
+		<CodeItem nci_code='C96111' nci_pt='Clinical Lot' stab_pt='Clinical'>
+			<stability_definition>Stability data for a clinical lot.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96109' nci_pt='Commercial Lot' stab_pt='Commercial'>
+			<stability_definition>Stability data for a commercial lot.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+		<CodeItem nci_code='C96110' nci_pt='Development Lot' stab_pt='Development'>
+			<stability_definition>Stability data for a developmental lot.</stability_definition>
+			<nci_definition />
+		</CodeItem>
+	</SubsetItem>
+</EventCode>
