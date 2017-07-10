@@ -15,7 +15,8 @@ my $codeItemText = "CodeItem";
 
 # These arrays are ordered based on how you would like tags and item attributes to appear in the XML.
 # You may rearrange, and add to them.  They must match values listed in the config file.
-my @codeTags = ("fda_synonym", "fda_definition", "nci_definition", "parent_ncicode", "parent_fdacode", "parent_fdapt");
+#my @codeTags = ("fda_synonym", "fda_definition", "nci_definition", "parent_ncicode", "parent_fdacode", "parent_fdapt");
+my @codeTags = ("fda_synonym", "fda_definition", "nci_definition");
 my @codeItemAttributes = ("nci_code", "fda_code", "fda_pt");
 my @subsetItemAttributes = ("source", "subset_code", "subset_name");
 my @eventCodeAttributes = ("version", "date");
