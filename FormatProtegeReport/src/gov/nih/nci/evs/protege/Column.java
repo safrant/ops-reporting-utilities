@@ -36,4 +36,9 @@ public class Column {
 		return this.property;
 	}
 	
+	public void print() {
+		System.out.println("Column Number: " + number);
+		property.print();
+	}
+	
 }

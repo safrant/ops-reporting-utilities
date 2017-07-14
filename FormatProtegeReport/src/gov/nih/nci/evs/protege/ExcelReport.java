@@ -53,11 +53,23 @@ public class ExcelReport {
 	}
 	
 	public void printHeader(Vector<String> values) {
-		
+		r = sheet.createRow(rownum);
+		for(int i=0; i < values.size(); i++) {
+			c = r.createCell(i);
+			c.setCellValue(values.elementAt(i));
+			c.setCellStyle(cs2);
+		}
+		rownum++;		
 	}
 	
 	public void printValues(Vector<String> values) {
-				
+		r = sheet.createRow(rownum);
+		for(int i=0; i < values.size(); i++) {
+			c = r.createCell(i);
+			c.setCellValue(values.elementAt(i));
+			c.setCellStyle(cs);
+		}
+		rownum++;				
 	}
 	
 	public void close() {

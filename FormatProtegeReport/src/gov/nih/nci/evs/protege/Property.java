@@ -32,9 +32,11 @@ public class Property {
 	}
 	
 	public void print() {
-		System.out.print("Property: " + propertyId);
-		for( Qualifier qual : qualifiers ) {
-			qual.print();
+		System.out.println("Property: " + propertyId);
+		if( qualifiers != null && qualifiers.size() > 0) {
+			for( Qualifier qual : qualifiers ) {
+				qual.print();
+			}
 		}
 	}
 

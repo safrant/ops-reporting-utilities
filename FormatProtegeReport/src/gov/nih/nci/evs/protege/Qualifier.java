@@ -1,5 +1,7 @@
 package gov.nih.nci.evs.protege;
 
+import java.util.Vector;
+
 public class Qualifier {
 	private String name;
 	private String value;

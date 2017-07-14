@@ -16,9 +16,10 @@ public class FormatProtegeReport {
 	String excelFile = null;
 	String configFile = new String("./config/config.txt");
 	ExcelReport report = null;
-	Vector<Column> columns = new Vector<Column>();
-	Field[][] fields; 
-	HashMap<Integer, String> inputHeader = new HashMap<Integer, String>();
+	Vector<Column> columns = new Vector<Column>(); 
+	Vector<Field> fields = new Vector<Field>();
+	HashMap<String, Integer> inputHeader = new HashMap<String, Integer>();
+	HashMap<Integer, String> inputHeader_rev = new HashMap<Integer, String>();
 	
 	public static void main(String[] args) {
 		FormatProtegeReport format = new FormatProtegeReport();
@@ -74,6 +75,7 @@ public class FormatProtegeReport {
 	
 	public void run() {
 		readAndSetColumns(configFile);
+		report = new ExcelReport(excelFile);
 		processReport(inputReport);
 		
 	}
@@ -89,24 +91,117 @@ public class FormatProtegeReport {
 			int index = 0;
 			while(!eof) {
 				String line = buff.readLine();
-				if( line == null )
+				if( line == null ) {
 					eof = true;
+					report.close();
+				}
 				else {
 					if( index == 0 ) {
 						//this is the header of the report
 						//map the slot to desired columns
-						line.replace("http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#", "");
+						line = line.replace("http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#", "");
 						String[] headerValues = line.split("\t");
 						for(int i=0; i < headerValues.length; i++) {
-							inputHeader.put(i, headerValues[i]);
-						}							
+							inputHeader.put(headerValues[i], i);
+							inputHeader_rev.put(i, headerValues[i]);
+						}
+						Vector<String> row = new Vector<String>();
+						for(int i=0; i < columns.size(); i++) {
+							if( inputHeader.containsKey(columns.elementAt(i).getProperty().getPropertyId()) ) {
+								String rowString;
+								String propString = columns.elementAt(i).getProperty().getPropertyId();
+								Vector<Qualifier> quals = columns.elementAt(i).getProperty().getQualifiers();
+								if( quals != null ) {
+									String qualString = "{";
+									for( int j=0; j < quals.size(); j++ ) {
+										qualString = qualString.concat("\"" + quals.elementAt(j).getQualifierName() + "\" : ");
+										qualString = qualString.concat("\"" + quals.elementAt(j).getQualifierValue() + "\"");
+										if( j+1 < quals.size() ) {
+											qualString = qualString.concat(",");
+										}
+									}
+									qualString = qualString.concat("}");
+									rowString = propString + " " + qualString;
+								}
+								else {
+									rowString = propString;
+								}
+								row.add(rowString);
+							}
+						}
+						report.printHeader(row);
+						index++;
 					}
 					else {
+						System.out.println("Clearing fields...\n");
+						fields.clear();
 						String[] fieldStrings = line.split("\t");
+						String rowString;
+						Vector<String> row = new Vector<String>();
 						for( int i=0; i < fieldStrings.length; i++) {
 							//TODO: pick up here
+							Field f = new Field(fieldStrings[i], inputHeader_rev.get(i));
+							f.print();
+							fields.add(f);
 						}
-						
+						for( int i=0; i < fields.size(); i++ ) {
+							Field f = fields.elementAt(i);							
+							rowString = "";
+							if( columns.size() > 0 ) {									
+								for( int j=0; j < columns.size(); j++ ) {
+									Property colProp = columns.elementAt(j).getProperty();
+									int colIndex = columns.elementAt(j).getColNumber();  //this is where it gets tricky
+									Vector<Qualifier> colQuals = colProp.getQualifiers();									
+									
+									
+									//check matching property
+									if( colProp.getPropertyId().equals(f.getPropertyName()) ) {
+										//check matching qualifiers
+										Vector<Property> fieldProps = f.getProperties();
+										if( fieldProps.size() > 0 ) {										
+											for(int k=0; k < fieldProps.size(); k++) {
+												boolean add = false;													
+												Property p = fieldProps.elementAt(k);
+												Vector<Qualifier> qs = p.getQualifiers();
+												if( qs != null && qs.size() > 0 ) {
+													//if the colQuals contains any of the field property qualifiers
+													Vector<Boolean> qualifierTesting = new Vector<Boolean>();
+													for( Qualifier colQual : colQuals ) {
+														Boolean contained = false;
+														for( Qualifier q : qs ) {
+															if( q.getQualifierName().equals(colQual.getQualifierName()) &&
+																q.getQualifierValue().equals(colQual.getQualifierValue()) ) 
+																contained = true;
+														}
+														qualifierTesting.add(contained);
+													}
+													if( !qualifierTesting.contains(Boolean.FALSE) ) {
+														add = true;
+													}
+												}
+												else {
+													add = true;
+												}
+												if( add ) {
+													if( rowString.equals("") ) {
+														rowString = p.getPropertyId();
+													}
+													else {
+														rowString = rowString.concat("|" + p.getPropertyId());
+													}
+												}												
+											}
+										}
+									}
+								
+								}
+							}
+							else {
+								//do nothing
+							}
+							row.add(rowString);								
+						}
+						report.printValues(row);
 					}
 					
 				}
@@ -196,15 +291,9 @@ public class FormatProtegeReport {
 					}						
 				}
 			}
-//			for( int i=0; i < columns.size(); i++ ) {
-//				System.out.println(columns.elementAt(i).getColNumber());
-//				System.out.println(columns.elementAt(i).getProperty().getPropertyId());
-//				if( columns.elementAt(i).getProperty().getQualifiers() != null ) {
-//					for( String key : columns.elementAt(i).getProperty().getQualifiers().keySet() ) {
-//						System.out.println(key + "-> " + columns.elementAt(i).getProperty().getQualifiers().get(key));
-//					}
-//				}
-//			}
+			for( int i=0; i < columns.size(); i++ ) {
+				columns.elementAt(i).print();
+			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
