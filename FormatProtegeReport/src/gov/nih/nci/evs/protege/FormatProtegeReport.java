@@ -35,8 +35,9 @@ public class FormatProtegeReport {
 		System.out
 		        .println("Usage: FormatProtegeReport [OPTIONS] ... [RAW REPORT INPUT FILE] [EXCEL OUTPUT FILE]");
 		System.out.println(" ");
-		System.out.println("  -I, --input\t\tpath to match input text file");
-		//more to come maybe
+		System.out.println("  -C, --config\t\tpath to config file");
+		System.out.println("  --help\t\tprint this help");
+ 		//more to come maybe
 		System.exit(1);
 	}
 	
@@ -47,8 +48,8 @@ public class FormatProtegeReport {
 				if (option.equalsIgnoreCase("--help")) {
 					printHelp();
 				}
-				if (option.equalsIgnoreCase("-I")
-				        || option.equalsIgnoreCase("--input")) {
+				if (option.equalsIgnoreCase("-C")
+				        || option.equalsIgnoreCase("--config")) {
 					configFile = args[++i];
 				}
 				else {
@@ -107,11 +108,11 @@ public class FormatProtegeReport {
 						}
 						Vector<String> row = new Vector<String>();
 						for(int i=0; i < columns.size(); i++) {
+							String rowString;							
+							String propString = columns.elementAt(i).getProperty().getPropertyId();							
 							if( inputHeader.containsKey(columns.elementAt(i).getProperty().getPropertyId()) ) {
-								String rowString;
-								String propString = columns.elementAt(i).getProperty().getPropertyId();
 								Vector<Qualifier> quals = columns.elementAt(i).getProperty().getQualifiers();
-								if( quals != null ) {
+								if( quals != null && quals.size() > 0 ) {
 									String qualString = "{";
 									for( int j=0; j < quals.size(); j++ ) {
 										qualString = qualString.concat("\"" + quals.elementAt(j).getQualifierName() + "\" : ");
@@ -126,14 +127,17 @@ public class FormatProtegeReport {
 								else {
 									rowString = propString;
 								}
-								row.add(rowString);
 							}
+							else {
+								rowString = propString;
+							}
+							row.add(rowString);							
 						}
 						report.printHeader(row);
 						index++;
 					}
 					else {
-						System.out.println("Clearing fields...\n");
+//						System.out.println("Clearing fields...\n");
 						fields.clear();
 						String[] fieldStrings = line.split("\t");
 						String rowString;
@@ -141,17 +145,18 @@ public class FormatProtegeReport {
 						for( int i=0; i < fieldStrings.length; i++) {
 							//TODO: pick up here
 							Field f = new Field(fieldStrings[i], inputHeader_rev.get(i));
-							f.print();
+//							f.print();
 							fields.add(f);
 						}
-						for( int i=0; i < fields.size(); i++ ) {
-							Field f = fields.elementAt(i);							
+						for( int i=0; i < columns.size(); i++ ) {
+							Property colProp = columns.elementAt(i).getProperty();
+							int colIndex = columns.elementAt(i).getColNumber();  //TODO
+							Vector<Qualifier> colQuals = colProp.getQualifiers();								
+							
 							rowString = "";
-							if( columns.size() > 0 ) {									
-								for( int j=0; j < columns.size(); j++ ) {
-									Property colProp = columns.elementAt(j).getProperty();
-									int colIndex = columns.elementAt(j).getColNumber();  //this is where it gets tricky
-									Vector<Qualifier> colQuals = colProp.getQualifiers();									
+							if( fields.size() > 0 ) {									
+								for( int j=0; j < fields.size(); j++ ) {
+									Field f = fields.elementAt(j);								
 									
 									
 									//check matching property
@@ -280,7 +285,7 @@ public class FormatProtegeReport {
 
 					}
 					if( propertyId != null ) {
-						System.out.println("Adding " + columnNumber);
+//						System.out.println("Adding " + columnNumber);
 						Column column = new Column(columnNumber, propertyId, qualifiers);
 						columns.add(column);
 					}
@@ -291,9 +296,9 @@ public class FormatProtegeReport {
 					}						
 				}
 			}
-			for( int i=0; i < columns.size(); i++ ) {
-				columns.elementAt(i).print();
-			}
+//			for( int i=0; i < columns.size(); i++ ) {
+//				columns.elementAt(i).print();
+//			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
