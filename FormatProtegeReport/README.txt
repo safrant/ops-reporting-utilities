@@ -12,9 +12,10 @@ Java 1.8 or higher
 Instruction of use
 ------------------
 1. Export a report from Protege 5 based on any number of columns, specified
-by a slot and optional qualifiers.  Currently, columns must be delimited by a tab, and values
-must be delimited by the vertical bar.  Save this file anywhere on your file system. It is
-suggested to save it to this folder for ease of command-line entry.
+by a slot and optional qualifiers.  Be certain the export is configured to include headers. 
+Currently, columns must be delimited by a tab, and values must be delimited by the vertical 
+bar.  Save this file anywhere on your file system. It is suggested to save it to this folder 
+for ease of command-line entry.
 
 2. Create or modify a config file to your desired output specifications.  The default config
 file (which will work with the example input TestReport1) is in the config folder.  The program
