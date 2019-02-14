@@ -19,7 +19,9 @@ public class CDRH_Data {
 		List records = new ArrayList();
 		String lineItem;
 		while ((lineItem = in.readLine()) != null) {
+			if(!lineItem.startsWith("Source")){
 			records.add(splitLine(lineItem));
+			}
 		}
 		return records;
 
@@ -27,9 +29,9 @@ public class CDRH_Data {
 
 	// the field names in order
 	public final static String[] keys = { "source", "subset_code",
-	        "subset_name", "nci_code", "fda_code", "fda_pt", "fda_synonym",
+	        "subset_name", "nci_code", "fda_pt", "fda_code", "imdrf_code","fda_synonym",
 	        "fda_definition", "nci_definition", "parent_ncicode",
-	        "parent_fdacode", "parent_fdapt" };
+	         "parent_fdapt", "parent_fdacode" };
 
 	private static Map splitLine(String record) {
 
@@ -59,11 +61,16 @@ public class CDRH_Data {
 					break;
 			}
 			String s = sb.toString().trim();
+
 			result.put(key, s);
 			index++;
 			if (index >= record.length())
 				break;
 		}
+		if(!result.containsKey("parent_fdacode")){
+			result.put("parent_fdacode", "");
+		}
+				
 
 		return result;
 

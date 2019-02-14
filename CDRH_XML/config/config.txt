@@ -1,0 +1,13 @@
+A=source
+B=subset_code
+C=subset_name
+D=nci_code
+E=fda_pt
+F=fda_code
+G=imrdf_code
+H=fda_synonym
+I=fda_definition
+J=nci_definition
+K=parent_ncicode
+L=parent_fdapt
+M=parent_fdacode
